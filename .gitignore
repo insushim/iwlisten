@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Android build outputs & auto-generated
+android/app/build/
+android/.gradle/
+android/build/
+android/capacitor-cordova-android-plugins/
+android/capacitor-android/
+android/app/src/main/assets/
+
+# Signing keys
+*.keystore
+*.jks
+
+# Built APKs (release artifacts)
+ISW-English-*.apk
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+apk_analysis/

@@ -1,0 +1,25 @@
+{
+  "name": "iwlisten",
+  "version": "1.0.0",
+  "description": "ISW 영어 듣고 말하기 - 실전 영어회화 학습 앱",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Static web app - no build needed'",
+    "cap:add": "npx cap add android",
+    "cap:sync": "npx cap sync android",
+    "cap:open": "npx cap open android"
+  },
+  "keywords": [
+    "english",
+    "learning",
+    "audio"
+  ],
+  "author": "insushim",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@capacitor/android": "^6.2.1",
+    "@capacitor/cli": "^6.2.1",
+    "@capacitor/core": "^6.2.1"
+  }
+}

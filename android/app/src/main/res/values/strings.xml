@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ISW English</string>
+    <string name="title_activity_main">ISW English</string>
+    <string name="package_name">com.isw.english</string>
+    <string name="custom_url_scheme">com.isw.english</string>
+</resources>

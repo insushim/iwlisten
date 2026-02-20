@@ -1,0 +1,11 @@
+{
+  "appId": "com.isw.english",
+  "appName": "ISW English",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
