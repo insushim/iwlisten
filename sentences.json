@@ -1,0 +1,5142 @@
+[
+  {
+    "english": "Open your books to page 25.",
+    "pronunciation": "오픈 요어 북스 투 페이지 트웬티파이브.",
+    "korean": "교과서 25페이지를 펴세요."
+  },
+  {
+    "english": "Pay attention, please.",
+    "pronunciation": "페이 어텐션, 플리즈.",
+    "korean": "주목해 주세요."
+  },
+  {
+    "english": "Raise your hand if you know the answer.",
+    "pronunciation": "레이즈 요어 핸드 이프 유 노우 디 앤서.",
+    "korean": "답을 아는 사람은 손을 드세요."
+  },
+  {
+    "english": "Let's review what we learned yesterday.",
+    "pronunciation": "렛츠 리뷰 왓 위 런드 예스터데이.",
+    "korean": "어제 배운 것을 복습해 봅시다."
+  },
+  {
+    "english": "Take out a piece of paper.",
+    "pronunciation": "테이크 아웃 어 피스 오브 페이퍼.",
+    "korean": "종이를 꺼내세요."
+  },
+  {
+    "english": "Write your name at the top.",
+    "pronunciation": "라이트 요어 네임 앳 더 탑.",
+    "korean": "위쪽에 이름을 쓰세요."
+  },
+  {
+    "english": "Turn in your homework.",
+    "pronunciation": "턴 인 요어 홈워크.",
+    "korean": "숙제를 제출하세요."
+  },
+  {
+    "english": "Class is dismissed.",
+    "pronunciation": "클래스 이즈 디스미스드.",
+    "korean": "수업이 끝났습니다."
+  },
+  {
+    "english": "May I go to the bathroom?",
+    "pronunciation": "메이 아이 고 투 더 배쓰룸?",
+    "korean": "화장실에 가도 될까요?"
+  },
+  {
+    "english": "I don't have a pencil.",
+    "pronunciation": "아이 돈트 해브 어 펜슬.",
+    "korean": "연필이 없어요."
+  },
+  {
+    "english": "Can you explain that again?",
+    "pronunciation": "캔 유 익스플레인 댓 어게인?",
+    "korean": "다시 설명해 주실 수 있나요?"
+  },
+  {
+    "english": "I didn't hear the question.",
+    "pronunciation": "아이 디든트 히어 더 퀘스천.",
+    "korean": "질문을 못 들었어요."
+  },
+  {
+    "english": "May I sharpen my pencil?",
+    "pronunciation": "메이 아이 샤픈 마이 펜슬?",
+    "korean": "연필을 깎아도 될까요?"
+  },
+  {
+    "english": "Can you write that on the board?",
+    "pronunciation": "캔 유 라이트 댓 온 더 보드?",
+    "korean": "칠판에 그것을 써 주실 수 있나요?"
+  },
+  {
+    "english": "How do you spell that?",
+    "pronunciation": "하우 두 유 스펠 댓?",
+    "korean": "그것의 철자가 어떻게 되나요?"
+  },
+  {
+    "english": "What does this word mean?",
+    "pronunciation": "왓 더즈 디스 워드 민?",
+    "korean": "이 단어는 무슨 뜻인가요?"
+  },
+  {
+    "english": "Let's walk to school together.",
+    "pronunciation": "렛츠 워크 투 스쿨 투게더.",
+    "korean": "같이 학교에 걸어가자."
+  },
+  {
+    "english": "I take the school bus.",
+    "pronunciation": "아이 테이크 더 스쿨 버스.",
+    "korean": "나는 스쿨버스를 타요."
+  },
+  {
+    "english": "What class do you have next?",
+    "pronunciation": "왓 클래스 두 유 해브 넥스트?",
+    "korean": "다음 수업은 뭐예요?"
+  },
+  {
+    "english": "I have math class now.",
+    "pronunciation": "아이 해브 매쓰 클래스 나우.",
+    "korean": "지금 수학 수업이 있어요."
+  },
+  {
+    "english": "When is lunch break?",
+    "pronunciation": "웬 이즈 런치 브레이크?",
+    "korean": "점심시간이 언제예요?"
+  },
+  {
+    "english": "Let's eat lunch together.",
+    "pronunciation": "렛츠 잇 런치 투게더.",
+    "korean": "같이 점심 먹자."
+  },
+  {
+    "english": "Where's the library?",
+    "pronunciation": "웨어즈 더 라이브러리?",
+    "korean": "도서관이 어디예요?"
+  },
+  {
+    "english": "We have a field trip next week.",
+    "pronunciation": "위 해브 어 필드 트립 넥스트 위크.",
+    "korean": "다음 주에 현장학습이 있어요."
+  },
+  {
+    "english": "When is the assignment due?",
+    "pronunciation": "웬 이즈 디 어사인먼트 듀?",
+    "korean": "과제 제출 기한이 언제예요?"
+  },
+  {
+    "english": "Did you finish your homework?",
+    "pronunciation": "디드 유 피니쉬 요어 홈워크?",
+    "korean": "숙제 끝냈어?"
+  },
+  {
+    "english": "Can we work in groups?",
+    "pronunciation": "캔 위 워크 인 그룹스?",
+    "korean": "그룹으로 작업해도 되나요?"
+  },
+  {
+    "english": "I need help with this problem.",
+    "pronunciation": "아이 니드 헬프 위드 디스 프라블럼.",
+    "korean": "이 문제를 푸는 데 도움이 필요해요."
+  },
+  {
+    "english": "The test is on Friday.",
+    "pronunciation": "더 테스트 이즈 온 프라이데이.",
+    "korean": "시험은 금요일이에요."
+  },
+  {
+    "english": "Let's study together.",
+    "pronunciation": "렛츠 스터디 투게더.",
+    "korean": "같이 공부하자."
+  },
+  {
+    "english": "What topics will be on the exam?",
+    "pronunciation": "왓 토픽스 윌 비 온 디 이그잼?",
+    "korean": "시험에 어떤 주제가 나오나요?"
+  },
+  {
+    "english": "I'm worried about the test.",
+    "pronunciation": "아임 워리드 어바웃 더 테스트.",
+    "korean": "시험이 걱정돼요."
+  },
+  {
+    "english": "Do you want to sit with us?",
+    "pronunciation": "두 유 원트 투 싯 위드 어스?",
+    "korean": "우리랑 같이 앉을래?"
+  },
+  {
+    "english": "Can I join your group?",
+    "pronunciation": "캔 아이 조인 요어 그룹?",
+    "korean": "너희 그룹에 들어가도 될까?"
+  },
+  {
+    "english": "Let's hang out after school.",
+    "pronunciation": "렛츠 행 아웃 애프터 스쿨.",
+    "korean": "방과 후에 놀자."
+  },
+  {
+    "english": "Do you want to play together?",
+    "pronunciation": "두 유 원트 투 플레이 투게더?",
+    "korean": "같이 놀래?"
+  },
+  {
+    "english": "Save me a seat.",
+    "pronunciation": "세이브 미 어 시트.",
+    "korean": "자리 좀 맡아줘."
+  },
+  {
+    "english": "See you at recess.",
+    "pronunciation": "씨 유 앳 리세스.",
+    "korean": "쉬는 시간에 봐."
+  },
+  {
+    "english": "Are you going to the game?",
+    "pronunciation": "아 유 고잉 투 더 게임?",
+    "korean": "경기 보러 갈 거야?"
+  },
+  {
+    "english": "Thanks for helping me.",
+    "pronunciation": "땡스 포 헬핑 미.",
+    "korean": "도와줘서 고마워."
+  },
+  {
+    "english": "Time to wake up!",
+    "pronunciation": "타임 투 웨이크 업!",
+    "korean": "일어날 시간이야!"
+  },
+  {
+    "english": "Good morning, everyone.",
+    "pronunciation": "굿 모닝, 에브리원.",
+    "korean": "여러분, 좋은 아침이에요."
+  },
+  {
+    "english": "Did you sleep well?",
+    "pronunciation": "디드 유 슬립 웰?",
+    "korean": "잘 잤어?"
+  },
+  {
+    "english": "I need five more minutes.",
+    "pronunciation": "아이 니드 파이브 모어 미닛츠.",
+    "korean": "5분만 더 잘래."
+  },
+  {
+    "english": "Hurry up or you'll be late!",
+    "pronunciation": "허리 업 오어 유일 비 레이트!",
+    "korean": "서둘러, 안 그러면 늦을 거야!"
+  },
+  {
+    "english": "I'm getting ready.",
+    "pronunciation": "아임 게팅 레디.",
+    "korean": "준비하고 있어."
+  },
+  {
+    "english": "Did you brush your teeth?",
+    "pronunciation": "디드 유 브러쉬 요어 티쓰?",
+    "korean": "양치했어?"
+  },
+  {
+    "english": "I'm heading out now.",
+    "pronunciation": "아임 헤딩 아웃 나우.",
+    "korean": "지금 나갈게."
+  },
+  {
+    "english": "Have a good day!",
+    "pronunciation": "해브 어 굿 데이!",
+    "korean": "좋은 하루 보내!"
+  },
+  {
+    "english": "I'm home!",
+    "pronunciation": "아임 홈!",
+    "korean": "다녀왔습니다!"
+  },
+  {
+    "english": "How was school today?",
+    "pronunciation": "하우 워즈 스쿨 투데이?",
+    "korean": "오늘 학교 어땠어?"
+  },
+  {
+    "english": "What did you do today?",
+    "pronunciation": "왓 디드 유 두 투데이?",
+    "korean": "오늘 뭐 했어?"
+  },
+  {
+    "english": "Breakfast is ready.",
+    "pronunciation": "브렉퍼스트 이즈 레디.",
+    "korean": "아침 준비됐어."
+  },
+  {
+    "english": "What's for dinner?",
+    "pronunciation": "왓츠 포 디너?",
+    "korean": "저녁은 뭐예요?"
+  },
+  {
+    "english": "This looks delicious.",
+    "pronunciation": "디스 룩스 딜리셔스.",
+    "korean": "맛있어 보인다."
+  },
+  {
+    "english": "Can you pass me the salt?",
+    "pronunciation": "캔 유 패스 미 더 솔트?",
+    "korean": "소금 좀 건네줄래?"
+  },
+  {
+    "english": "Help yourself.",
+    "pronunciation": "헬프 요어셀프.",
+    "korean": "마음껏 드세요."
+  },
+  {
+    "english": "I'm full now.",
+    "pronunciation": "아임 풀 나우.",
+    "korean": "배불러요."
+  },
+  {
+    "english": "Would you like more?",
+    "pronunciation": "우드 유 라이크 모어?",
+    "korean": "더 드실래요?"
+  },
+  {
+    "english": "Let me do the dishes.",
+    "pronunciation": "렛 미 두 더 디쉬즈.",
+    "korean": "설거지 할게요."
+  },
+  {
+    "english": "I need to go to the store.",
+    "pronunciation": "아이 니드 투 고 투 더 스토어.",
+    "korean": "가게에 가야 해요."
+  },
+  {
+    "english": "Do you need anything?",
+    "pronunciation": "두 유 니드 애니씽?",
+    "korean": "필요한 거 있어?"
+  },
+  {
+    "english": "This is on my shopping list.",
+    "pronunciation": "디스 이즈 온 마이 샤핑 리스트.",
+    "korean": "이게 내 장보기 목록에 있어."
+  },
+  {
+    "english": "How much is this?",
+    "pronunciation": "하우 머치 이즈 디스?",
+    "korean": "이거 얼마예요?"
+  },
+  {
+    "english": "Is this on sale?",
+    "pronunciation": "이즈 디스 온 세일?",
+    "korean": "이거 세일 중이에요?"
+  },
+  {
+    "english": "I'll take two of these.",
+    "pronunciation": "아일 테이크 투 오브 디즈.",
+    "korean": "이거 두 개 살게요."
+  },
+  {
+    "english": "Where can I find bread?",
+    "pronunciation": "웨어 캔 아이 파인드 브레드?",
+    "korean": "빵이 어디 있어요?"
+  },
+  {
+    "english": "Do you accept credit cards?",
+    "pronunciation": "두 유 억셉트 크레딧 카즈?",
+    "korean": "신용카드 받으시나요?"
+  },
+  {
+    "english": "Can I get a bag?",
+    "pronunciation": "캔 아이 겟 어 백?",
+    "korean": "봉투 받을 수 있나요?"
+  },
+  {
+    "english": "Here's your change.",
+    "pronunciation": "히어즈 요어 체인지.",
+    "korean": "거스름돈 여기 있습니다."
+  },
+  {
+    "english": "Do you have the receipt?",
+    "pronunciation": "두 유 해브 더 리시트?",
+    "korean": "영수증 있으세요?"
+  },
+  {
+    "english": "I'm looking for a gift.",
+    "pronunciation": "아임 루킹 포 어 기프트.",
+    "korean": "선물을 찾고 있어요."
+  },
+  {
+    "english": "What size do you wear?",
+    "pronunciation": "왓 사이즈 두 유 웨어?",
+    "korean": "사이즈가 어떻게 되세요?"
+  },
+  {
+    "english": "Can I try it on?",
+    "pronunciation": "캔 아이 트라이 잇 온?",
+    "korean": "입어봐도 될까요?"
+  },
+  {
+    "english": "It fits perfectly.",
+    "pronunciation": "잇 핏츠 퍼펙틀리.",
+    "korean": "완벽하게 맞네요."
+  },
+  {
+    "english": "I need to do laundry.",
+    "pronunciation": "아이 니드 투 두 론드리.",
+    "korean": "빨래를 해야 해요."
+  },
+  {
+    "english": "Can you take out the trash?",
+    "pronunciation": "캔 유 테이크 아웃 더 트래쉬?",
+    "korean": "쓰레기 좀 버려줄래?"
+  },
+  {
+    "english": "Let's tidy up the room.",
+    "pronunciation": "렛츠 타이디 업 더 룸.",
+    "korean": "방을 정리하자."
+  },
+  {
+    "english": "I'll vacuum the floor.",
+    "pronunciation": "아일 배큐엄 더 플로어.",
+    "korean": "바닥에 청소기를 돌릴게요."
+  },
+  {
+    "english": "The plants need water.",
+    "pronunciation": "더 플랜츠 니드 워터.",
+    "korean": "식물에 물을 줘야 해요."
+  },
+  {
+    "english": "Did you make your bed?",
+    "pronunciation": "디드 유 메이크 요어 베드?",
+    "korean": "침대 정리했어?"
+  },
+  {
+    "english": "I'll help you clean up.",
+    "pronunciation": "아일 헬프 유 클린 업.",
+    "korean": "청소 도와줄게."
+  },
+  {
+    "english": "I'm so excited!",
+    "pronunciation": "아임 소 익사이티드!",
+    "korean": "너무 신나!"
+  },
+  {
+    "english": "That's amazing!",
+    "pronunciation": "댓츠 어메이징!",
+    "korean": "대단한데!"
+  },
+  {
+    "english": "I'm so happy for you.",
+    "pronunciation": "아임 소 해피 포 유.",
+    "korean": "너를 위해 정말 기뻐."
+  },
+  {
+    "english": "Don't be sad.",
+    "pronunciation": "돈트 비 새드.",
+    "korean": "슬퍼하지 마."
+  },
+  {
+    "english": "I'm feeling down today.",
+    "pronunciation": "아임 필링 다운 투데이.",
+    "korean": "오늘 기분이 안 좋아."
+  },
+  {
+    "english": "Cheer up!",
+    "pronunciation": "치어 업!",
+    "korean": "힘내!"
+  },
+  {
+    "english": "I'm proud of you.",
+    "pronunciation": "아임 프라우드 오브 유.",
+    "korean": "너 자랑스러워."
+  },
+  {
+    "english": "You did a great job.",
+    "pronunciation": "유 디드 어 그레이트 잡.",
+    "korean": "정말 잘했어."
+  },
+  {
+    "english": "It's freezing outside.",
+    "pronunciation": "잇츠 프리징 아웃사이드.",
+    "korean": "밖이 완전 추워."
+  },
+  {
+    "english": "Don't forget your umbrella.",
+    "pronunciation": "돈트 포겟 요어 엄브렐러.",
+    "korean": "우산 잊지 마."
+  },
+  {
+    "english": "It looks like rain.",
+    "pronunciation": "잇 룩스 라이크 레인.",
+    "korean": "비 올 것 같아."
+  },
+  {
+    "english": "Are you feeling okay?",
+    "pronunciation": "아 유 필링 오케이?",
+    "korean": "괜찮아?"
+  },
+  {
+    "english": "I have a headache.",
+    "pronunciation": "아이 해브 어 헤데이크.",
+    "korean": "머리가 아파."
+  },
+  {
+    "english": "I caught a cold.",
+    "pronunciation": "아이 콧 어 콜드.",
+    "korean": "감기 걸렸어."
+  },
+  {
+    "english": "Get well soon.",
+    "pronunciation": "겟 웰 순.",
+    "korean": "빨리 나아."
+  },
+  {
+    "english": "Did you take your medicine?",
+    "pronunciation": "디드 유 테이크 요어 메디신?",
+    "korean": "약 먹었어?"
+  },
+  {
+    "english": "Can I speak to John?",
+    "pronunciation": "캔 아이 스피크 투 존?",
+    "korean": "존과 통화할 수 있을까요?"
+  },
+  {
+    "english": "Hold on a second.",
+    "pronunciation": "홀드 온 어 세컨드.",
+    "korean": "잠깐만요."
+  },
+  {
+    "english": "I'll call you back.",
+    "pronunciation": "아일 콜 유 백.",
+    "korean": "다시 전화할게요."
+  },
+  {
+    "english": "Can you hear me?",
+    "pronunciation": "캔 유 히어 미?",
+    "korean": "내 말 들려?"
+  },
+  {
+    "english": "The line is bad.",
+    "pronunciation": "더 라인 이즈 배드.",
+    "korean": "전화가 잘 안 들려."
+  },
+  {
+    "english": "Text me when you get home.",
+    "pronunciation": "텍스트 미 웬 유 겟 홈.",
+    "korean": "집에 도착하면 문자해."
+  },
+  {
+    "english": "I sent you a message.",
+    "pronunciation": "아이 센트 유 어 메시지.",
+    "korean": "메시지 보냈어."
+  },
+  {
+    "english": "Did you get my text?",
+    "pronunciation": "디드 유 겟 마이 텍스트?",
+    "korean": "내 문자 받았어?"
+  },
+  {
+    "english": "What are you up to?",
+    "pronunciation": "왓 아 유 업 투?",
+    "korean": "뭐 해?"
+  },
+  {
+    "english": "Are you busy right now?",
+    "pronunciation": "아 유 비지 라이트 나우?",
+    "korean": "지금 바빠?"
+  },
+  {
+    "english": "Let's do something fun.",
+    "pronunciation": "렛츠 두 섬씽 펀.",
+    "korean": "재미있는 거 하자."
+  },
+  {
+    "english": "Where should we meet?",
+    "pronunciation": "웨어 슈드 위 미트?",
+    "korean": "어디서 만날까?"
+  },
+  {
+    "english": "I'm running late.",
+    "pronunciation": "아임 러닝 레이트.",
+    "korean": "늦고 있어."
+  },
+  {
+    "english": "I'll be there soon.",
+    "pronunciation": "아일 비 데어 순.",
+    "korean": "곧 도착할게."
+  },
+  {
+    "english": "Sorry I'm late.",
+    "pronunciation": "쏘리 아임 레이트.",
+    "korean": "늦어서 미안해."
+  },
+  {
+    "english": "No worries.",
+    "pronunciation": "노 워리즈.",
+    "korean": "괜찮아."
+  },
+  {
+    "english": "What do you like to do for fun?",
+    "pronunciation": "왓 두 유 라이크 투 두 포 펀?",
+    "korean": "재미로 뭐 하는 거 좋아해?"
+  },
+  {
+    "english": "I enjoy playing sports.",
+    "pronunciation": "아이 인조이 플레잉 스포츠.",
+    "korean": "운동하는 걸 즐겨."
+  },
+  {
+    "english": "Do you play any instruments?",
+    "pronunciation": "두 유 플레이 애니 인스트루먼츠?",
+    "korean": "악기 연주해?"
+  },
+  {
+    "english": "I like listening to music.",
+    "pronunciation": "아이 라이크 리스닝 투 뮤직.",
+    "korean": "음악 듣는 거 좋아해."
+  },
+  {
+    "english": "Have you seen that new movie?",
+    "pronunciation": "해브 유 신 댓 뉴 무비?",
+    "korean": "그 새 영화 봤어?"
+  },
+  {
+    "english": "Let's watch a movie.",
+    "pronunciation": "렛츠 와치 어 무비.",
+    "korean": "영화 보자."
+  },
+  {
+    "english": "How do I get to the station?",
+    "pronunciation": "하우 두 아이 겟 투 더 스테이션?",
+    "korean": "역에 어떻게 가나요?"
+  },
+  {
+    "english": "Is it far from here?",
+    "pronunciation": "이즈 잇 파 프롬 히어?",
+    "korean": "여기서 멀어요?"
+  },
+  {
+    "english": "It's within walking distance.",
+    "pronunciation": "잇츠 위딘 워킹 디스턴스.",
+    "korean": "걸어갈 만한 거리예요."
+  },
+  {
+    "english": "You can take the bus.",
+    "pronunciation": "유 캔 테이크 더 버스.",
+    "korean": "버스를 타면 돼요."
+  },
+  {
+    "english": "Where's the bus stop?",
+    "pronunciation": "웨어즈 더 버스 스탑?",
+    "korean": "버스 정류장이 어디예요?"
+  },
+  {
+    "english": "Turn left at the corner.",
+    "pronunciation": "턴 레프트 앳 더 코너.",
+    "korean": "모퉁이에서 왼쪽으로 도세요."
+  },
+  {
+    "english": "Go straight ahead.",
+    "pronunciation": "고 스트레이트 어헤드.",
+    "korean": "직진하세요."
+  },
+  {
+    "english": "It's on your right.",
+    "pronunciation": "잇츠 온 요어 라이트.",
+    "korean": "오른쪽에 있어요."
+  },
+  {
+    "english": "I'm on my way to school.",
+    "pronunciation": "아임 온 마이 웨이 투 스쿨.",
+    "korean": "학교 가는 중이에요."
+  },
+  {
+    "english": "I'm in class right now.",
+    "pronunciation": "아임 인 클래스 라이트 나우.",
+    "korean": "지금 수업 중이에요."
+  },
+  {
+    "english": "The bell just rang.",
+    "pronunciation": "더 벨 저스트 랭.",
+    "korean": "방금 종이 쳤어요."
+  },
+  {
+    "english": "I have a lot of homework today.",
+    "pronunciation": "아이 해브 어 랏 오브 홈워크 투데이.",
+    "korean": "오늘 숙제가 많아요."
+  },
+  {
+    "english": "I forgot my homework.",
+    "pronunciation": "아이 포갓 마이 홈워크.",
+    "korean": "숙제를 깜빡했어요."
+  },
+  {
+    "english": "I didn't understand today's lesson.",
+    "pronunciation": "아이 디든트 언더스탠드 투데이즈 레슨.",
+    "korean": "오늘 수업을 이해 못 했어요."
+  },
+  {
+    "english": "What time does school start?",
+    "pronunciation": "왓 타임 더즈 스쿨 스타트?",
+    "korean": "학교는 몇 시에 시작해요?"
+  },
+  {
+    "english": "I'm in the 7th grade.",
+    "pronunciation": "아임 인 더 세븐쓰 그레이드.",
+    "korean": "저는 7학년이에요."
+  },
+  {
+    "english": "Can I borrow a pencil?",
+    "pronunciation": "캔 아이 바로우 어 펜슬?",
+    "korean": "연필 좀 빌려줄 수 있어요?"
+  },
+  {
+    "english": "I need to study for the test.",
+    "pronunciation": "아이 니드 투 스터디 포어 더 테스트.",
+    "korean": "시험 공부를 해야 해요."
+  },
+  {
+    "english": "May I go to the restroom?",
+    "pronunciation": "메이 아이 고 투 더 레스트룸?",
+    "korean": "화장실에 가도 될까요?"
+  },
+  {
+    "english": "Could you explain that again?",
+    "pronunciation": "쿠드 유 익스플레인 댓 어게인?",
+    "korean": "다시 설명해 주실 수 있나요?"
+  },
+  {
+    "english": "Could you speak more slowly, please?",
+    "pronunciation": "쿠드 유 스피크 모어 슬로울리, 플리즈?",
+    "korean": "조금 더 천천히 말씀해 주실래요?"
+  },
+  {
+    "english": "Do we have homework today?",
+    "pronunciation": "두 위 해브 홈워크 투데이?",
+    "korean": "오늘 숙제 있나요?"
+  },
+  {
+    "english": "What page are we on?",
+    "pronunciation": "왓 페이지 아 위 온?",
+    "korean": "우리 몇 페이지 하고 있어요?"
+  },
+  {
+    "english": "Is it okay if I ask a question?",
+    "pronunciation": "이즈 잇 오케이 이프 아이 애스크 어 퀘스천?",
+    "korean": "질문해도 될까요?"
+  },
+  {
+    "english": "We have a science fair this Friday.",
+    "pronunciation": "위 해브 어 사이언스 페어 디스 프라이데이.",
+    "korean": "이번 금요일에 과학 전시회가 있어요."
+  },
+  {
+    "english": "The exam period starts next week.",
+    "pronunciation": "더 이그잼 피리어드 스타츠 넥스트 위크.",
+    "korean": "다음 주에 시험 기간이 시작돼요."
+  },
+  {
+    "english": "I have to submit my project by tomorrow.",
+    "pronunciation": "아이 해브 투 서밋 마이 프로젝트 바이 투모로우.",
+    "korean": "내일까지 프로젝트를 제출해야 해요."
+  },
+  {
+    "english": "I'm taking part in a school competition.",
+    "pronunciation": "아임 테이킹 파트 인 어 스쿨 컴페티션.",
+    "korean": "학교 대회에 참가해요."
+  },
+  {
+    "english": "I'm nervous about the exam.",
+    "pronunciation": "아임 너버스 어바웃 더 이그잼.",
+    "korean": "시험이 걱정돼요."
+  },
+  {
+    "english": "I did well on the test.",
+    "pronunciation": "아이 디드 웰 온 더 테스트.",
+    "korean": "시험을 잘 봤어요."
+  },
+  {
+    "english": "I didn't do well on the exam.",
+    "pronunciation": "아이 디든트 두 웰 온 더 이그잼.",
+    "korean": "시험을 망쳤어요."
+  },
+  {
+    "english": "I got a good grade.",
+    "pronunciation": "아이 갓 어 굿 그레이드.",
+    "korean": "좋은 성적 받았어요."
+  },
+  {
+    "english": "I need to study harder.",
+    "pronunciation": "아이 니드 투 스터디 하더.",
+    "korean": "더 열심히 공부해야 해요."
+  },
+  {
+    "english": "My grades have improved.",
+    "pronunciation": "마이 그레이즈 해브 임프루브드.",
+    "korean": "성적이 올랐어요."
+  },
+  {
+    "english": "I want to improve my English score.",
+    "pronunciation": "아이 원트 투 임프루브 마이 잉글리쉬 스코어.",
+    "korean": "영어 점수를 올리고 싶어요."
+  },
+  {
+    "english": "I'm studying for the midterm exams.",
+    "pronunciation": "아임 스터디잉 포어 더 미드텀 이그잼즈.",
+    "korean": "중간고사 공부 중이에요."
+  },
+  {
+    "english": "When are the finals?",
+    "pronunciation": "웬 아 더 파이널즈?",
+    "korean": "기말고사는 언제예요?"
+  },
+  {
+    "english": "The test was really hard.",
+    "pronunciation": "더 테스트 워즈 리얼리 하드.",
+    "korean": "시험이 정말 어려웠어요."
+  },
+  {
+    "english": "I was late for class.",
+    "pronunciation": "아이 워즈 레이트 포어 클래스.",
+    "korean": "수업에 늦었어요."
+  },
+  {
+    "english": "I stayed up all night studying.",
+    "pronunciation": "아이 스테이드 업 올 나잇 스터디잉.",
+    "korean": "공부하느라 밤을 새웠어."
+  },
+  {
+    "english": "I'm so tired from studying.",
+    "pronunciation": "아임 소 타이어드 프롬 스터디잉.",
+    "korean": "공부하느라 너무 피곤해."
+  },
+  {
+    "english": "I'm going to fail this test.",
+    "pronunciation": "아임 고잉 투 페일 디스 테스트.",
+    "korean": "이번 시험 망칠 것 같아."
+  },
+  {
+    "english": "Don't worry, you'll do fine.",
+    "pronunciation": "돈트 워리, 유일 두 파인.",
+    "korean": "걱정 마, 넌 잘 볼 거야."
+  },
+  {
+    "english": "The teacher gave us extra homework.",
+    "pronunciation": "더 티처 게이브 어스 익스트라 홈워크.",
+    "korean": "선생님이 숙제를 더 내주셨어."
+  },
+  {
+    "english": "We have a pop quiz today.",
+    "pronunciation": "위 해브 어 팝 퀴즈 투데이.",
+    "korean": "오늘 쪽지시험 봤어."
+  },
+  {
+    "english": "I need to ask a question after class.",
+    "pronunciation": "아이 니드 투 애스크 어 퀘스천 애프터 클래스.",
+    "korean": "수업 끝나고 질문 좀 해야겠어."
+  },
+  {
+    "english": "I lost my textbook.",
+    "pronunciation": "아이 로스트 마이 텍스트북.",
+    "korean": "교과서를 잃어버렸어."
+  },
+  {
+    "english": "I left my book at home.",
+    "pronunciation": "아이 레프트 마이 북 앳 홈.",
+    "korean": "책을 집에 두고 왔어."
+  },
+  {
+    "english": "Can I share your textbook?",
+    "pronunciation": "캔 아이 셰어 요어 텍스트북?",
+    "korean": "너 책 같이 봐도 될까?"
+  },
+  {
+    "english": "We're not allowed to use phones in class.",
+    "pronunciation": "위어 낫 얼라우드 투 유즈 폰즈 인 클래스.",
+    "korean": "수업 시간에 휴대폰 사용 금지야."
+  },
+  {
+    "english": "The lunch break is one hour.",
+    "pronunciation": "더 런치 브레이크 이즈 원 아워.",
+    "korean": "점심시간은 한 시간이야."
+  },
+  {
+    "english": "What's for lunch today?",
+    "pronunciation": "왓츠 포어 런치 투데이?",
+    "korean": "오늘 점심 뭐야?"
+  },
+  {
+    "english": "The cafeteria food is pretty good.",
+    "pronunciation": "더 카페테리아 푸드 이즈 프리티 굿.",
+    "korean": "학교 급식 꽤 맛있어."
+  },
+  {
+    "english": "I brought my lunch from home.",
+    "pronunciation": "아이 브롯 마이 런치 프롬 홈.",
+    "korean": "점심 도시락 가져왔어."
+  },
+  {
+    "english": "Let's eat in the cafeteria.",
+    "pronunciation": "렛츠 잇 인 더 카페테리아.",
+    "korean": "학생식당에서 먹자."
+  },
+  {
+    "english": "Hello, how are you?",
+    "pronunciation": "헬로, 하우 아 유?",
+    "korean": "안녕하세요, 어떻게 지내세요?"
+  },
+  {
+    "english": "I'm fine, thank you.",
+    "pronunciation": "아임 파인, 뎅큐.",
+    "korean": "저는 괜찮습니다, 감사합니다."
+  },
+  {
+    "english": "Nice to meet you.",
+    "pronunciation": "나이스 투 미트 유.",
+    "korean": "만나서 반갑습니다."
+  },
+  {
+    "english": "What's your name?",
+    "pronunciation": "왓츠 요어 네임?",
+    "korean": "이름이 뭐예요?"
+  },
+  {
+    "english": "My name is John.",
+    "pronunciation": "마이 네임 이즈 존.",
+    "korean": "제 이름은 존입니다."
+  },
+  {
+    "english": "Please help me.",
+    "pronunciation": "플리즈 헬프 미.",
+    "korean": "도와주세요."
+  },
+  {
+    "english": "Thank you very much.",
+    "pronunciation": "뎅큐 베리 머치.",
+    "korean": "정말 감사합니다."
+  },
+  {
+    "english": "You're welcome.",
+    "pronunciation": "유어 웰컴.",
+    "korean": "천만에요."
+  },
+  {
+    "english": "Excuse me.",
+    "pronunciation": "익스큐즈 미.",
+    "korean": "실례합니다."
+  },
+  {
+    "english": "I'm sorry.",
+    "pronunciation": "아임 쏘리.",
+    "korean": "죄송합니다."
+  },
+  {
+    "english": "Good morning.",
+    "pronunciation": "굿 모닝.",
+    "korean": "좋은 아침입니다."
+  },
+  {
+    "english": "Good afternoon.",
+    "pronunciation": "굿 애프터눈.",
+    "korean": "좋은 오후입니다."
+  },
+  {
+    "english": "Good evening.",
+    "pronunciation": "굿 이브닝.",
+    "korean": "좋은 저녁입니다."
+  },
+  {
+    "english": "Good night.",
+    "pronunciation": "굿 나잇.",
+    "korean": "안녕히 주무세요."
+  },
+  {
+    "english": "See you later.",
+    "pronunciation": "씨 유 레이터.",
+    "korean": "나중에 봐요."
+  },
+  {
+    "english": "Have a nice day.",
+    "pronunciation": "해브 어 나이스 데이.",
+    "korean": "좋은 하루 되세요."
+  },
+  {
+    "english": "How do you do?",
+    "pronunciation": "하우 두 유 두?",
+    "korean": "처음 뵙겠습니다."
+  },
+  {
+    "english": "I don't understand.",
+    "pronunciation": "아이 돈트 언더스탠드.",
+    "korean": "이해하지 못하겠습니다."
+  },
+  {
+    "english": "Could you repeat that?",
+    "pronunciation": "쿠드 유 리피트 댓?",
+    "korean": "다시 말씀해 주시겠어요?"
+  },
+  {
+    "english": "Do you speak English?",
+    "pronunciation": "두 유 스피크 잉글리쉬?",
+    "korean": "영어 하세요?"
+  },
+  {
+    "english": "I speak a little English.",
+    "pronunciation": "아이 스피크 어 리틀 잉글리쉬.",
+    "korean": "영어를 조금 할 수 있어요."
+  },
+  {
+    "english": "Please speak slowly.",
+    "pronunciation": "플리즈 스피크 슬로우리.",
+    "korean": "천천히 말해 주세요."
+  },
+  {
+    "english": "What does this mean?",
+    "pronunciation": "왓 더즈 디스 민?",
+    "korean": "이게 무슨 뜻이에요?"
+  },
+  {
+    "english": "How do you say this?",
+    "pronunciation": "하우 두 유 세이 디스?",
+    "korean": "이걸 어떻게 말해요?"
+  },
+  {
+    "english": "I'm learning English.",
+    "pronunciation": "아임 러닝 잉글리쉬.",
+    "korean": "영어를 배우고 있어요."
+  },
+  {
+    "english": "That's correct.",
+    "pronunciation": "댓츠 커렉트.",
+    "korean": "맞습니다."
+  },
+  {
+    "english": "That's wrong.",
+    "pronunciation": "댓츠 롱.",
+    "korean": "틀렸습니다."
+  },
+  {
+    "english": "I know.",
+    "pronunciation": "아이 노우.",
+    "korean": "알아요."
+  },
+  {
+    "english": "I don't know.",
+    "pronunciation": "아이 돈트 노우.",
+    "korean": "모르겠어요."
+  },
+  {
+    "english": "Maybe.",
+    "pronunciation": "메이비.",
+    "korean": "아마도."
+  },
+  {
+    "english": "Of course.",
+    "pronunciation": "오브 코스.",
+    "korean": "물론이죠."
+  },
+  {
+    "english": "No problem.",
+    "pronunciation": "노 프라블럼.",
+    "korean": "문제없어요."
+  },
+  {
+    "english": "That's okay.",
+    "pronunciation": "댓츠 오케이.",
+    "korean": "괜찮아요."
+  },
+  {
+    "english": "Don't worry.",
+    "pronunciation": "돈트 워리.",
+    "korean": "걱정하지 마세요."
+  },
+  {
+    "english": "Take care.",
+    "pronunciation": "테이크 케어.",
+    "korean": "조심하세요."
+  },
+  {
+    "english": "Good luck.",
+    "pronunciation": "굿 럭.",
+    "korean": "행운을 빌어요."
+  },
+  {
+    "english": "Congratulations.",
+    "pronunciation": "컨그래츄레이션즈.",
+    "korean": "축하해요."
+  },
+  {
+    "english": "Happy birthday.",
+    "pronunciation": "해피 버스데이.",
+    "korean": "생일 축하해요."
+  },
+  {
+    "english": "Merry Christmas.",
+    "pronunciation": "메리 크리스마스.",
+    "korean": "메리 크리스마스."
+  },
+  {
+    "english": "Happy New Year.",
+    "pronunciation": "해피 뉴 이어.",
+    "korean": "새해 복 많이 받으세요."
+  },
+  {
+    "english": "Welcome.",
+    "pronunciation": "웰컴.",
+    "korean": "환영합니다."
+  },
+  {
+    "english": "Come in.",
+    "pronunciation": "컴 인.",
+    "korean": "들어오세요."
+  },
+  {
+    "english": "Sit down, please.",
+    "pronunciation": "싯 다운, 플리즈.",
+    "korean": "앉으세요."
+  },
+  {
+    "english": "Make yourself at home.",
+    "pronunciation": "메이크 요어셀프 앳 홈.",
+    "korean": "편히 계세요."
+  },
+  {
+    "english": "Would you like something to drink?",
+    "pronunciation": "우드 유 라이크 섬씽 투 드링크?",
+    "korean": "뭔가 마실 것 드릴까요?"
+  },
+  {
+    "english": "That's very kind of you.",
+    "pronunciation": "댓츠 베리 카인드 오브 유.",
+    "korean": "정말 친절하시네요."
+  },
+  {
+    "english": "I appreciate it.",
+    "pronunciation": "아이 어프리시에이트 잇.",
+    "korean": "감사합니다."
+  },
+  {
+    "english": "You're so helpful.",
+    "pronunciation": "유어 소 헬프풀.",
+    "korean": "정말 도움이 많이 되네요."
+  },
+  {
+    "english": "I'm grateful.",
+    "pronunciation": "아임 그레이트풀.",
+    "korean": "감사드려요."
+  },
+  {
+    "english": "That's wonderful.",
+    "pronunciation": "댓츠 원더풀.",
+    "korean": "정말 좋네요."
+  },
+  {
+    "english": "What time is it?",
+    "pronunciation": "왓 타임 이즈 잇?",
+    "korean": "몇 시예요?"
+  },
+  {
+    "english": "Where are you from?",
+    "pronunciation": "웨어 아 유 프롬?",
+    "korean": "어디서 오셨어요?"
+  },
+  {
+    "english": "I'm from Korea.",
+    "pronunciation": "아임 프롬 코리아.",
+    "korean": "저는 한국에서 왔습니다."
+  },
+  {
+    "english": "How old are you?",
+    "pronunciation": "하우 올드 아 유?",
+    "korean": "몇 살이세요?"
+  },
+  {
+    "english": "What do you do?",
+    "pronunciation": "왓 두 유 두?",
+    "korean": "무슨 일 하세요?"
+  },
+  {
+    "english": "I'm a student.",
+    "pronunciation": "아임 어 스튜던트.",
+    "korean": "저는 학생입니다."
+  },
+  {
+    "english": "Where do you live?",
+    "pronunciation": "웨어 두 유 리브?",
+    "korean": "어디에 사세요?"
+  },
+  {
+    "english": "I live in Seoul.",
+    "pronunciation": "아이 리브 인 서울.",
+    "korean": "서울에 살아요."
+  },
+  {
+    "english": "What's this?",
+    "pronunciation": "왓츠 디스?",
+    "korean": "이게 뭐예요?"
+  },
+  {
+    "english": "What's that?",
+    "pronunciation": "왓츠 댓?",
+    "korean": "저게 뭐예요?"
+  },
+  {
+    "english": "How much is this?",
+    "pronunciation": "하우 머치 이즈 디스?",
+    "korean": "이게 얼마예요?"
+  },
+  {
+    "english": "Can you help me?",
+    "pronunciation": "캔 유 헬프 미?",
+    "korean": "도와주실 수 있나요?"
+  },
+  {
+    "english": "Yes, I can.",
+    "pronunciation": "예스, 아이 캔.",
+    "korean": "네, 할 수 있습니다."
+  },
+  {
+    "english": "No, I can't.",
+    "pronunciation": "노, 아이 캔트.",
+    "korean": "아니요, 할 수 없습니다."
+  },
+  {
+    "english": "What's wrong?",
+    "pronunciation": "왓츠 롱?",
+    "korean": "뭐가 잘못됐나요?"
+  },
+  {
+    "english": "Are you okay?",
+    "pronunciation": "아 유 오케이?",
+    "korean": "괜찮으세요?"
+  },
+  {
+    "english": "I'm okay.",
+    "pronunciation": "아임 오케이.",
+    "korean": "괜찮습니다."
+  },
+  {
+    "english": "What's your phone number?",
+    "pronunciation": "왓츠 요어 폰 넘버?",
+    "korean": "전화번호가 뭐예요?"
+  },
+  {
+    "english": "Do you have time?",
+    "pronunciation": "두 유 해브 타임?",
+    "korean": "시간 있으세요?"
+  },
+  {
+    "english": "What's your hobby?",
+    "pronunciation": "왓츠 요어 하비?",
+    "korean": "취미가 뭐예요?"
+  },
+  {
+    "english": "I like reading.",
+    "pronunciation": "아이 라이크 리딩.",
+    "korean": "저는 독서를 좋아합니다."
+  },
+  {
+    "english": "What's the weather like?",
+    "pronunciation": "왓츠 더 웨더 라이크?",
+    "korean": "날씨가 어때요?"
+  },
+  {
+    "english": "It's sunny today.",
+    "pronunciation": "잇츠 써니 투데이.",
+    "korean": "오늘 날씨가 맑아요."
+  },
+  {
+    "english": "It's raining.",
+    "pronunciation": "잇츠 레이닝.",
+    "korean": "비가 와요."
+  },
+  {
+    "english": "It's cold.",
+    "pronunciation": "잇츠 콜드.",
+    "korean": "추워요."
+  },
+  {
+    "english": "It's hot.",
+    "pronunciation": "잇츠 핫.",
+    "korean": "더워요."
+  },
+  {
+    "english": "It's windy.",
+    "pronunciation": "잇츠 윈디.",
+    "korean": "바람이 불어요."
+  },
+  {
+    "english": "What day is today?",
+    "pronunciation": "왓 데이 이즈 투데이?",
+    "korean": "오늘이 무슨 요일이에요?"
+  },
+  {
+    "english": "Today is Monday.",
+    "pronunciation": "투데이 이즈 먼데이.",
+    "korean": "오늘은 월요일이에요."
+  },
+  {
+    "english": "What's the date today?",
+    "pronunciation": "왓츠 더 데이트 투데이?",
+    "korean": "오늘이 며칠이에요?"
+  },
+  {
+    "english": "It's January first.",
+    "pronunciation": "잇츠 잰유어리 퍼스트.",
+    "korean": "1월 1일이에요."
+  },
+  {
+    "english": "What's your favorite color?",
+    "pronunciation": "왓츠 요어 페이버릿 컬러?",
+    "korean": "좋아하는 색깔이 뭐예요?"
+  },
+  {
+    "english": "I like blue.",
+    "pronunciation": "아이 라이크 블루.",
+    "korean": "파란색을 좋아해요."
+  },
+  {
+    "english": "What's your favorite food?",
+    "pronunciation": "왓츠 요어 페이버릿 푸드?",
+    "korean": "좋아하는 음식이 뭐예요?"
+  },
+  {
+    "english": "I love pizza.",
+    "pronunciation": "아이 러브 피자.",
+    "korean": "피자를 좋아해요."
+  },
+  {
+    "english": "Do you like coffee?",
+    "pronunciation": "두 유 라이크 커피?",
+    "korean": "커피 좋아하세요?"
+  },
+  {
+    "english": "I prefer tea.",
+    "pronunciation": "아이 프리퍼 티.",
+    "korean": "차를 더 좋아해요."
+  },
+  {
+    "english": "What's your dream?",
+    "pronunciation": "왓츠 요어 드림?",
+    "korean": "꿈이 뭐예요?"
+  },
+  {
+    "english": "I want to be successful.",
+    "pronunciation": "아이 원트 투 비 석세스풀.",
+    "korean": "성공하고 싶어요."
+  },
+  {
+    "english": "What are you thinking about?",
+    "pronunciation": "왓 아 유 띵킹 어바웃?",
+    "korean": "뭘 생각하고 있어요?"
+  },
+  {
+    "english": "Nothing special.",
+    "pronunciation": "낫씽 스페셜.",
+    "korean": "별거 아니에요."
+  },
+  {
+    "english": "That's interesting.",
+    "pronunciation": "댓츠 인터레스팅.",
+    "korean": "흥미롭네요."
+  },
+  {
+    "english": "I agree with you.",
+    "pronunciation": "아이 어그리 위드 유.",
+    "korean": "동의해요."
+  },
+  {
+    "english": "I disagree.",
+    "pronunciation": "아이 디스어그리.",
+    "korean": "동의하지 않아요."
+  },
+  {
+    "english": "That's a good idea.",
+    "pronunciation": "댓츠 어 굿 아이디어.",
+    "korean": "좋은 생각이에요."
+  },
+  {
+    "english": "Let me think about it.",
+    "pronunciation": "렛 미 띵크 어바웃 잇.",
+    "korean": "생각해 볼게요."
+  },
+  {
+    "english": "I changed my mind.",
+    "pronunciation": "아이 체인지드 마이 마인드.",
+    "korean": "마음을 바꿨어요."
+  },
+  {
+    "english": "It depends.",
+    "pronunciation": "잇 디펜즈.",
+    "korean": "상황에 따라 다르죠."
+  },
+  {
+    "english": "How's the weather?",
+    "pronunciation": "하우즈 더 웨더?",
+    "korean": "날씨가 어떤가요?"
+  },
+  {
+    "english": "I'm a teacher.",
+    "pronunciation": "아임 어 티처.",
+    "korean": "저는 선생님입니다."
+  },
+  {
+    "english": "I work at a company.",
+    "pronunciation": "아이 워크 앳 어 컴퍼니.",
+    "korean": "회사에서 일해요."
+  },
+  {
+    "english": "I'm hungry.",
+    "pronunciation": "아임 헝그리.",
+    "korean": "배고파요."
+  },
+  {
+    "english": "I'm thirsty.",
+    "pronunciation": "아임 써스티.",
+    "korean": "목말라요."
+  },
+  {
+    "english": "I'm tired.",
+    "pronunciation": "아임 타이어드.",
+    "korean": "피곤해요."
+  },
+  {
+    "english": "I'm busy.",
+    "pronunciation": "아임 비지.",
+    "korean": "바빠요."
+  },
+  {
+    "english": "I'm free.",
+    "pronunciation": "아임 프리.",
+    "korean": "한가해요."
+  },
+  {
+    "english": "Let's go.",
+    "pronunciation": "렛츠 고.",
+    "korean": "가자."
+  },
+  {
+    "english": "Let's stay.",
+    "pronunciation": "렛츠 스테이.",
+    "korean": "있자."
+  },
+  {
+    "english": "Wait a minute.",
+    "pronunciation": "웨잇 어 미닛.",
+    "korean": "잠깐만요."
+  },
+  {
+    "english": "I have to go now.",
+    "pronunciation": "아이 해브 투 고 나우.",
+    "korean": "이제 가야 해요."
+  },
+  {
+    "english": "What are you doing?",
+    "pronunciation": "왓 아 유 두잉?",
+    "korean": "뭐 하고 있어요?"
+  },
+  {
+    "english": "I'm working.",
+    "pronunciation": "아임 워킹.",
+    "korean": "일하고 있어요."
+  },
+  {
+    "english": "I'm studying.",
+    "pronunciation": "아임 스터디잉.",
+    "korean": "공부하고 있어요."
+  },
+  {
+    "english": "I'm cooking.",
+    "pronunciation": "아임 쿠킹.",
+    "korean": "요리하고 있어요."
+  },
+  {
+    "english": "I'm watching TV.",
+    "pronunciation": "아임 와칭 티비.",
+    "korean": "TV를 보고 있어요."
+  },
+  {
+    "english": "Are you free tomorrow?",
+    "pronunciation": "아 유 프리 투모로우?",
+    "korean": "내일 시간 있어요?"
+  },
+  {
+    "english": "Let's meet tomorrow.",
+    "pronunciation": "렛츠 미트 투모로우.",
+    "korean": "내일 만나요."
+  },
+  {
+    "english": "What time shall we meet?",
+    "pronunciation": "왓 타임 쉘 위 미트?",
+    "korean": "몇 시에 만날까요?"
+  },
+  {
+    "english": "See you tomorrow.",
+    "pronunciation": "씨 유 투모로우.",
+    "korean": "내일 봐요."
+  },
+  {
+    "english": "I'll call you.",
+    "pronunciation": "아일 콜 유.",
+    "korean": "전화할게요."
+  },
+  {
+    "english": "Call me later.",
+    "pronunciation": "콜 미 레이터.",
+    "korean": "나중에 전화해 주세요."
+  },
+  {
+    "english": "I miss you.",
+    "pronunciation": "아이 미스 유.",
+    "korean": "보고 싶어요."
+  },
+  {
+    "english": "How was your day?",
+    "pronunciation": "하우 워즈 요어 데이?",
+    "korean": "오늘 하루 어땠어요?"
+  },
+  {
+    "english": "It was great.",
+    "pronunciation": "잇 워즈 그레이트.",
+    "korean": "아주 좋았어요."
+  },
+  {
+    "english": "It was terrible.",
+    "pronunciation": "잇 워즈 테러블.",
+    "korean": "끔찍했어요."
+  },
+  {
+    "english": "Not bad.",
+    "pronunciation": "낫 배드.",
+    "korean": "나쁘지 않아요."
+  },
+  {
+    "english": "So-so.",
+    "pronunciation": "소우소우.",
+    "korean": "그저 그래요."
+  },
+  {
+    "english": "What's new?",
+    "pronunciation": "왓츠 뉴?",
+    "korean": "새로운 소식이 있나요?"
+  },
+  {
+    "english": "Nothing much.",
+    "pronunciation": "낫씽 머치.",
+    "korean": "별로 없어요."
+  },
+  {
+    "english": "How's your family?",
+    "pronunciation": "하우즈 요어 패밀리?",
+    "korean": "가족은 어떻게 지내세요?"
+  },
+  {
+    "english": "They're fine.",
+    "pronunciation": "데어 파인.",
+    "korean": "잘 지내요."
+  },
+  {
+    "english": "Where are you going?",
+    "pronunciation": "웨어 아 유 고잉?",
+    "korean": "어디 가세요?"
+  },
+  {
+    "english": "I'm going home.",
+    "pronunciation": "아임 고잉 홈.",
+    "korean": "집에 가요."
+  },
+  {
+    "english": "I'm going to work.",
+    "pronunciation": "아임 고잉 투 워크.",
+    "korean": "직장에 가요."
+  },
+  {
+    "english": "I'm going shopping.",
+    "pronunciation": "아임 고잉 샤핑.",
+    "korean": "쇼핑하러 가요."
+  },
+  {
+    "english": "Where did you go?",
+    "pronunciation": "웨어 디드 유 고?",
+    "korean": "어디 갔다 왔어요?"
+  },
+  {
+    "english": "I went to the park.",
+    "pronunciation": "아이 웬트 투 더 파크.",
+    "korean": "공원에 갔다 왔어요."
+  },
+  {
+    "english": "How did you get here?",
+    "pronunciation": "하우 디드 유 겟 히어?",
+    "korean": "어떻게 여기 오셨어요?"
+  },
+  {
+    "english": "I came by car.",
+    "pronunciation": "아이 케임 바이 카.",
+    "korean": "차로 왔어요."
+  },
+  {
+    "english": "I walked here.",
+    "pronunciation": "아이 워크드 히어.",
+    "korean": "걸어서 왔어요."
+  },
+  {
+    "english": "How long does it take?",
+    "pronunciation": "하우 롱 더즈 잇 테이크?",
+    "korean": "얼마나 걸려요?"
+  },
+  {
+    "english": "It takes about 10 minutes.",
+    "pronunciation": "잇 테익스 어바웃 텐 미닛츠.",
+    "korean": "약 10분 걸려요."
+  },
+  {
+    "english": "What's your plan?",
+    "pronunciation": "왓츠 요어 플랜?",
+    "korean": "계획이 뭐예요?"
+  },
+  {
+    "english": "I don't have any plans.",
+    "pronunciation": "아이 돈트 해브 애니 플랜즈.",
+    "korean": "계획이 없어요."
+  },
+  {
+    "english": "Do you want to come?",
+    "pronunciation": "두 유 원트 투 컴?",
+    "korean": "같이 갈래요?"
+  },
+  {
+    "english": "Sure, I'd love to.",
+    "pronunciation": "슈어, 아이드 러브 투.",
+    "korean": "네, 좋아요."
+  },
+  {
+    "english": "I can't make it.",
+    "pronunciation": "아이 캔트 메이크 잇.",
+    "korean": "못 갈 것 같아요."
+  },
+  {
+    "english": "Maybe next time.",
+    "pronunciation": "메이비 넥스트 타임.",
+    "korean": "다음에 해요."
+  },
+  {
+    "english": "Have a good time.",
+    "pronunciation": "해브 어 굿 타임.",
+    "korean": "즐거운 시간 보내세요."
+  },
+  {
+    "english": "Take it easy.",
+    "pronunciation": "테이크 잇 이지.",
+    "korean": "무리하지 마세요."
+  },
+  {
+    "english": "Don't work too hard.",
+    "pronunciation": "돈트 워크 투 하드.",
+    "korean": "너무 열심히 일하지 마세요."
+  },
+  {
+    "english": "Get some rest.",
+    "pronunciation": "겟 섬 레스트.",
+    "korean": "좀 쉬세요."
+  },
+  {
+    "english": "Sleep well.",
+    "pronunciation": "슬립 웰.",
+    "korean": "잘 주무세요."
+  },
+  {
+    "english": "Sweet dreams.",
+    "pronunciation": "스위트 드림즈.",
+    "korean": "좋은 꿈 꾸세요."
+  },
+  {
+    "english": "I'd like to buy this.",
+    "pronunciation": "아이드 라이크 투 바이 디스.",
+    "korean": "이것을 사고 싶어요."
+  },
+  {
+    "english": "How much does it cost?",
+    "pronunciation": "하우 머치 더즈 잇 코스트?",
+    "korean": "얼마예요?"
+  },
+  {
+    "english": "It's too expensive.",
+    "pronunciation": "잇츠 투 익스펜시브.",
+    "korean": "너무 비싸요."
+  },
+  {
+    "english": "Do you have a discount?",
+    "pronunciation": "두 유 해브 어 디스카운트?",
+    "korean": "할인 있나요?"
+  },
+  {
+    "english": "Can I pay by credit card?",
+    "pronunciation": "캔 아이 페이 바이 크레딧 카드?",
+    "korean": "신용카드로 결제할 수 있나요?"
+  },
+  {
+    "english": "Cash or card?",
+    "pronunciation": "캐시 오어 카드?",
+    "korean": "현금인가요 카드인가요?"
+  },
+  {
+    "english": "I'll take it.",
+    "pronunciation": "아일 테이크 잇.",
+    "korean": "이걸로 할게요."
+  },
+  {
+    "english": "Can I try this on?",
+    "pronunciation": "캔 아이 트라이 디스 온?",
+    "korean": "입어봐도 될까요?"
+  },
+  {
+    "english": "Do you have this in a different size?",
+    "pronunciation": "두 유 해브 디스 인 어 디퍼런트 사이즈?",
+    "korean": "다른 사이즈 있나요?"
+  },
+  {
+    "english": "Where is the fitting room?",
+    "pronunciation": "웨어 이즈 더 피팅 룸?",
+    "korean": "탈의실이 어디예요?"
+  },
+  {
+    "english": "I'm just looking.",
+    "pronunciation": "아임 저스트 루킹.",
+    "korean": "그냥 구경하는 거예요."
+  },
+  {
+    "english": "Do you need help?",
+    "pronunciation": "두 유 니드 헬프?",
+    "korean": "도움이 필요하신가요?"
+  },
+  {
+    "english": "I need a receipt.",
+    "pronunciation": "아이 니드 어 리시트.",
+    "korean": "영수증이 필요해요."
+  },
+  {
+    "english": "Can I return this?",
+    "pronunciation": "캔 아이 리턴 디스?",
+    "korean": "이것을 반품할 수 있나요?"
+  },
+  {
+    "english": "Where is customer service?",
+    "pronunciation": "웨어 이즈 커스터머 서비스?",
+    "korean": "고객서비스센터가 어디예요?"
+  },
+  {
+    "english": "Is there a warranty?",
+    "pronunciation": "이즈 데어 어 워런티?",
+    "korean": "보증서가 있나요?"
+  },
+  {
+    "english": "What's on sale today?",
+    "pronunciation": "왓츠 온 세일 투데이?",
+    "korean": "오늘 뭐가 세일인가요?"
+  },
+  {
+    "english": "Do you have this in stock?",
+    "pronunciation": "두 유 해브 디스 인 스탁?",
+    "korean": "이게 재고가 있나요?"
+  },
+  {
+    "english": "When will it be available?",
+    "pronunciation": "웬 윌 잇 비 어베일러블?",
+    "korean": "언제 구할 수 있나요?"
+  },
+  {
+    "english": "I'd like to exchange this.",
+    "pronunciation": "아이드 라이크 투 익스체인지 디스.",
+    "korean": "이것을 교환하고 싶어요."
+  },
+  {
+    "english": "What size do you wear?",
+    "pronunciation": "왓 사이즈 두 유 웨어?",
+    "korean": "사이즈가 어떻게 되세요?"
+  },
+  {
+    "english": "It fits perfectly.",
+    "pronunciation": "잇 핏츠 퍼펙틀리.",
+    "korean": "완벽하게 맞아요."
+  },
+  {
+    "english": "It's too big.",
+    "pronunciation": "잇츠 투 빅.",
+    "korean": "너무 커요."
+  },
+  {
+    "english": "It's too small.",
+    "pronunciation": "잇츠 투 스몰.",
+    "korean": "너무 작아요."
+  },
+  {
+    "english": "Do you have a smaller size?",
+    "pronunciation": "두 유 해브 어 스몰러 사이즈?",
+    "korean": "더 작은 사이즈 있나요?"
+  },
+  {
+    "english": "Do you have a larger size?",
+    "pronunciation": "두 유 해브 어 라저 사이즈?",
+    "korean": "더 큰 사이즈 있나요?"
+  },
+  {
+    "english": "What color do you have?",
+    "pronunciation": "왓 컬러 두 유 해브?",
+    "korean": "어떤 색깔이 있나요?"
+  },
+  {
+    "english": "Do you have this in blue?",
+    "pronunciation": "두 유 해브 디스 인 블루?",
+    "korean": "이걸 파란색으로 있나요?"
+  },
+  {
+    "english": "I like this one better.",
+    "pronunciation": "아이 라이크 디스 원 베터.",
+    "korean": "이걸 더 좋아해요."
+  },
+  {
+    "english": "Which one do you prefer?",
+    "pronunciation": "위치 원 두 유 프리퍼?",
+    "korean": "어느 걸 더 좋아하세요?"
+  },
+  {
+    "english": "This is my favorite.",
+    "pronunciation": "디스 이즈 마이 페이버릿.",
+    "korean": "이게 제일 좋아요."
+  },
+  {
+    "english": "Can you gift wrap this?",
+    "pronunciation": "캔 유 기프트 랩 디스?",
+    "korean": "선물 포장해 주실 수 있나요?"
+  },
+  {
+    "english": "Is this a good deal?",
+    "pronunciation": "이즈 디스 어 굿 딜?",
+    "korean": "이거 싸게 파는 건가요?"
+  },
+  {
+    "english": "That's a bargain.",
+    "pronunciation": "댓츠 어 바게인.",
+    "korean": "그거 싸게 파는 거네요."
+  },
+  {
+    "english": "It's worth the money.",
+    "pronunciation": "잇츠 워스 더 머니.",
+    "korean": "돈 값을 해요."
+  },
+  {
+    "english": "Where is the mall?",
+    "pronunciation": "웨어 이즈 더 몰?",
+    "korean": "쇼핑몰이 어디예요?"
+  },
+  {
+    "english": "What time do you close?",
+    "pronunciation": "왓 타임 두 유 클로즈?",
+    "korean": "몇 시에 문 닫아요?"
+  },
+  {
+    "english": "Are you open on Sunday?",
+    "pronunciation": "아 유 오픈 온 선데이?",
+    "korean": "일요일에도 여나요?"
+  },
+  {
+    "english": "Do you deliver?",
+    "pronunciation": "두 유 딜리버?",
+    "korean": "배달해 주나요?"
+  },
+  {
+    "english": "How long does delivery take?",
+    "pronunciation": "하우 롱 더즈 딜리버리 테이크?",
+    "korean": "배달은 얼마나 걸려요?"
+  },
+  {
+    "english": "Can I get a refund?",
+    "pronunciation": "캔 아이 겟 어 리펀드?",
+    "korean": "환불받을 수 있나요?"
+  },
+  {
+    "english": "Keep the receipt.",
+    "pronunciation": "킵 더 리시트.",
+    "korean": "영수증 보관하세요."
+  },
+  {
+    "english": "Thank you for shopping.",
+    "pronunciation": "뎅큐 포어 샤핑.",
+    "korean": "쇼핑해 주셔서 감사합니다."
+  },
+  {
+    "english": "Have a nice shopping.",
+    "pronunciation": "해브 어 나이스 샤핑.",
+    "korean": "즐거운 쇼핑 되세요."
+  },
+  {
+    "english": "The store is crowded.",
+    "pronunciation": "더 스토어 이즈 크라우디드.",
+    "korean": "가게가 붐비네요."
+  },
+  {
+    "english": "Let's go to another store.",
+    "pronunciation": "렛츠 고 투 어나더 스토어.",
+    "korean": "다른 가게로 가자."
+  },
+  {
+    "english": "This is good quality.",
+    "pronunciation": "디스 이즈 굿 퀄리티.",
+    "korean": "이거 품질이 좋네요."
+  },
+  {
+    "english": "This looks cheap.",
+    "pronunciation": "디스 룩스 칩.",
+    "korean": "이거 싸 보여요."
+  },
+  {
+    "english": "Is this made in Korea?",
+    "pronunciation": "이즈 디스 메이드 인 코리아?",
+    "korean": "이거 한국산인가요?"
+  },
+  {
+    "english": "What brand is this?",
+    "pronunciation": "왓 브랜드 이즈 디스?",
+    "korean": "이거 무슨 브랜드예요?"
+  },
+  {
+    "english": "I'm looking for a gift.",
+    "pronunciation": "아임 루킹 포어 어 기프트.",
+    "korean": "선물을 찾고 있어요."
+  },
+  {
+    "english": "This would make a nice gift.",
+    "pronunciation": "디스 우드 메이크 어 나이스 기프트.",
+    "korean": "이거 좋은 선물이 될 것 같아요."
+  },
+  {
+    "english": "Let's eat.",
+    "pronunciation": "렛츠 잇.",
+    "korean": "먹자."
+  },
+  {
+    "english": "What would you like to eat?",
+    "pronunciation": "왓 우드 유 라이크 투 잇?",
+    "korean": "뭘 드시고 싶어요?"
+  },
+  {
+    "english": "I'd like a hamburger.",
+    "pronunciation": "아이드 라이크 어 햄버거.",
+    "korean": "햄버거 하나 주세요."
+  },
+  {
+    "english": "Can I see the menu?",
+    "pronunciation": "캔 아이 씨 더 메뉴?",
+    "korean": "메뉴 좀 볼 수 있을까요?"
+  },
+  {
+    "english": "What do you recommend?",
+    "pronunciation": "왓 두 유 레커멘드?",
+    "korean": "뭘 추천하시나요?"
+  },
+  {
+    "english": "I'll have the same.",
+    "pronunciation": "아일 해브 더 세임.",
+    "korean": "저도 같은 걸로 할게요."
+  },
+  {
+    "english": "No ice, please.",
+    "pronunciation": "노 아이스, 플리즈.",
+    "korean": "얼음 빼고 주세요."
+  },
+  {
+    "english": "Can I have the check?",
+    "pronunciation": "캔 아이 해브 더 체크?",
+    "korean": "계산서 주세요."
+  },
+  {
+    "english": "The food is delicious.",
+    "pronunciation": "더 푸드 이즈 딜리셔스.",
+    "korean": "음식이 맛있어요."
+  },
+  {
+    "english": "I'm full.",
+    "pronunciation": "아임 풀.",
+    "korean": "배불러요."
+  },
+  {
+    "english": "Do you have vegetarian food?",
+    "pronunciation": "두 유 해브 베지테리언 푸드?",
+    "korean": "채식 음식 있나요?"
+  },
+  {
+    "english": "I'm allergic to nuts.",
+    "pronunciation": "아임 얼러직 투 넛츠.",
+    "korean": "견과류 알레르기가 있어요."
+  },
+  {
+    "english": "Is this spicy?",
+    "pronunciation": "이즈 디스 스파이시?",
+    "korean": "이게 매워요?"
+  },
+  {
+    "english": "Not too spicy, please.",
+    "pronunciation": "낫 투 스파이시, 플리즈.",
+    "korean": "너무 맵게 하지 마세요."
+  },
+  {
+    "english": "I'd like to make a reservation.",
+    "pronunciation": "아이드 라이크 투 메이크 어 레저베이션.",
+    "korean": "예약하고 싶어요."
+  },
+  {
+    "english": "Table for two, please.",
+    "pronunciation": "테이블 포어 투, 플리즈.",
+    "korean": "두 명 자리 주세요."
+  },
+  {
+    "english": "We're ready to order.",
+    "pronunciation": "위어 레디 투 오더.",
+    "korean": "주문하겠습니다."
+  },
+  {
+    "english": "Enjoy your meal.",
+    "pronunciation": "인조이 요어 밀.",
+    "korean": "맛있게 드세요."
+  },
+  {
+    "english": "The service is good.",
+    "pronunciation": "더 서비스 이즈 굿.",
+    "korean": "서비스가 좋네요."
+  },
+  {
+    "english": "Could I have some water?",
+    "pronunciation": "쿠드 아이 해브 섬 워터?",
+    "korean": "물 좀 주실 수 있나요?"
+  },
+  {
+    "english": "More coffee, please.",
+    "pronunciation": "모어 커피, 플리즈.",
+    "korean": "커피 더 주세요."
+  },
+  {
+    "english": "I'd like to order takeout.",
+    "pronunciation": "아이드 라이크 투 오더 테이크아웃.",
+    "korean": "테이크아웃 주문하고 싶어요."
+  },
+  {
+    "english": "Is there a delivery fee?",
+    "pronunciation": "이즈 데어 어 딜리버리 피?",
+    "korean": "배달비가 있나요?"
+  },
+  {
+    "english": "The food is ready.",
+    "pronunciation": "더 푸드 이즈 레디.",
+    "korean": "음식이 준비됐어요."
+  },
+  {
+    "english": "This is too salty.",
+    "pronunciation": "디스 이즈 투 솔티.",
+    "korean": "이거 너무 짜요."
+  },
+  {
+    "english": "This is too sweet.",
+    "pronunciation": "디스 이즈 투 스위트.",
+    "korean": "이거 너무 달아요."
+  },
+  {
+    "english": "Can you make it less salty?",
+    "pronunciation": "캔 유 메이크 잇 레스 솔티?",
+    "korean": "덜 짜게 해주실 수 있나요?"
+  },
+  {
+    "english": "I'd like it well done.",
+    "pronunciation": "아이드 라이크 잇 웰 던.",
+    "korean": "잘 익힌 걸로 주세요."
+  },
+  {
+    "english": "I'd like it medium.",
+    "pronunciation": "아이드 라이크 잇 미디움.",
+    "korean": "미디움으로 주세요."
+  },
+  {
+    "english": "What's the soup of the day?",
+    "pronunciation": "왓츠 더 수프 오브 더 데이?",
+    "korean": "오늘의 수프가 뭐예요?"
+  },
+  {
+    "english": "Is the fish fresh?",
+    "pronunciation": "이즈 더 피시 프레시?",
+    "korean": "생선이 신선한가요?"
+  },
+  {
+    "english": "I don't eat meat.",
+    "pronunciation": "아이 돈트 잇 미트.",
+    "korean": "고기를 안 먹어요."
+  },
+  {
+    "english": "Do you have any desserts?",
+    "pronunciation": "두 유 해브 애니 디저츠?",
+    "korean": "디저트 있나요?"
+  },
+  {
+    "english": "I'll skip dessert.",
+    "pronunciation": "아일 스킵 디저트.",
+    "korean": "디저트는 안 먹을게요."
+  },
+  {
+    "english": "The portion is too big.",
+    "pronunciation": "더 포션 이즈 투 빅.",
+    "korean": "양이 너무 많아요."
+  },
+  {
+    "english": "Can I get a doggy bag?",
+    "pronunciation": "캔 아이 겟 어 도기 백?",
+    "korean": "포장해 주실 수 있나요?"
+  },
+  {
+    "english": "Split the bill, please.",
+    "pronunciation": "스플릿 더 빌, 플리즈.",
+    "korean": "각자 계산해 주세요."
+  },
+  {
+    "english": "Keep the change.",
+    "pronunciation": "킵 더 체인지.",
+    "korean": "거스름돈은 가지세요."
+  },
+  {
+    "english": "This restaurant is popular.",
+    "pronunciation": "디스 레스토랑 이즈 파퓰러.",
+    "korean": "이 식당이 인기가 많아요."
+  },
+  {
+    "english": "We need to wait for a table.",
+    "pronunciation": "위 니드 투 웨잇 포어 어 테이블.",
+    "korean": "테이블을 기다려야 해요."
+  },
+  {
+    "english": "Is there a waiting list?",
+    "pronunciation": "이즈 데어 어 웨이팅 리스트?",
+    "korean": "웨이팅 리스트가 있나요?"
+  },
+  {
+    "english": "How long is the wait?",
+    "pronunciation": "하우 롱 이즈 더 웨잇?",
+    "korean": "얼마나 기다려야 하나요?"
+  },
+  {
+    "english": "I made a reservation under Smith.",
+    "pronunciation": "아이 메이드 어 레저베이션 언더 스미스.",
+    "korean": "스미스 이름으로 예약했어요."
+  },
+  {
+    "english": "Can we sit outside?",
+    "pronunciation": "캔 위 싯 아웃사이드?",
+    "korean": "밖에 앉을 수 있나요?"
+  },
+  {
+    "english": "I prefer a quiet table.",
+    "pronunciation": "아이 프리퍼 어 콰이엇 테이블.",
+    "korean": "조용한 테이블을 원해요."
+  },
+  {
+    "english": "Excuse me, we didn't order this.",
+    "pronunciation": "익스큐즈 미, 위 디든트 오더 디스.",
+    "korean": "실례합니다, 이거 주문 안 했는데요."
+  },
+  {
+    "english": "This is exactly what I wanted.",
+    "pronunciation": "디스 이즈 익잭틀리 왓 아이 원티드.",
+    "korean": "이게 정확히 제가 원하던 거예요."
+  },
+  {
+    "english": "Could you reheat this?",
+    "pronunciation": "쿠드 유 리히트 디스?",
+    "korean": "이거 다시 데워주실 수 있나요?"
+  },
+  {
+    "english": "The coffee is cold.",
+    "pronunciation": "더 커피 이즈 콜드.",
+    "korean": "커피가 차갑네요."
+  },
+  {
+    "english": "Thank you for the meal.",
+    "pronunciation": "뎅큐 포어 더 밀.",
+    "korean": "식사 잘했습니다."
+  },
+  {
+    "english": "Where is the subway station?",
+    "pronunciation": "웨어 이즈 더 서브웨이 스테이션?",
+    "korean": "지하철역이 어디예요?"
+  },
+  {
+    "english": "How do I get to the airport?",
+    "pronunciation": "하우 두 아이 겟 투 더 에어포트?",
+    "korean": "공항에 어떻게 가나요?"
+  },
+  {
+    "english": "Take the bus.",
+    "pronunciation": "테이크 더 버스.",
+    "korean": "버스를 타세요."
+  },
+  {
+    "english": "Is this the right way?",
+    "pronunciation": "이즈 디스 더 라이트 웨이?",
+    "korean": "이길이 맞나요?"
+  },
+  {
+    "english": "How far is it?",
+    "pronunciation": "하우 파 이즈 잇?",
+    "korean": "얼마나 먼가요?"
+  },
+  {
+    "english": "It's about 10 minutes away.",
+    "pronunciation": "잇츠 어바웃 텐 미닛츠 어웨이.",
+    "korean": "약 10분 거리예요."
+  },
+  {
+    "english": "Can you call a taxi?",
+    "pronunciation": "캔 유 콜 어 택시?",
+    "korean": "택시 좀 불러주실 수 있나요?"
+  },
+  {
+    "english": "To the hotel, please.",
+    "pronunciation": "투 더 호텔, 플리즈.",
+    "korean": "호텔로 가주세요."
+  },
+  {
+    "english": "How much is the fare?",
+    "pronunciation": "하우 머치 이즈 더 페어?",
+    "korean": "요금이 얼마예요?"
+  },
+  {
+    "english": "Stop here, please.",
+    "pronunciation": "스탑 히어, 플리즈.",
+    "korean": "여기서 세워주세요."
+  },
+  {
+    "english": "I missed the train.",
+    "pronunciation": "아이 미스드 더 트레인.",
+    "korean": "기차를 놓쳤어요."
+  },
+  {
+    "english": "When is the next bus?",
+    "pronunciation": "웬 이즈 더 넥스트 버스?",
+    "korean": "다음 버스는 언제 와요?"
+  },
+  {
+    "english": "Is there a direct flight?",
+    "pronunciation": "이즈 데어 어 다이렉트 플라이트?",
+    "korean": "직항편 있나요?"
+  },
+  {
+    "english": "What time does it arrive?",
+    "pronunciation": "왓 타임 더즈 잇 어라이브?",
+    "korean": "몇 시에 도착해요?"
+  },
+  {
+    "english": "I need to buy a ticket.",
+    "pronunciation": "아이 니드 투 바이 어 티켓.",
+    "korean": "표를 사야 해요."
+  },
+  {
+    "english": "Round trip or one way?",
+    "pronunciation": "라운드 트립 오어 원 웨이?",
+    "korean": "왕복이요 편도요?"
+  },
+  {
+    "english": "Where is gate 5?",
+    "pronunciation": "웨어 이즈 게이트 파이브?",
+    "korean": "5번 게이트가 어디예요?"
+  },
+  {
+    "english": "My flight is delayed.",
+    "pronunciation": "마이 플라이트 이즈 딜레이드.",
+    "korean": "제 비행기가 연착돼요."
+  },
+  {
+    "english": "I lost my luggage.",
+    "pronunciation": "아이 로스트 마이 러기지.",
+    "korean": "짐을 잃어버렸어요."
+  },
+  {
+    "english": "Turn left.",
+    "pronunciation": "턴 레프트.",
+    "korean": "왼쪽으로 도세요."
+  },
+  {
+    "english": "Turn right.",
+    "pronunciation": "턴 라이트.",
+    "korean": "오른쪽으로 도세요."
+  },
+  {
+    "english": "Go straight.",
+    "pronunciation": "고 스트레이트.",
+    "korean": "직진하세요."
+  },
+  {
+    "english": "It's next to the bank.",
+    "pronunciation": "잇츠 넥스트 투 더 뱅크.",
+    "korean": "은행 옆에 있어요."
+  },
+  {
+    "english": "It's across from the park.",
+    "pronunciation": "잇츠 어크로스 프롬 더 파크.",
+    "korean": "공원 맞은편에 있어요."
+  },
+  {
+    "english": "Where's the bus stop?",
+    "pronunciation": "웨어즈 더 버스 스탑?",
+    "korean": "버스 정류장이 어디예요?"
+  },
+  {
+    "english": "Which bus goes downtown?",
+    "pronunciation": "위치 버스 고즈 다운타운?",
+    "korean": "시내로 가는 버스는 몇 번이에요?"
+  },
+  {
+    "english": "Do I need exact change?",
+    "pronunciation": "두 아이 니드 익잭트 체인지?",
+    "korean": "정확한 잔돈이 필요한가요?"
+  },
+  {
+    "english": "Where do I transfer?",
+    "pronunciation": "웨어 두 아이 트랜스퍼?",
+    "korean": "어디서 갈아타나요?"
+  },
+  {
+    "english": "Is this seat taken?",
+    "pronunciation": "이즈 디스 시트 테이큰?",
+    "korean": "이 자리 비어 있나요?"
+  },
+  {
+    "english": "Excuse me, this is my stop.",
+    "pronunciation": "익스큐즈 미, 디스 이즈 마이 스탑.",
+    "korean": "실례합니다, 여기서 내려요."
+  },
+  {
+    "english": "Are we there yet?",
+    "pronunciation": "아 위 데어 옛?",
+    "korean": "다 왔나요?"
+  },
+  {
+    "english": "This is taking too long.",
+    "pronunciation": "디스 이즈 테이킹 투 롱.",
+    "korean": "너무 오래 걸리네요."
+  },
+  {
+    "english": "Can you drive faster?",
+    "pronunciation": "캔 유 드라이브 패스터?",
+    "korean": "더 빨리 갈 수 있나요?"
+  },
+  {
+    "english": "Please drive carefully.",
+    "pronunciation": "플리즈 드라이브 케어풀리.",
+    "korean": "조심해서 운전해 주세요."
+  },
+  {
+    "english": "I'm in a hurry.",
+    "pronunciation": "아임 인 어 허리.",
+    "korean": "급해요."
+  },
+  {
+    "english": "What's the traffic like?",
+    "pronunciation": "왓츠 더 트래픽 라이크?",
+    "korean": "교통상황이 어때요?"
+  },
+  {
+    "english": "There's a lot of traffic.",
+    "pronunciation": "데어즈 어 랏 오브 트래픽.",
+    "korean": "교통이 많이 막혀요."
+  },
+  {
+    "english": "Is there a shortcut?",
+    "pronunciation": "이즈 데어 어 숏컷?",
+    "korean": "지름길이 있나요?"
+  },
+  {
+    "english": "Follow the GPS.",
+    "pronunciation": "팔로우 더 지피에스.",
+    "korean": "GPS를 따라가세요."
+  },
+  {
+    "english": "I think we're lost.",
+    "pronunciation": "아이 띵크 위어 로스트.",
+    "korean": "길을 잃은 것 같아요."
+  },
+  {
+    "english": "Let me check the map.",
+    "pronunciation": "렛 미 체크 더 맵.",
+    "korean": "지도를 확인해볼게요."
+  },
+  {
+    "english": "Can you show me on the map?",
+    "pronunciation": "캔 유 쇼우 미 온 더 맵?",
+    "korean": "지도로 보여주실 수 있나요?"
+  },
+  {
+    "english": "We need to go back.",
+    "pronunciation": "위 니드 투 고 백.",
+    "korean": "돌아가야 해요."
+  },
+  {
+    "english": "This is the wrong direction.",
+    "pronunciation": "디스 이즈 더 롱 다이렉션.",
+    "korean": "이쪽이 잘못된 방향이에요."
+  },
+  {
+    "english": "Make a U-turn.",
+    "pronunciation": "메이크 어 유턴.",
+    "korean": "유턴하세요."
+  },
+  {
+    "english": "Park over there.",
+    "pronunciation": "파크 오버 데어.",
+    "korean": "저기에 주차하세요."
+  },
+  {
+    "english": "Is parking free?",
+    "pronunciation": "이즈 파킹 프리?",
+    "korean": "주차가 무료인가요?"
+  },
+  {
+    "english": "How much is parking?",
+    "pronunciation": "하우 머치 이즈 파킹?",
+    "korean": "주차비가 얼마예요?"
+  },
+  {
+    "english": "Where can I park?",
+    "pronunciation": "웨어 캔 아이 파크?",
+    "korean": "어디에 주차할 수 있나요?"
+  },
+  {
+    "english": "Is there a parking lot?",
+    "pronunciation": "이즈 데어 어 파킹 랏?",
+    "korean": "주차장이 있나요?"
+  },
+  {
+    "english": "I have a reservation.",
+    "pronunciation": "아이 해브 어 레저베이션.",
+    "korean": "예약했습니다."
+  },
+  {
+    "english": "Check-in, please.",
+    "pronunciation": "체크인, 플리즈.",
+    "korean": "체크인 해주세요."
+  },
+  {
+    "english": "What time is check-out?",
+    "pronunciation": "왓 타임 이즈 체크아웃?",
+    "korean": "체크아웃 시간이 언제예요?"
+  },
+  {
+    "english": "Can I have a wake-up call?",
+    "pronunciation": "캔 아이 해브 어 웨이크업 콜?",
+    "korean": "모닝콜 해주실 수 있나요?"
+  },
+  {
+    "english": "Where is the elevator?",
+    "pronunciation": "웨어 이즈 디 엘리베이터?",
+    "korean": "엘리베이터가 어디예요?"
+  },
+  {
+    "english": "My room number is 205.",
+    "pronunciation": "마이 룸 넘버 이즈 투오파이브.",
+    "korean": "제 방 번호는 205호예요."
+  },
+  {
+    "english": "The air conditioning doesn't work.",
+    "pronunciation": "디 에어 컨디셔닝 더즌트 워크.",
+    "korean": "에어컨이 안 돼요."
+  },
+  {
+    "english": "Can I get extra towels?",
+    "pronunciation": "캔 아이 겟 익스트라 타월즈?",
+    "korean": "수건 더 받을 수 있나요?"
+  },
+  {
+    "english": "Where can I exchange money?",
+    "pronunciation": "웨어 캔 아이 익스체인지 머니?",
+    "korean": "어디서 환전할 수 있나요?"
+  },
+  {
+    "english": "Is there a tourist information center?",
+    "pronunciation": "이즈 데어 어 투어리스트 인포메이션 센터?",
+    "korean": "관광안내소가 있나요?"
+  },
+  {
+    "english": "How do I get to the museum?",
+    "pronunciation": "하우 두 아이 겟 투 더 뮤지엄?",
+    "korean": "박물관에 어떻게 가나요?"
+  },
+  {
+    "english": "What time does it close?",
+    "pronunciation": "왓 타임 더즈 잇 클로즈?",
+    "korean": "몇 시에 문 닫아요?"
+  },
+  {
+    "english": "Is there an admission fee?",
+    "pronunciation": "이즈 데어 안 어드미션 피?",
+    "korean": "입장료가 있나요?"
+  },
+  {
+    "english": "Can you recommend a restaurant?",
+    "pronunciation": "캔 유 레커멘드 어 레스토랑?",
+    "korean": "좋은 식당 추천해 주실 수 있나요?"
+  },
+  {
+    "english": "Where can I buy souvenirs?",
+    "pronunciation": "웨어 캔 아이 바이 수베니어즈?",
+    "korean": "어디서 기념품을 살 수 있나요?"
+  },
+  {
+    "english": "I'd like to take a tour.",
+    "pronunciation": "아이드 라이크 투 테이크 어 투어.",
+    "korean": "투어를 하고 싶어요."
+  },
+  {
+    "english": "How long does the tour take?",
+    "pronunciation": "하우 롱 더즈 더 투어 테이크?",
+    "korean": "투어는 얼마나 걸려요?"
+  },
+  {
+    "english": "Can you take a picture of us?",
+    "pronunciation": "캔 유 테이크 어 픽처 오브 어스?",
+    "korean": "사진 좀 찍어주실 수 있나요?"
+  },
+  {
+    "english": "This is a beautiful place.",
+    "pronunciation": "디스 이즈 어 뷰티풀 플레이스.",
+    "korean": "여기 정말 아름다운 곳이네요."
+  },
+  {
+    "english": "I'm lost.",
+    "pronunciation": "아임 로스트.",
+    "korean": "길을 잃었어요."
+  },
+  {
+    "english": "Can you help me find this place?",
+    "pronunciation": "캔 유 헬프 미 파인드 디스 플레이스?",
+    "korean": "이곳을 찾는 걸 도와주실 수 있나요?"
+  },
+  {
+    "english": "Is it walking distance?",
+    "pronunciation": "이즈 잇 워킹 디스턴스?",
+    "korean": "걸어갈 수 있는 거리인가요?"
+  },
+  {
+    "english": "How far is it from here?",
+    "pronunciation": "하우 파 이즈 잇 프롬 히어?",
+    "korean": "여기서 얼마나 먼가요?"
+  },
+  {
+    "english": "Is it worth visiting?",
+    "pronunciation": "이즈 잇 워스 비지팅?",
+    "korean": "가볼 만한가요?"
+  },
+  {
+    "english": "What's special about this place?",
+    "pronunciation": "왓츠 스페셜 어바웃 디스 플레이스?",
+    "korean": "이곳의 특별한 점이 뭐예요?"
+  },
+  {
+    "english": "Can I book a tour online?",
+    "pronunciation": "캔 아이 북 어 투어 온라인?",
+    "korean": "온라인으로 투어를 예약할 수 있나요?"
+  },
+  {
+    "english": "Is the hotel near the beach?",
+    "pronunciation": "이즈 더 호텔 니어 더 비치?",
+    "korean": "호텔이 해변 근처에 있나요?"
+  },
+  {
+    "english": "Does the room have a balcony?",
+    "pronunciation": "더즈 더 룸 해브 어 발코니?",
+    "korean": "방에 발코니가 있나요?"
+  },
+  {
+    "english": "Can I get a room with a view?",
+    "pronunciation": "캔 아이 겟 어 룸 위드 어 뷰?",
+    "korean": "전망이 좋은 방을 얻을 수 있나요?"
+  },
+  {
+    "english": "Is breakfast included?",
+    "pronunciation": "이즈 브렉퍼스트 인클루디드?",
+    "korean": "조식이 포함되나요?"
+  },
+  {
+    "english": "What time is breakfast served?",
+    "pronunciation": "왓 타임 이즈 브렉퍼스트 서브드?",
+    "korean": "조식이 몇 시에 나와요?"
+  },
+  {
+    "english": "Is there a gym in the hotel?",
+    "pronunciation": "이즈 데어 어 짐 인 더 호텔?",
+    "korean": "호텔에 헬스장이 있나요?"
+  },
+  {
+    "english": "Can I use the pool?",
+    "pronunciation": "캔 아이 유즈 더 풀?",
+    "korean": "수영장을 사용할 수 있나요?"
+  },
+  {
+    "english": "Where is the business center?",
+    "pronunciation": "웨어 이즈 더 비즈니스 센터?",
+    "korean": "비즈니스센터가 어디예요?"
+  },
+  {
+    "english": "Can I extend my stay?",
+    "pronunciation": "캔 아이 익스텐드 마이 스테이?",
+    "korean": "숙박을 연장할 수 있나요?"
+  },
+  {
+    "english": "I'd like to change my room.",
+    "pronunciation": "아이드 라이크 투 체인지 마이 룸.",
+    "korean": "방을 바꾸고 싶어요."
+  },
+  {
+    "english": "The room is too noisy.",
+    "pronunciation": "더 룸 이즈 투 노이지.",
+    "korean": "방이 너무 시끄러워요."
+  },
+  {
+    "english": "Can I get a quieter room?",
+    "pronunciation": "캔 아이 겟 어 콰이어터 룸?",
+    "korean": "더 조용한 방을 얻을 수 있나요?"
+  },
+  {
+    "english": "The WiFi isn't working.",
+    "pronunciation": "더 와이파이 이즌트 워킹.",
+    "korean": "와이파이가 안 돼요."
+  },
+  {
+    "english": "What's the WiFi password?",
+    "pronunciation": "왓츠 더 와이파이 패스워드?",
+    "korean": "와이파이 비밀번호가 뭐예요?"
+  },
+  {
+    "english": "Can you call me a taxi?",
+    "pronunciation": "캔 유 콜 미 어 택시?",
+    "korean": "택시 좀 불러주실 수 있나요?"
+  },
+  {
+    "english": "What time should I check out?",
+    "pronunciation": "왓 타임 슈드 아이 체크 아웃?",
+    "korean": "몇 시에 체크아웃해야 하나요?"
+  },
+  {
+    "english": "Can I leave my luggage here?",
+    "pronunciation": "캔 아이 리브 마이 러기지 히어?",
+    "korean": "여기에 짐을 맡길 수 있나요?"
+  },
+  {
+    "english": "Thank you for your hospitality.",
+    "pronunciation": "뎅큐 포어 요어 하스피털리티.",
+    "korean": "친절하게 해주셔서 감사합니다."
+  },
+  {
+    "english": "I had a wonderful stay.",
+    "pronunciation": "아이 해드 어 원더풀 스테이.",
+    "korean": "정말 좋은 시간을 보냈어요."
+  },
+  {
+    "english": "I'll recommend this hotel.",
+    "pronunciation": "아일 레커멘드 디스 호텔.",
+    "korean": "이 호텔을 추천할게요."
+  },
+  {
+    "english": "Can I get a receipt?",
+    "pronunciation": "캔 아이 겟 어 리시트?",
+    "korean": "영수증을 받을 수 있나요?"
+  },
+  {
+    "english": "Is there a shuttle to the airport?",
+    "pronunciation": "이즈 데어 어 셔틀 투 디 에어포트?",
+    "korean": "공항 셔틀이 있나요?"
+  },
+  {
+    "english": "What time does the shuttle leave?",
+    "pronunciation": "왓 타임 더즈 더 셔틀 리브?",
+    "korean": "셔틀이 몇 시에 출발해요?"
+  },
+  {
+    "english": "How much is the shuttle?",
+    "pronunciation": "하우 머치 이즈 더 셔틀?",
+    "korean": "셔틀비가 얼마예요?"
+  },
+  {
+    "english": "Can you book the shuttle for me?",
+    "pronunciation": "캔 유 북 더 셔틀 포어 미?",
+    "korean": "셔틀을 예약해 주실 수 있나요?"
+  },
+  {
+    "english": "I need help.",
+    "pronunciation": "아이 니드 헬프.",
+    "korean": "도움이 필요해요."
+  },
+  {
+    "english": "Call the police.",
+    "pronunciation": "콜 더 폴리스.",
+    "korean": "경찰을 불러주세요."
+  },
+  {
+    "english": "Call an ambulance.",
+    "pronunciation": "콜 안 앰뷸런스.",
+    "korean": "구급차를 불러주세요."
+  },
+  {
+    "english": "Where is the hospital?",
+    "pronunciation": "웨어 이즈 더 하스피털?",
+    "korean": "병원이 어디예요?"
+  },
+  {
+    "english": "I don't feel well.",
+    "pronunciation": "아이 돈트 필 웰.",
+    "korean": "몸이 안 좋아요."
+  },
+  {
+    "english": "I have a headache.",
+    "pronunciation": "아이 해브 어 헤드에이크.",
+    "korean": "머리가 아파요."
+  },
+  {
+    "english": "I have a fever.",
+    "pronunciation": "아이 해브 어 피버.",
+    "korean": "열이 나요."
+  },
+  {
+    "english": "I need to see a doctor.",
+    "pronunciation": "아이 니드 투 씨 어 닥터.",
+    "korean": "의사를 만나야 해요."
+  },
+  {
+    "english": "Where is the pharmacy?",
+    "pronunciation": "웨어 이즈 더 파마시?",
+    "korean": "약국이 어디예요?"
+  },
+  {
+    "english": "Do you have medicine for a cold?",
+    "pronunciation": "두 유 해브 메디신 포어 어 콜드?",
+    "korean": "감기약 있나요?"
+  },
+  {
+    "english": "I'm allergic to this medicine.",
+    "pronunciation": "아임 얼러직 투 디스 메디신.",
+    "korean": "이 약에 알레르기가 있어요."
+  },
+  {
+    "english": "I hurt my leg.",
+    "pronunciation": "아이 허트 마이 레그.",
+    "korean": "다리를 다쳤어요."
+  },
+  {
+    "english": "Can you call my family?",
+    "pronunciation": "캔 유 콜 마이 패밀리?",
+    "korean": "가족에게 연락해 주실 수 있나요?"
+  },
+  {
+    "english": "I lost my passport.",
+    "pronunciation": "아이 로스트 마이 패스포트.",
+    "korean": "여권을 잃어버렸어요."
+  },
+  {
+    "english": "Someone stole my wallet.",
+    "pronunciation": "섬원 스톨 마이 월렛.",
+    "korean": "누군가 제 지갑을 훔쳤어요."
+  },
+  {
+    "english": "I need to report a crime.",
+    "pronunciation": "아이 니드 투 리포트 어 크라임.",
+    "korean": "범죄 신고를 해야 해요."
+  },
+  {
+    "english": "Where is the police station?",
+    "pronunciation": "웨어 이즈 더 폴리스 스테이션?",
+    "korean": "경찰서가 어디예요?"
+  },
+  {
+    "english": "I need an interpreter.",
+    "pronunciation": "아이 니드 안 인터프리터.",
+    "korean": "통역사가 필요해요."
+  },
+  {
+    "english": "This is an emergency.",
+    "pronunciation": "디스 이즈 안 이머젼시.",
+    "korean": "이건 응급상황이에요."
+  },
+  {
+    "english": "I'm in trouble.",
+    "pronunciation": "아임 인 트러블.",
+    "korean": "곤경에 처했어요."
+  },
+  {
+    "english": "I feel dizzy.",
+    "pronunciation": "아이 필 디지.",
+    "korean": "어지러워요."
+  },
+  {
+    "english": "I have chest pain.",
+    "pronunciation": "아이 해브 체스트 페인.",
+    "korean": "가슴이 아파요."
+  },
+  {
+    "english": "I can't breathe properly.",
+    "pronunciation": "아이 캔트 브리드 프라퍼리.",
+    "korean": "숨쉬기가 힘들어요."
+  },
+  {
+    "english": "I think I broke my arm.",
+    "pronunciation": "아이 띵크 아이 브로크 마이 암.",
+    "korean": "팔이 부러진 것 같아요."
+  },
+  {
+    "english": "I need first aid.",
+    "pronunciation": "아이 니드 퍼스트 에이드.",
+    "korean": "응급처치가 필요해요."
+  },
+  {
+    "english": "Where is the nearest clinic?",
+    "pronunciation": "웨어 이즈 더 니어리스트 클리닉?",
+    "korean": "가장 가까운 병원이 어디예요?"
+  },
+  {
+    "english": "I have insurance.",
+    "pronunciation": "아이 해브 인슈어런스.",
+    "korean": "보험이 있어요."
+  },
+  {
+    "english": "I don't have insurance.",
+    "pronunciation": "아이 돈트 해브 인슈어런스.",
+    "korean": "보험이 없어요."
+  },
+  {
+    "english": "How much will it cost?",
+    "pronunciation": "하우 머치 윌 잇 코스트?",
+    "korean": "비용이 얼마나 될까요?"
+  },
+  {
+    "english": "I need a prescription.",
+    "pronunciation": "아이 니드 어 프리스크립션.",
+    "korean": "처방전이 필요해요."
+  },
+  {
+    "english": "When should I take this medicine?",
+    "pronunciation": "웬 슈드 아이 테이크 디스 메디신?",
+    "korean": "이 약을 언제 먹어야 하나요?"
+  },
+  {
+    "english": "How many times a day?",
+    "pronunciation": "하우 메니 타임즈 어 데이?",
+    "korean": "하루에 몇 번이나요?"
+  },
+  {
+    "english": "Should I take it with food?",
+    "pronunciation": "슈드 아이 테이크 잇 위드 푸드?",
+    "korean": "음식과 함께 먹어야 하나요?"
+  },
+  {
+    "english": "Are there any side effects?",
+    "pronunciation": "아 데어 애니 사이드 이펙츠?",
+    "korean": "부작용이 있나요?"
+  },
+  {
+    "english": "I'm feeling better now.",
+    "pronunciation": "아임 필링 베터 나우.",
+    "korean": "이제 기분이 나아졌어요."
+  },
+  {
+    "english": "Thank you for your help.",
+    "pronunciation": "뎅큐 포어 요어 헬프.",
+    "korean": "도와주셔서 감사합니다."
+  },
+  {
+    "english": "I need to rest.",
+    "pronunciation": "아이 니드 투 레스트.",
+    "korean": "쉬어야겠어요."
+  },
+  {
+    "english": "Can I have some water?",
+    "pronunciation": "캔 아이 해브 섬 워터?",
+    "korean": "물 좀 마실 수 있을까요?"
+  },
+  {
+    "english": "I feel nauseous.",
+    "pronunciation": "아이 필 노시어스.",
+    "korean": "메스꺼워요."
+  },
+  {
+    "english": "I have stomach pain.",
+    "pronunciation": "아이 해브 스터막 페인.",
+    "korean": "배가 아파요."
+  },
+  {
+    "english": "I think it's food poisoning.",
+    "pronunciation": "아이 띵크 잇츠 푸드 포이즈닝.",
+    "korean": "식중독인 것 같아요."
+  },
+  {
+    "english": "I ate something bad.",
+    "pronunciation": "아이 에이트 섬씽 배드.",
+    "korean": "뭔가 나쁜 걸 먹었어요."
+  },
+  {
+    "english": "Do you have antacid?",
+    "pronunciation": "두 유 해브 안타시드?",
+    "korean": "제산제 있나요?"
+  },
+  {
+    "english": "I need to see a dentist.",
+    "pronunciation": "아이 니드 투 씨 어 덴티스트.",
+    "korean": "치과에 가야 해요."
+  },
+  {
+    "english": "I have a toothache.",
+    "pronunciation": "아이 해브 어 투스에이크.",
+    "korean": "치아가 아파요."
+  },
+  {
+    "english": "My tooth is loose.",
+    "pronunciation": "마이 투스 이즈 루스.",
+    "korean": "치아가 흔들려요."
+  },
+  {
+    "english": "I lost a filling.",
+    "pronunciation": "아이 로스트 어 필링.",
+    "korean": "충전재가 빠졌어요."
+  },
+  {
+    "english": "Can you recommend a good doctor?",
+    "pronunciation": "캔 유 레커멘드 어 굿 닥터?",
+    "korean": "좋은 의사를 추천해 주실 수 있나요?"
+  },
+  {
+    "english": "Is the doctor available now?",
+    "pronunciation": "이즈 더 닥터 어베일러블 나우?",
+    "korean": "의사선생님이 지금 계시나요?"
+  },
+  {
+    "english": "I'd like to make an appointment.",
+    "pronunciation": "아이드 라이크 투 메이크 안 어포인트먼트.",
+    "korean": "예약을 하고 싶어요."
+  },
+  {
+    "english": "What's the earliest appointment?",
+    "pronunciation": "왓츠 디 얼리어스트 어포인트먼트?",
+    "korean": "가장 빠른 예약이 언제인가요?"
+  },
+  {
+    "english": "I can come anytime today.",
+    "pronunciation": "아이 캔 컴 애니타임 투데이.",
+    "korean": "오늘 언제든 갈 수 있어요."
+  },
+  {
+    "english": "What do you do for work?",
+    "pronunciation": "왓 두 유 두 포어 워크?",
+    "korean": "무슨 일 하세요?"
+  },
+  {
+    "english": "I'm retired.",
+    "pronunciation": "아임 리타이어드.",
+    "korean": "은퇴했어요."
+  },
+  {
+    "english": "I'm looking for a job.",
+    "pronunciation": "아임 루킹 포어 어 잡.",
+    "korean": "일자리를 찾고 있어요."
+  },
+  {
+    "english": "What time do you start work?",
+    "pronunciation": "왓 타임 두 유 스타트 워크?",
+    "korean": "몇 시에 일 시작해요?"
+  },
+  {
+    "english": "I work from 9 to 5.",
+    "pronunciation": "아이 워크 프롬 나인 투 파이브.",
+    "korean": "9시부터 5시까지 일해요."
+  },
+  {
+    "english": "I have a meeting.",
+    "pronunciation": "아이 해브 어 미팅.",
+    "korean": "미팅이 있어요."
+  },
+  {
+    "english": "Let's schedule a meeting.",
+    "pronunciation": "렛츠 스케줄 어 미팅.",
+    "korean": "미팅을 잡죠."
+  },
+  {
+    "english": "I'm on a business trip.",
+    "pronunciation": "아임 온 어 비즈니스 트립.",
+    "korean": "출장 중이에요."
+  },
+  {
+    "english": "Can you send me the report?",
+    "pronunciation": "캔 유 센드 미 더 리포트?",
+    "korean": "보고서를 보내주실 수 있나요?"
+  },
+  {
+    "english": "I'll email it to you.",
+    "pronunciation": "아일 이메일 잇 투 유.",
+    "korean": "이메일로 보내드릴게요."
+  },
+  {
+    "english": "What's your email address?",
+    "pronunciation": "왓츠 요어 이메일 어드레스?",
+    "korean": "이메일 주소가 뭐예요?"
+  },
+  {
+    "english": "I'm studying English.",
+    "pronunciation": "아임 스터디잉 잉글리쉬.",
+    "korean": "영어를 공부하고 있어요."
+  },
+  {
+    "english": "Which school do you go to?",
+    "pronunciation": "위치 스쿨 두 유 고 투?",
+    "korean": "어느 학교에 다녀요?"
+  },
+  {
+    "english": "What's your major?",
+    "pronunciation": "왓츠 요어 메이져?",
+    "korean": "전공이 뭐예요?"
+  },
+  {
+    "english": "I have an exam tomorrow.",
+    "pronunciation": "아이 해브 안 익잼 투모로우.",
+    "korean": "내일 시험이 있어요."
+  },
+  {
+    "english": "Good luck on your exam.",
+    "pronunciation": "굿 럭 온 요어 익잼.",
+    "korean": "시험 잘 보세요."
+  },
+  {
+    "english": "I passed the test.",
+    "pronunciation": "아이 패스드 더 테스트.",
+    "korean": "시험에 합격했어요."
+  },
+  {
+    "english": "I have to work overtime.",
+    "pronunciation": "아이 해브 투 워크 오버타임.",
+    "korean": "야근을 해야 해요."
+  },
+  {
+    "english": "Can you work late today?",
+    "pronunciation": "캔 유 워크 레이트 투데이?",
+    "korean": "오늘 늦게까지 일할 수 있나요?"
+  },
+  {
+    "english": "I'm too busy today.",
+    "pronunciation": "아임 투 비지 투데이.",
+    "korean": "오늘 너무 바빠요."
+  },
+  {
+    "english": "Let's postpone the meeting.",
+    "pronunciation": "렛츠 포스트폰 더 미팅.",
+    "korean": "미팅을 연기하죠."
+  },
+  {
+    "english": "What's the deadline?",
+    "pronunciation": "왓츠 더 데드라인?",
+    "korean": "마감일이 언제예요?"
+  },
+  {
+    "english": "I need more time.",
+    "pronunciation": "아이 니드 모어 타임.",
+    "korean": "시간이 더 필요해요."
+  },
+  {
+    "english": "Can you help me with this project?",
+    "pronunciation": "캔 유 헬프 미 위드 디스 프로젝트?",
+    "korean": "이 프로젝트를 도와주실 수 있나요?"
+  },
+  {
+    "english": "I'm working on a presentation.",
+    "pronunciation": "아임 워킹 온 어 프레젠테이션.",
+    "korean": "발표를 준비하고 있어요."
+  },
+  {
+    "english": "The presentation went well.",
+    "pronunciation": "더 프레젠테이션 웬트 웰.",
+    "korean": "발표가 잘 됐어요."
+  },
+  {
+    "english": "I need to print some documents.",
+    "pronunciation": "아이 니드 투 프린트 섬 다큐먼츠.",
+    "korean": "서류를 출력해야 해요."
+  },
+  {
+    "english": "The printer is out of paper.",
+    "pronunciation": "더 프린터 이즈 아웃 오브 페이퍼.",
+    "korean": "프린터에 종이가 없어요."
+  },
+  {
+    "english": "Can you fix the computer?",
+    "pronunciation": "캔 유 픽스 더 컴퓨터?",
+    "korean": "컴퓨터를 고칠 수 있나요?"
+  },
+  {
+    "english": "The internet is slow.",
+    "pronunciation": "디 인터넷 이즈 슬로우.",
+    "korean": "인터넷이 느려요."
+  },
+  {
+    "english": "I forgot my password.",
+    "pronunciation": "아이 포갓 마이 패스워드.",
+    "korean": "비밀번호를 잊었어요."
+  },
+  {
+    "english": "Can you reset my password?",
+    "pronunciation": "캔 유 리셋 마이 패스워드?",
+    "korean": "비밀번호를 재설정해 주실 수 있나요?"
+  },
+  {
+    "english": "I'm taking a vacation next week.",
+    "pronunciation": "아임 테이킹 어 베케이션 넥스트 위크.",
+    "korean": "다음 주에 휴가를 가요."
+  },
+  {
+    "english": "When are you coming back?",
+    "pronunciation": "웬 아 유 커밍 백?",
+    "korean": "언제 돌아오세요?"
+  },
+  {
+    "english": "I'll be back on Monday.",
+    "pronunciation": "아일 비 백 온 먼데이.",
+    "korean": "월요일에 돌아올게요."
+  },
+  {
+    "english": "Can someone cover for me?",
+    "pronunciation": "캔 섬원 커버 포어 미?",
+    "korean": "누군가 대신해 줄 수 있나요?"
+  },
+  {
+    "english": "I'll cover for you.",
+    "pronunciation": "아일 커버 포어 유.",
+    "korean": "제가 대신할게요."
+  },
+  {
+    "english": "Thank you for covering.",
+    "pronunciation": "뱅큐 포어 커버링.",
+    "korean": "대신해 줘서 고마워요."
+  },
+  {
+    "english": "I got a promotion.",
+    "pronunciation": "아이 갓 어 프로모션.",
+    "korean": "승진했어요."
+  },
+  {
+    "english": "I'm getting a raise.",
+    "pronunciation": "아임 게팅 어 레이즈.",
+    "korean": "급여가 인상돼요."
+  },
+  {
+    "english": "I'm changing jobs.",
+    "pronunciation": "아임 체인징 잡즈.",
+    "korean": "이직해요."
+  },
+  {
+    "english": "Good luck with your new job.",
+    "pronunciation": "굿 럭 위드 요어 뉴 잡.",
+    "korean": "새 직장에서 잘 되세요."
+  },
+  {
+    "english": "I'm learning new skills.",
+    "pronunciation": "아임 러닝 뉴 스킬즈.",
+    "korean": "새로운 기술을 배우고 있어요."
+  },
+  {
+    "english": "This course is very helpful.",
+    "pronunciation": "디스 코스 이즈 베리 헬프풀.",
+    "korean": "이 과정이 정말 도움이 돼요."
+  },
+  {
+    "english": "I need to improve my English.",
+    "pronunciation": "아이 니드 투 임프루브 마이 잉글리쉬.",
+    "korean": "영어 실력을 향상시켜야 해요."
+  },
+  {
+    "english": "I made a mistake.",
+    "pronunciation": "아이 메이드 어 미스테이크.",
+    "korean": "실수했어요."
+  },
+  {
+    "english": "Everyone makes mistakes.",
+    "pronunciation": "에브리원 메익스 미스테익스.",
+    "korean": "누구나 실수해요."
+  },
+  {
+    "english": "Let's learn from our mistakes.",
+    "pronunciation": "렛츠 런 프롬 아워 미스테익스.",
+    "korean": "실수에서 배우자."
+  },
+  {
+    "english": "Practice makes perfect.",
+    "pronunciation": "프랙티스 메익스 퍼펙트.",
+    "korean": "연습하면 완벽해져요."
+  },
+  {
+    "english": "What do you do in your free time?",
+    "pronunciation": "왓 두 유 두 인 요어 프리 타임?",
+    "korean": "여가시간에 뭘 하세요?"
+  },
+  {
+    "english": "I like watching movies.",
+    "pronunciation": "아이 라이크 와칭 무비즈.",
+    "korean": "영화 보는 걸 좋아해요."
+  },
+  {
+    "english": "Do you like music?",
+    "pronunciation": "두 유 라이크 뮤직?",
+    "korean": "음악 좋아하세요?"
+  },
+  {
+    "english": "I play the piano.",
+    "pronunciation": "아이 플레이 더 피아노.",
+    "korean": "피아노를 쳐요."
+  },
+  {
+    "english": "Do you play sports?",
+    "pronunciation": "두 유 플레이 스포츠?",
+    "korean": "운동하세요?"
+  },
+  {
+    "english": "I like swimming.",
+    "pronunciation": "아이 라이크 스위밍.",
+    "korean": "수영을 좋아해요."
+  },
+  {
+    "english": "Let's play soccer.",
+    "pronunciation": "렛츠 플레이 사커.",
+    "korean": "축구하자."
+  },
+  {
+    "english": "I go jogging every morning.",
+    "pronunciation": "아이 고 조깅 에브리 모닝.",
+    "korean": "매일 아침 조깅해요."
+  },
+  {
+    "english": "Do you have any hobbies?",
+    "pronunciation": "두 유 해브 애니 하비즈?",
+    "korean": "취미가 있으세요?"
+  },
+  {
+    "english": "I collect stamps.",
+    "pronunciation": "아이 컬렉트 스탬프스.",
+    "korean": "우표를 수집해요."
+  },
+  {
+    "english": "I like cooking.",
+    "pronunciation": "아이 라이크 쿠킹.",
+    "korean": "요리하는 걸 좋아해요."
+  },
+  {
+    "english": "Can you cook?",
+    "pronunciation": "캔 유 쿠크?",
+    "korean": "요리할 줄 아세요?"
+  },
+  {
+    "english": "Let's go to the movies.",
+    "pronunciation": "렛츠 고 투 더 무비즈.",
+    "korean": "영화 보러 가자."
+  },
+  {
+    "english": "What's playing at the theater?",
+    "pronunciation": "왓츠 플레이잉 앳 더 시어터?",
+    "korean": "극장에서 뭘 상영하나요?"
+  },
+  {
+    "english": "I like reading books.",
+    "pronunciation": "아이 라이크 리딩 북스.",
+    "korean": "책 읽는 걸 좋아해요."
+  },
+  {
+    "english": "What kind of books do you read?",
+    "pronunciation": "왓 카인드 오브 북스 두 유 리드?",
+    "korean": "어떤 책을 읽으세요?"
+  },
+  {
+    "english": "I enjoy traveling.",
+    "pronunciation": "아이 인조이 트래블링.",
+    "korean": "여행을 즐겨요."
+  },
+  {
+    "english": "Where have you been?",
+    "pronunciation": "웨어 해브 유 빈?",
+    "korean": "어디 가봤어요?"
+  },
+  {
+    "english": "I want to visit Europe.",
+    "pronunciation": "아이 원트 투 비지트 유럽.",
+    "korean": "유럽에 가보고 싶어요."
+  },
+  {
+    "english": "Do you like art?",
+    "pronunciation": "두 유 라이크 아트?",
+    "korean": "미술 좋아하세요?"
+  },
+  {
+    "english": "I love going to museums.",
+    "pronunciation": "아이 러브 고잉 투 뮤지엄즈.",
+    "korean": "박물관 가는 걸 좋아해요."
+  },
+  {
+    "english": "This painting is beautiful.",
+    "pronunciation": "디스 페인팅 이즈 뷰티풀.",
+    "korean": "이 그림이 아름다워요."
+  },
+  {
+    "english": "I don't understand modern art.",
+    "pronunciation": "아이 돈트 언더스탠드 모던 아트.",
+    "korean": "현대미술은 잘 모르겠어요."
+  },
+  {
+    "english": "Do you play any instruments?",
+    "pronunciation": "두 유 플레이 애니 인스트루먼츠?",
+    "korean": "악기 다룰 줄 아세요?"
+  },
+  {
+    "english": "I wish I could play guitar.",
+    "pronunciation": "아이 위시 아이 쿠드 플레이 기타.",
+    "korean": "기타를 칠 수 있으면 좋겠어요."
+  },
+  {
+    "english": "Music is my passion.",
+    "pronunciation": "뮤직 이즈 마이 패션.",
+    "korean": "음악이 제 열정이에요."
+  },
+  {
+    "english": "I go to concerts often.",
+    "pronunciation": "아이 고 투 콘서츠 오픈.",
+    "korean": "콘서트에 자주 가요."
+  },
+  {
+    "english": "What's your favorite band?",
+    "pronunciation": "왓츠 요어 페이버릿 밴드?",
+    "korean": "제일 좋아하는 밴드가 뭐예요?"
+  },
+  {
+    "english": "I like all kinds of music.",
+    "pronunciation": "아이 라이크 올 카인즈 오브 뮤직.",
+    "korean": "모든 종류의 음악을 좋아해요."
+  },
+  {
+    "english": "Do you dance?",
+    "pronunciation": "두 유 댄스?",
+    "korean": "춤춰요?"
+  },
+  {
+    "english": "I'm taking dance lessons.",
+    "pronunciation": "아임 테이킹 댄스 레슨즈.",
+    "korean": "댄스 레슨을 받고 있어요."
+  },
+  {
+    "english": "Let's go dancing tonight.",
+    "pronunciation": "렛츠 고 댄싱 투나잇.",
+    "korean": "오늘 밤 춤추러 가자."
+  },
+  {
+    "english": "I love the outdoors.",
+    "pronunciation": "아이 러브 디 아웃도어즈.",
+    "korean": "야외활동을 좋아해요."
+  },
+  {
+    "english": "Let's go hiking.",
+    "pronunciation": "렛츠 고 하이킹.",
+    "korean": "하이킹 가자."
+  },
+  {
+    "english": "The view from here is amazing.",
+    "pronunciation": "더 뷰 프롬 히어 이즈 어메이징.",
+    "korean": "여기서의 전망이 정말 멋져요."
+  },
+  {
+    "english": "I like taking photos.",
+    "pronunciation": "아이 라이크 테이킹 포토즈.",
+    "korean": "사진 찍는 걸 좋아해요."
+  },
+  {
+    "english": "Can you take a photo of me?",
+    "pronunciation": "캔 유 테이크 어 포토 오브 미?",
+    "korean": "제 사진을 찍어주실 수 있나요?"
+  },
+  {
+    "english": "You look great in this photo.",
+    "pronunciation": "유 룩 그레이트 인 디스 포토.",
+    "korean": "이 사진에서 정말 좋아 보여요."
+  },
+  {
+    "english": "I collect vintage items.",
+    "pronunciation": "아이 컬렉트 빈티지 아이템즈.",
+    "korean": "빈티지 물건을 수집해요."
+  },
+  {
+    "english": "This is from the 1950s.",
+    "pronunciation": "디스 이즈 프롬 더 나인틴 피프티즈.",
+    "korean": "이건 1950년대 거예요."
+  },
+  {
+    "english": "I found this at a flea market.",
+    "pronunciation": "아이 파운드 디스 앳 어 플리 마켓.",
+    "korean": "이걸 벼룩시장에서 찾았어요."
+  },
+  {
+    "english": "Do you like gardening?",
+    "pronunciation": "두 유 라이크 가드닝?",
+    "korean": "정원 가꾸기 좋아하세요?"
+  },
+  {
+    "english": "I grow my own vegetables.",
+    "pronunciation": "아이 그로우 마이 오운 베지터블즈.",
+    "korean": "채소를 직접 기르고 있어요."
+  },
+  {
+    "english": "These flowers smell wonderful.",
+    "pronunciation": "디즈 플라워즈 스멜 원더풀.",
+    "korean": "이 꽃들이 정말 좋은 향이 나요."
+  },
+  {
+    "english": "I love board games.",
+    "pronunciation": "아이 러브 보드 게임즈.",
+    "korean": "보드게임을 좋아해요."
+  },
+  {
+    "english": "Want to play chess?",
+    "pronunciation": "원트 투 플레이 체스?",
+    "korean": "체스 둘래요?"
+  },
+  {
+    "english": "I'm not good at card games.",
+    "pronunciation": "아임 낫 굿 앳 카드 게임즈.",
+    "korean": "카드게임은 잘 못해요."
+  },
+  {
+    "english": "This puzzle is difficult.",
+    "pronunciation": "디스 퍼즐 이즈 디피컬트.",
+    "korean": "이 퍼즐이 어려워요."
+  },
+  {
+    "english": "I finished reading this book.",
+    "pronunciation": "아이 피니쉬드 리딩 디스 북.",
+    "korean": "이 책을 다 읽었어요."
+  },
+  {
+    "english": "Can you recommend a good book?",
+    "pronunciation": "캔 유 레커멘드 어 굿 북?",
+    "korean": "좋은 책을 추천해 주실 수 있나요?"
+  },
+  {
+    "english": "I prefer non-fiction.",
+    "pronunciation": "아이 프리퍼 논픽션.",
+    "korean": "논픽션을 더 좋아해요."
+  },
+  {
+    "english": "This author writes beautifully.",
+    "pronunciation": "디스 오써 라이츠 뷰티풀리.",
+    "korean": "이 작가는 정말 아름답게 써요."
+  },
+  {
+    "english": "I'm happy.",
+    "pronunciation": "아임 해피.",
+    "korean": "행복해요."
+  },
+  {
+    "english": "I'm sad.",
+    "pronunciation": "아임 새드.",
+    "korean": "슬퍼요."
+  },
+  {
+    "english": "I'm excited.",
+    "pronunciation": "아임 익사이티드.",
+    "korean": "신나요."
+  },
+  {
+    "english": "I'm worried.",
+    "pronunciation": "아임 워리드.",
+    "korean": "걱정돼요."
+  },
+  {
+    "english": "I'm angry.",
+    "pronunciation": "아임 앵그리.",
+    "korean": "화나요."
+  },
+  {
+    "english": "I'm disappointed.",
+    "pronunciation": "아임 디사포인티드.",
+    "korean": "실망했어요."
+  },
+  {
+    "english": "I'm surprised.",
+    "pronunciation": "아임 서프라이즈드.",
+    "korean": "놀랐어요."
+  },
+  {
+    "english": "I'm confused.",
+    "pronunciation": "아임 컨퓨즈드.",
+    "korean": "혼란스러워요."
+  },
+  {
+    "english": "I'm nervous.",
+    "pronunciation": "아임 너버스.",
+    "korean": "긴장돼요."
+  },
+  {
+    "english": "I'm relieved.",
+    "pronunciation": "아임 릴리브드.",
+    "korean": "안도했어요."
+  },
+  {
+    "english": "That's terrible.",
+    "pronunciation": "댓츠 테러블.",
+    "korean": "끔찍하네요."
+  },
+  {
+    "english": "I'm proud of you.",
+    "pronunciation": "아임 프라우드 오브 유.",
+    "korean": "당신이 자랑스러워요."
+  },
+  {
+    "english": "I'm jealous.",
+    "pronunciation": "아임 젤러스.",
+    "korean": "부러워요."
+  },
+  {
+    "english": "I'm embarrassed.",
+    "pronunciation": "아임 임배러스드.",
+    "korean": "부끄러워요."
+  },
+  {
+    "english": "I feel lonely.",
+    "pronunciation": "아이 필 론리.",
+    "korean": "외로워요."
+  },
+  {
+    "english": "I'm stressed.",
+    "pronunciation": "아임 스트레스드.",
+    "korean": "스트레스 받아요."
+  },
+  {
+    "english": "I feel better now.",
+    "pronunciation": "아이 필 베터 나우.",
+    "korean": "이제 기분이 나아졌어요."
+  },
+  {
+    "english": "Cheer up!",
+    "pronunciation": "치어 업!",
+    "korean": "기운 내세요!"
+  },
+  {
+    "english": "Do you have any siblings?",
+    "pronunciation": "두 유 해브 애니 시블링즈?",
+    "korean": "형제자매가 있어요?"
+  },
+  {
+    "english": "I have one brother.",
+    "pronunciation": "아이 해브 원 브라더.",
+    "korean": "형(동생)이 한 명 있어요."
+  },
+  {
+    "english": "Are you married?",
+    "pronunciation": "아 유 매리드?",
+    "korean": "결혼하셨어요?"
+  },
+  {
+    "english": "I'm single.",
+    "pronunciation": "아임 싱글.",
+    "korean": "저는 미혼이에요."
+  },
+  {
+    "english": "Do you have children?",
+    "pronunciation": "두 유 해브 칠드런?",
+    "korean": "아이가 있어요?"
+  },
+  {
+    "english": "I have two kids.",
+    "pronunciation": "아이 해브 투 키즈.",
+    "korean": "아이가 둘 있어요."
+  },
+  {
+    "english": "How is your family?",
+    "pronunciation": "하우 이즈 요어 패밀리?",
+    "korean": "가족들은 어떻게 지내세요?"
+  },
+  {
+    "english": "My parents are fine.",
+    "pronunciation": "마이 페어런츠 아 파인.",
+    "korean": "부모님은 잘 지내세요."
+  },
+  {
+    "english": "I live with my family.",
+    "pronunciation": "아이 리브 위드 마이 패밀리.",
+    "korean": "가족과 함께 살아요."
+  },
+  {
+    "english": "I miss my family.",
+    "pronunciation": "아이 미스 마이 패밀리.",
+    "korean": "가족이 그리워요."
+  },
+  {
+    "english": "My wife is a doctor.",
+    "pronunciation": "마이 와이프 이즈 어 닥터.",
+    "korean": "제 아내는 의사예요."
+  },
+  {
+    "english": "My husband works downtown.",
+    "pronunciation": "마이 허즈번드 워크스 다운타운.",
+    "korean": "제 남편은 시내에서 일해요."
+  },
+  {
+    "english": "My daughter is in college.",
+    "pronunciation": "마이 도터 이즈 인 칼리지.",
+    "korean": "제 딸은 대학생이에요."
+  },
+  {
+    "english": "My son plays baseball.",
+    "pronunciation": "마이 선 플레이즈 베이스볼.",
+    "korean": "제 아들은 야구를 해요."
+  },
+  {
+    "english": "I love my grandmother.",
+    "pronunciation": "아이 러브 마이 그랜마더.",
+    "korean": "할머니를 사랑해요."
+  },
+  {
+    "english": "We're having a family dinner.",
+    "pronunciation": "위어 해빙 어 패밀리 디너.",
+    "korean": "가족 저녁 식사를 해요."
+  },
+  {
+    "english": "Happy anniversary!",
+    "pronunciation": "해피 애니버서리!",
+    "korean": "결혼 기념일 축하해요!"
+  },
+  {
+    "english": "I have good friends.",
+    "pronunciation": "아이 해브 굿 프렌즈.",
+    "korean": "좋은 친구들이 있어요."
+  },
+  {
+    "english": "Let me introduce my friend.",
+    "pronunciation": "렛 미 인트로듀스 마이 프렌드.",
+    "korean": "제 친구를 소개할게요."
+  },
+  {
+    "english": "What do you think?",
+    "pronunciation": "왓 두 유 띵크?",
+    "korean": "어떻게 생각해요?"
+  },
+  {
+    "english": "I think so too.",
+    "pronunciation": "아이 띵크 소 투.",
+    "korean": "저도 그렇게 생각해요."
+  },
+  {
+    "english": "Maybe you're right.",
+    "pronunciation": "메이비 유어 라이트.",
+    "korean": "당신이 맞을지도 몰라요."
+  },
+  {
+    "english": "I'm not sure.",
+    "pronunciation": "아임 낫 슈어.",
+    "korean": "확실하지 않아요."
+  },
+  {
+    "english": "Probably.",
+    "pronunciation": "프라바블리.",
+    "korean": "아마도."
+  },
+  {
+    "english": "Definitely.",
+    "pronunciation": "데피니틀리.",
+    "korean": "확실히."
+  },
+  {
+    "english": "Absolutely not.",
+    "pronunciation": "앱솔루틀리 낫.",
+    "korean": "절대 안 돼요."
+  },
+  {
+    "english": "Don't worry about it.",
+    "pronunciation": "돈트 워리 어바웃 잇.",
+    "korean": "걱정하지 마세요."
+  },
+  {
+    "english": "Take your time.",
+    "pronunciation": "테이크 요어 타임.",
+    "korean": "천천히 하세요."
+  },
+  {
+    "english": "Hurry up.",
+    "pronunciation": "허리 업.",
+    "korean": "서둘러요."
+  },
+  {
+    "english": "Be careful.",
+    "pronunciation": "비 케어풀.",
+    "korean": "조심하세요."
+  },
+  {
+    "english": "Good job!",
+    "pronunciation": "굿 잡!",
+    "korean": "잘했어요!"
+  },
+  {
+    "english": "Well done!",
+    "pronunciation": "웰 던!",
+    "korean": "훌륭해요!"
+  },
+  {
+    "english": "Keep it up!",
+    "pronunciation": "킵 잇 업!",
+    "korean": "계속하세요!"
+  },
+  {
+    "english": "You can do it!",
+    "pronunciation": "유 캔 두 잇!",
+    "korean": "할 수 있어요!"
+  },
+  {
+    "english": "Don't give up.",
+    "pronunciation": "돈트 기브 업.",
+    "korean": "포기하지 마세요."
+  },
+  {
+    "english": "Try your best.",
+    "pronunciation": "트라이 요어 베스트.",
+    "korean": "최선을 다하세요."
+  },
+  {
+    "english": "Better late than never.",
+    "pronunciation": "베터 레이트 댄 네버.",
+    "korean": "늦더라도 안 하는 것보다 낫죠."
+  },
+  {
+    "english": "Time flies.",
+    "pronunciation": "타임 플라이즈.",
+    "korean": "시간이 빨라요."
+  },
+  {
+    "english": "Life is short.",
+    "pronunciation": "라이프 이즈 숏.",
+    "korean": "인생은 짧아요."
+  },
+  {
+    "english": "Enjoy your life.",
+    "pronunciation": "인조이 요어 라이프.",
+    "korean": "인생을 즐기세요."
+  },
+  {
+    "english": "Stay healthy.",
+    "pronunciation": "스테이 헬시.",
+    "korean": "건강하세요."
+  },
+  {
+    "english": "Keep in touch.",
+    "pronunciation": "킵 인 터치.",
+    "korean": "연락하고 지내요."
+  },
+  {
+    "english": "I'll never forget you.",
+    "pronunciation": "아일 네버 포겟 유.",
+    "korean": "당신을 절대 잊지 않을게요."
+  },
+  {
+    "english": "You mean a lot to me.",
+    "pronunciation": "유 민 어 랏 투 미.",
+    "korean": "당신은 저에게 정말 소중해요."
+  },
+  {
+    "english": "Thank you for everything.",
+    "pronunciation": "뎅큐 포어 에브리씽.",
+    "korean": "모든 것에 감사해요."
+  },
+  {
+    "english": "It was nice talking to you.",
+    "pronunciation": "잇 워즈 나이스 토킹 투 유.",
+    "korean": "대화해서 즐거웠어요."
+  },
+  {
+    "english": "Hope to see you again soon.",
+    "pronunciation": "호프 투 씨 유 어게인 순.",
+    "korean": "곧 다시 만나기를 바라요."
+  },
+  {
+    "english": "What a beautiful sunset!",
+    "pronunciation": "왓 어 뷰티풀 선셋!",
+    "korean": "정말 아름다운 일몰이네요!"
+  },
+  {
+    "english": "I love this song.",
+    "pronunciation": "아이 러브 디스 송.",
+    "korean": "이 노래를 좋아해요."
+  },
+  {
+    "english": "This reminds me of home.",
+    "pronunciation": "디스 리마인즈 미 오브 홈.",
+    "korean": "이게 고향을 생각나게 해요."
+  },
+  {
+    "english": "I feel so relaxed here.",
+    "pronunciation": "아이 필 소 릴랙스드 히어.",
+    "korean": "여기서 정말 편안함을 느껴요."
+  },
+  {
+    "english": "This is my favorite place.",
+    "pronunciation": "디스 이즈 마이 페이버릿 플레이스.",
+    "korean": "이곳이 제가 가장 좋아하는 곳이에요."
+  },
+  {
+    "english": "I could stay here forever.",
+    "pronunciation": "아이 쿠드 스테이 히어 포에버.",
+    "korean": "여기서 영원히 있고 싶어요."
+  },
+  {
+    "english": "What a wonderful experience!",
+    "pronunciation": "왓 어 원더풀 익스피어런스!",
+    "korean": "정말 멋진 경험이었어요!"
+  },
+  {
+    "english": "I learned so much today.",
+    "pronunciation": "아이 런드 소 머치 투데이.",
+    "korean": "오늘 정말 많이 배웠어요."
+  },
+  {
+    "english": "This day couldn't get any better.",
+    "pronunciation": "디스 데이 쿠든트 겟 애니 베터.",
+    "korean": "오늘보다 더 좋을 수 없어요."
+  },
+  {
+    "english": "I'm so lucky to be here.",
+    "pronunciation": "아임 소 럭키 투 비 히어.",
+    "korean": "여기 있을 수 있어서 정말 행운이에요."
+  },
+  {
+    "english": "Life is full of surprises.",
+    "pronunciation": "라이프 이즈 풀 오브 서프라이지즈.",
+    "korean": "인생은 놀라움으로 가득해요."
+  },
+  {
+    "english": "Every day is a new adventure.",
+    "pronunciation": "에브리 데이 이즈 어 뉴 어드벤처.",
+    "korean": "매일이 새로운 모험이에요."
+  },
+  {
+    "english": "I'm grateful for this opportunity.",
+    "pronunciation": "아임 그레이트풀 포어 디스 오퍼튜니티.",
+    "korean": "이 기회에 감사해요."
+  },
+  {
+    "english": "Dreams do come true.",
+    "pronunciation": "드림즈 두 컴 트루.",
+    "korean": "꿈은 정말 이루어져요."
+  },
+  {
+    "english": "Never stop believing in yourself.",
+    "pronunciation": "네버 스탑 빌리빙 인 요어셀프.",
+    "korean": "자신을 믿는 것을 멈추지 마세요."
+  },
+  {
+    "english": "You are stronger than you think.",
+    "pronunciation": "유 아 스트롱거 댄 유 띵크.",
+    "korean": "당신은 생각보다 강해요."
+  },
+  {
+    "english": "Everything happens for a reason.",
+    "pronunciation": "에브리씽 해픈즈 포어 어 리즌.",
+    "korean": "모든 일에는 이유가 있어요."
+  },
+  {
+    "english": "This too shall pass.",
+    "pronunciation": "디스 투 쉘 패스.",
+    "korean": "이것도 지나갈 거예요."
+  },
+  {
+    "english": "Tomorrow is another day.",
+    "pronunciation": "투모로우 이즈 어나더 데이.",
+    "korean": "내일은 또 다른 날이에요."
+  },
+  {
+    "english": "The best is yet to come.",
+    "pronunciation": "더 베스트 이즈 옛 투 컴.",
+    "korean": "가장 좋은 일은 아직 오지 않았어요."
+  },
+  {
+    "english": "Count your blessings.",
+    "pronunciation": "카운트 요어 블레싱즈.",
+    "korean": "당신이 받은 축복들을 세어보세요."
+  },
+  {
+    "english": "Live in the moment.",
+    "pronunciation": "리브 인 더 모먼트.",
+    "korean": "현재를 살아가세요."
+  },
+  {
+    "english": "Follow your heart.",
+    "pronunciation": "팔로우 요어 하트.",
+    "korean": "마음을 따르세요."
+  },
+  {
+    "english": "Believe in miracles.",
+    "pronunciation": "빌리브 인 미라클즈.",
+    "korean": "기적을 믿으세요."
+  },
+  {
+    "english": "Love conquers all.",
+    "pronunciation": "러브 콘커즈 올.",
+    "korean": "사랑이 모든 것을 이겨요."
+  },
+  {
+    "english": "Home is where the heart is.",
+    "pronunciation": "홈 이즈 웨어 더 하트 이즈.",
+    "korean": "마음이 있는 곳이 집이에요."
+  },
+  {
+    "english": "Family comes first.",
+    "pronunciation": "패밀리 컴즈 퍼스트.",
+    "korean": "가족이 최우선이에요."
+  },
+  {
+    "english": "Friends are the family we choose.",
+    "pronunciation": "프렌즈 아 더 패밀리 위 츄즈.",
+    "korean": "친구들은 우리가 선택한 가족이에요."
+  },
+  {
+    "english": "Laughter is the best medicine.",
+    "pronunciation": "래프터 이즈 더 베스트 메디신.",
+    "korean": "웃음이 최고의 약이에요."
+  },
+  {
+    "english": "Happiness is a choice.",
+    "pronunciation": "해피니스 이즈 어 초이스.",
+    "korean": "행복은 선택이에요."
+  },
+  {
+    "english": "Be kind to others.",
+    "pronunciation": "비 카인드 투 아더즈.",
+    "korean": "다른 사람들에게 친절하세요."
+  },
+  {
+    "english": "Treat others as you want to be treated.",
+    "pronunciation": "트릿 아더즈 애즈 유 원트 투 비 트리티드.",
+    "korean": "대접받고 싶은 대로 남을 대접하세요."
+  },
+  {
+    "english": "Actions speak louder than words.",
+    "pronunciation": "액션즈 스피크 라우더 댄 워즈.",
+    "korean": "행동이 말보다 크게 말해요."
+  },
+  {
+    "english": "Honesty is the best policy.",
+    "pronunciation": "아네스티 이즈 더 베스트 폴리시.",
+    "korean": "정직이 최선의 방책이에요."
+  },
+  {
+    "english": "Patience is a virtue.",
+    "pronunciation": "페이션스 이즈 어 버츄.",
+    "korean": "인내는 미덕이에요."
+  },
+  {
+    "english": "Good things come to those who wait.",
+    "pronunciation": "굿 씽즈 컴 투 도즈 후 웨이트.",
+    "korean": "기다리는 자에게 좋은 일이 온다."
+  },
+  {
+    "english": "Where there's a will, there's a way.",
+    "pronunciation": "웨어 데어즈 어 윌, 데어즈 어 웨이.",
+    "korean": "뜻이 있는 곳에 길이 있다."
+  },
+  {
+    "english": "Rome wasn't built in a day.",
+    "pronunciation": "로움 워즌트 빌트 인 어 데이.",
+    "korean": "로마는 하루아침에 지어지지 않았다."
+  },
+  {
+    "english": "The early bird catches the worm.",
+    "pronunciation": "디 얼리 버드 캐치즈 더 웜.",
+    "korean": "일찍 일어나는 새가 벌레를 잡는다."
+  },
+  {
+    "english": "Don't judge a book by its cover.",
+    "pronunciation": "돈트 저지 어 북 바이 잇츠 커버.",
+    "korean": "겉모습으로 책을 판단하지 마라."
+  },
+  {
+    "english": "Two heads are better than one.",
+    "pronunciation": "투 헤즈 아 베터 댄 원.",
+    "korean": "백지장도 맞들면 낫다."
+  },
+  {
+    "english": "When in Rome, do as the Romans do.",
+    "pronunciation": "웬 인 로움, 두 애즈 더 로만즈 두.",
+    "korean": "로마에 가면 로마법을 따르라."
+  },
+  {
+    "english": "The grass is always greener on the other side.",
+    "pronunciation": "더 그래스 이즈 올웨이즈 그리너 온 디 아더 사이드.",
+    "korean": "남의 떡이 더 커 보인다."
+  },
+  {
+    "english": "Don't put all your eggs in one basket.",
+    "pronunciation": "돈트 풋 올 요어 에그즈 인 원 바스킷.",
+    "korean": "모든 달걀을 한 바구니에 담지 마라."
+  },
+  {
+    "english": "A picture is worth a thousand words.",
+    "pronunciation": "어 픽처 이즈 워스 어 사우전드 워즈.",
+    "korean": "한 장의 그림이 천 마디 말의 가치가 있다."
+  },
+  {
+    "english": "Time heals all wounds.",
+    "pronunciation": "타임 힐즈 올 운즈.",
+    "korean": "시간이 모든 상처를 치유한다."
+  },
+  {
+    "english": "What doesn't kill you makes you stronger.",
+    "pronunciation": "왓 더즌트 킬 유 메익스 유 스트롱거.",
+    "korean": "죽이지 못하는 것은 더 강하게 만든다."
+  },
+  {
+    "english": "The best things in life are free.",
+    "pronunciation": "더 베스트 씽즈 인 라이프 아 프리.",
+    "korean": "인생에서 가장 좋은 것들은 공짜다."
+  },
+  {
+    "english": "You only live once.",
+    "pronunciation": "유 온리 리브 원스.",
+    "korean": "인생은 한 번뿐이다."
+  },
+  {
+    "english": "Make every day count.",
+    "pronunciation": "메이크 에브리 데이 카운트.",
+    "korean": "매일을 의미 있게 살아라."
+  },
+  {
+    "english": "Life is what you make it.",
+    "pronunciation": "라이프 이즈 왓 유 메이크 잇.",
+    "korean": "인생은 당신이 만드는 것이다."
+  },
+  {
+    "english": "I have a meeting at 3 PM.",
+    "pronunciation": "아이 해브 어 미팅 앳 쓰리 피엠",
+    "korean": "나는 오후 3시에 회의가 있어요."
+  },
+  {
+    "english": "Can we schedule a call?",
+    "pronunciation": "캔 위 스케줄 어 콜",
+    "korean": "통화 일정을 잡을 수 있을까요?"
+  },
+  {
+    "english": "I'm working from home today.",
+    "pronunciation": "아임 워킹 프롬 홈 투데이",
+    "korean": "오늘은 재택근무를 해요."
+  },
+  {
+    "english": "The deadline is tomorrow.",
+    "pronunciation": "더 데드라인 이즈 투모로우",
+    "korean": "마감일이 내일이에요."
+  },
+  {
+    "english": "I need to finish this report.",
+    "pronunciation": "아이 니드 투 피니쉬 디스 리포트",
+    "korean": "이 보고서를 끝내야 해요."
+  },
+  {
+    "english": "Can you send me that file?",
+    "pronunciation": "캔 유 센드 미 댓 파일",
+    "korean": "그 파일을 보내줄 수 있나요?"
+  },
+  {
+    "english": "Let's have a team meeting.",
+    "pronunciation": "렛츠 해브 어 팀 미팅",
+    "korean": "팀 회의를 합시다."
+  },
+  {
+    "english": "I'll get back to you on that.",
+    "pronunciation": "아일 겟 백 투 유 온 댓",
+    "korean": "그것에 대해 다시 연락드릴게요."
+  },
+  {
+    "english": "The project is due next week.",
+    "pronunciation": "더 프로젝트 이즈 듀 넥스트 위크",
+    "korean": "프로젝트 마감이 다음 주예요."
+  },
+  {
+    "english": "I'm running behind schedule.",
+    "pronunciation": "아임 러닝 비하인드 스케줄",
+    "korean": "일정보다 늦어지고 있어요."
+  },
+  {
+    "english": "Can I take a day off?",
+    "pronunciation": "캔 아이 테이크 어 데이 오프",
+    "korean": "하루 휴가를 낼 수 있을까요?"
+  },
+  {
+    "english": "The presentation went well.",
+    "pronunciation": "더 프레젠테이션 웬트 웰",
+    "korean": "발표가 잘 됐어요."
+  },
+  {
+    "english": "I'm in a conference call.",
+    "pronunciation": "아임 인 어 컨퍼런스 콜",
+    "korean": "전화 회의 중이에요."
+  },
+  {
+    "english": "My computer isn't working.",
+    "pronunciation": "마이 컴퓨터 이즌트 워킹",
+    "korean": "제 컴퓨터가 작동하지 않아요."
+  },
+  {
+    "english": "I need to print this out.",
+    "pronunciation": "아이 니드 투 프린트 디스 아웃",
+    "korean": "이것을 인쇄해야 해요."
+  },
+  {
+    "english": "Let me check my calendar.",
+    "pronunciation": "렛 미 체크 마이 캘린더",
+    "korean": "제 일정을 확인해 볼게요."
+  },
+  {
+    "english": "I'm waiting for approval.",
+    "pronunciation": "아임 웨이팅 포 어프루벌",
+    "korean": "승인을 기다리고 있어요."
+  },
+  {
+    "english": "Can you cover for me?",
+    "pronunciation": "캔 유 커버 포 미",
+    "korean": "제 일을 대신해 줄 수 있나요?"
+  },
+  {
+    "english": "I have a performance review today.",
+    "pronunciation": "아이 해브 어 퍼포먼스 리뷰 투데이",
+    "korean": "오늘 성과 평가가 있어요."
+  },
+  {
+    "english": "We need to meet the deadline.",
+    "pronunciation": "위 니드 투 밋 더 데드라인",
+    "korean": "마감일을 맞춰야 해요."
+  },
+  {
+    "english": "I'm working overtime tonight.",
+    "pronunciation": "아임 워킹 오버타임 투나잇",
+    "korean": "오늘 밤 야근해요."
+  },
+  {
+    "english": "The copier is jammed.",
+    "pronunciation": "더 카피어 이즈 잼드",
+    "korean": "복사기가 걸렸어요."
+  },
+  {
+    "english": "I'll forward you the email.",
+    "pronunciation": "아일 포워드 유 디 이메일",
+    "korean": "이메일을 전달해 드릴게요."
+  },
+  {
+    "english": "Can we reschedule the meeting?",
+    "pronunciation": "캔 위 리스케줄 더 미팅",
+    "korean": "회의 일정을 변경할 수 있을까요?"
+  },
+  {
+    "english": "I need to update my resume.",
+    "pronunciation": "아이 니드 투 업데이트 마이 레주메",
+    "korean": "이력서를 업데이트해야 해요."
+  },
+  {
+    "english": "Let's collaborate on this project.",
+    "pronunciation": "렛츠 컬래버레이트 온 디스 프로젝트",
+    "korean": "이 프로젝트를 함께 작업합시다."
+  },
+  {
+    "english": "I'm out of office next week.",
+    "pronunciation": "아임 아웃 오브 오피스 넥스트 위크",
+    "korean": "다음 주에 사무실에 없어요."
+  },
+  {
+    "english": "The meeting has been cancelled.",
+    "pronunciation": "더 미팅 해즈 빈 캔슬드",
+    "korean": "회의가 취소됐어요."
+  },
+  {
+    "english": "I need to prepare for the presentation.",
+    "pronunciation": "아이 니드 투 프리페어 포 더 프레젠테이션",
+    "korean": "발표 준비를 해야 해요."
+  },
+  {
+    "english": "Can you give me feedback?",
+    "pronunciation": "캔 유 기브 미 피드백",
+    "korean": "피드백을 줄 수 있나요?"
+  },
+  {
+    "english": "The wifi isn't working.",
+    "pronunciation": "더 와이파이 이즌트 워킹",
+    "korean": "와이파이가 작동하지 않아요."
+  },
+  {
+    "english": "I need to charge my phone.",
+    "pronunciation": "아이 니드 투 차지 마이 폰",
+    "korean": "휴대폰을 충전해야 해요."
+  },
+  {
+    "english": "Can you help me with this app?",
+    "pronunciation": "캔 유 헬프 미 위드 디스 앱",
+    "korean": "이 앱 좀 도와줄 수 있나요?"
+  },
+  {
+    "english": "My phone is frozen.",
+    "pronunciation": "마이 폰 이즈 프로즌",
+    "korean": "제 휴대폰이 멈췄어요."
+  },
+  {
+    "english": "I need to update my software.",
+    "pronunciation": "아이 니드 투 업데이트 마이 소프트웨어",
+    "korean": "소프트웨어를 업데이트해야 해요."
+  },
+  {
+    "english": "Can you reset the password?",
+    "pronunciation": "캔 유 리셋 더 패스워드",
+    "korean": "비밀번호를 재설정할 수 있나요?"
+  },
+  {
+    "english": "I forgot my login information.",
+    "pronunciation": "아이 포갓 마이 로그인 인포메이션",
+    "korean": "로그인 정보를 잊어버렸어요."
+  },
+  {
+    "english": "The website is down.",
+    "pronunciation": "더 웹사이트 이즈 다운",
+    "korean": "웹사이트가 다운됐어요."
+  },
+  {
+    "english": "I need to back up my files.",
+    "pronunciation": "아이 니드 투 백 업 마이 파일즈",
+    "korean": "파일을 백업해야 해요."
+  },
+  {
+    "english": "Can you send me the link?",
+    "pronunciation": "캔 유 센드 미 더 링크",
+    "korean": "링크를 보내줄 수 있나요?"
+  },
+  {
+    "english": "I can't connect to the internet.",
+    "pronunciation": "아이 캔트 커넥트 투 디 인터넷",
+    "korean": "인터넷에 연결할 수 없어요."
+  },
+  {
+    "english": "My battery is dying.",
+    "pronunciation": "마이 배터리 이즈 다잉",
+    "korean": "배터리가 거의 다 됐어요."
+  },
+  {
+    "english": "I need to download this app.",
+    "pronunciation": "아이 니드 투 다운로드 디스 앱",
+    "korean": "이 앱을 다운로드해야 해요."
+  },
+  {
+    "english": "The screen is cracked.",
+    "pronunciation": "더 스크린 이즈 크랙트",
+    "korean": "화면이 깨졌어요."
+  },
+  {
+    "english": "I posted it on social media.",
+    "pronunciation": "아이 포스티드 잇 온 소셜 미디어",
+    "korean": "소셜 미디어에 올렸어요."
+  },
+  {
+    "english": "Did you see my message?",
+    "pronunciation": "디드 유 씨 마이 메시지",
+    "korean": "내 메시지 봤어요?"
+  },
+  {
+    "english": "The computer crashed.",
+    "pronunciation": "더 컴퓨터 크래쉬드",
+    "korean": "컴퓨터가 다운됐어요."
+  },
+  {
+    "english": "I need tech support.",
+    "pronunciation": "아이 니드 텍 서포트",
+    "korean": "기술 지원이 필요해요."
+  },
+  {
+    "english": "Can you troubleshoot this issue?",
+    "pronunciation": "캔 유 트러블슛 디스 이슈",
+    "korean": "이 문제를 해결할 수 있나요?"
+  },
+  {
+    "english": "The system is updating.",
+    "pronunciation": "더 시스템 이즈 업데이팅",
+    "korean": "시스템이 업데이트 중이에요."
+  },
+  {
+    "english": "I need to restart my computer.",
+    "pronunciation": "아이 니드 투 리스타트 마이 컴퓨터",
+    "korean": "컴퓨터를 재시작해야 해요."
+  },
+  {
+    "english": "My storage is full.",
+    "pronunciation": "마이 스토리지 이즈 풀",
+    "korean": "저장 공간이 가득 찼어요."
+  },
+  {
+    "english": "Can you fix my laptop?",
+    "pronunciation": "캔 유 픽스 마이 랩탑",
+    "korean": "제 노트북을 고칠 수 있나요?"
+  },
+  {
+    "english": "I deleted it by accident.",
+    "pronunciation": "아이 딜리티드 잇 바이 액시던트",
+    "korean": "실수로 삭제했어요."
+  },
+  {
+    "english": "The connection is slow.",
+    "pronunciation": "더 커넥션 이즈 슬로우",
+    "korean": "연결이 느려요."
+  },
+  {
+    "english": "What are you watching?",
+    "pronunciation": "왓 아 유 와칭",
+    "korean": "무엇을 보고 있어요?"
+  },
+  {
+    "english": "Have you seen that movie?",
+    "pronunciation": "해브 유 신 댓 무비",
+    "korean": "그 영화 봤어요?"
+  },
+  {
+    "english": "What are you doing this weekend?",
+    "pronunciation": "왓 아 유 두잉 디스 위켄드",
+    "korean": "이번 주말에 뭐 해요?"
+  },
+  {
+    "english": "Let's go to the movies.",
+    "pronunciation": "렛츠 고 투 더 무비즈",
+    "korean": "영화 보러 갑시다."
+  },
+  {
+    "english": "Do you want to hang out?",
+    "pronunciation": "두 유 원트 투 행 아웃",
+    "korean": "놀러 갈래요?"
+  },
+  {
+    "english": "I'm binge-watching a series.",
+    "pronunciation": "아임 빈지워칭 어 시리즈",
+    "korean": "시리즈를 몰아보고 있어요."
+  },
+  {
+    "english": "The concert was amazing.",
+    "pronunciation": "더 콘서트 워즈 어메이징",
+    "korean": "콘서트가 정말 좋았어요."
+  },
+  {
+    "english": "I'm going to a party tonight.",
+    "pronunciation": "아임 고잉 투 어 파티 투나잇",
+    "korean": "오늘 밤 파티에 가요."
+  },
+  {
+    "english": "Do you have any plans?",
+    "pronunciation": "두 유 해브 애니 플랜즈",
+    "korean": "계획 있어요?"
+  },
+  {
+    "english": "Let's grab a drink.",
+    "pronunciation": "렛츠 그랩 어 드링크",
+    "korean": "한잔 합시다."
+  },
+  {
+    "english": "I need a vacation.",
+    "pronunciation": "아이 니드 어 베이케이션",
+    "korean": "휴가가 필요해요."
+  },
+  {
+    "english": "What time does it start?",
+    "pronunciation": "왓 타임 더즈 잇 스타트",
+    "korean": "몇 시에 시작해요?"
+  },
+  {
+    "english": "I'm going to the gym.",
+    "pronunciation": "아임 고잉 투 더 짐",
+    "korean": "헬스장에 가요."
+  },
+  {
+    "english": "The show was sold out.",
+    "pronunciation": "더 쇼 워즈 솔드 아웃",
+    "korean": "쇼가 매진됐어요."
+  },
+  {
+    "english": "I bought tickets for the game.",
+    "pronunciation": "아이 봇 티켓츠 포 더 게임",
+    "korean": "경기 티켓을 샀어요."
+  },
+  {
+    "english": "Let's celebrate!",
+    "pronunciation": "렛츠 셀러브레이트",
+    "korean": "축하합시다!"
+  },
+  {
+    "english": "I'm watching a documentary.",
+    "pronunciation": "아임 와칭 어 다큐먼터리",
+    "korean": "다큐멘터리를 보고 있어요."
+  },
+  {
+    "english": "The festival is next month.",
+    "pronunciation": "더 페스티벌 이즈 넥스트 먼쓰",
+    "korean": "축제가 다음 달이에요."
+  },
+  {
+    "english": "Do you like live music?",
+    "pronunciation": "두 유 라이크 라이브 뮤직",
+    "korean": "라이브 음악 좋아해요?"
+  },
+  {
+    "english": "I'm going on a trip.",
+    "pronunciation": "아임 고잉 온 어 트립",
+    "korean": "여행을 가요."
+  },
+  {
+    "english": "Let's do something fun.",
+    "pronunciation": "렛츠 두 썸씽 펀",
+    "korean": "재미있는 것을 합시다."
+  },
+  {
+    "english": "I'm staying in tonight.",
+    "pronunciation": "아임 스테잉 인 투나잇",
+    "korean": "오늘 밤 집에 있을 거예요."
+  },
+  {
+    "english": "What channel is it on?",
+    "pronunciation": "왓 채널 이즈 잇 온",
+    "korean": "몇 번 채널이에요?"
+  },
+  {
+    "english": "I'm streaming it online.",
+    "pronunciation": "아임 스트리밍 잇 온라인",
+    "korean": "온라인으로 스트리밍하고 있어요."
+  },
+  {
+    "english": "The theater is nearby.",
+    "pronunciation": "더 씨어터 이즈 니어바이",
+    "korean": "극장이 근처에 있어요."
+  },
+  {
+    "english": "I need to withdraw money.",
+    "pronunciation": "아이 니드 투 위드드로 머니",
+    "korean": "돈을 인출해야 해요."
+  },
+  {
+    "english": "Where's the nearest ATM?",
+    "pronunciation": "웨얼즈 더 니어리스트 에이티엠",
+    "korean": "가장 가까운 ATM이 어디에 있나요?"
+  },
+  {
+    "english": "I need to open an account.",
+    "pronunciation": "아이 니드 투 오픈 언 어카운트",
+    "korean": "계좌를 개설해야 해요."
+  },
+  {
+    "english": "Can I pay by card?",
+    "pronunciation": "캔 아이 페이 바이 카드",
+    "korean": "카드로 결제할 수 있나요?"
+  },
+  {
+    "english": "My card was declined.",
+    "pronunciation": "마이 카드 워즈 디클라인드",
+    "korean": "제 카드가 거부됐어요."
+  },
+  {
+    "english": "I need to transfer money.",
+    "pronunciation": "아이 니드 투 트랜스퍼 머니",
+    "korean": "돈을 이체해야 해요."
+  },
+  {
+    "english": "What's the exchange rate?",
+    "pronunciation": "왓츠 디 익스체인지 레이트",
+    "korean": "환율이 어떻게 되나요?"
+  },
+  {
+    "english": "I need to pay my bills.",
+    "pronunciation": "아이 니드 투 페이 마이 빌즈",
+    "korean": "청구서를 내야 해요."
+  },
+  {
+    "english": "Can I get a loan?",
+    "pronunciation": "캔 아이 겟 어 론",
+    "korean": "대출을 받을 수 있나요?"
+  },
+  {
+    "english": "I'm saving up for something.",
+    "pronunciation": "아임 세이빙 업 포 썸씽",
+    "korean": "뭔가를 위해 저축하고 있어요."
+  },
+  {
+    "english": "What's my balance?",
+    "pronunciation": "왓츠 마이 밸런스",
+    "korean": "제 잔액이 얼마예요?"
+  },
+  {
+    "english": "I need to check my statement.",
+    "pronunciation": "아이 니드 투 체크 마이 스테이트먼트",
+    "korean": "명세서를 확인해야 해요."
+  },
+  {
+    "english": "The payment is overdue.",
+    "pronunciation": "더 페이먼트 이즈 오버듀",
+    "korean": "지불이 연체됐어요."
+  },
+  {
+    "english": "I need to cancel my card.",
+    "pronunciation": "아이 니드 투 캔슬 마이 카드",
+    "korean": "카드를 취소해야 해요."
+  },
+  {
+    "english": "Can I deposit this check?",
+    "pronunciation": "캔 아이 디파짓 디스 체크",
+    "korean": "이 수표를 입금할 수 있나요?"
+  },
+  {
+    "english": "What are the fees?",
+    "pronunciation": "왓 아 더 피즈",
+    "korean": "수수료가 얼마예요?"
+  },
+  {
+    "english": "I need to set up online banking.",
+    "pronunciation": "아이 니드 투 셋 업 온라인 뱅킹",
+    "korean": "온라인 뱅킹을 설정해야 해요."
+  },
+  {
+    "english": "My credit score is good.",
+    "pronunciation": "마이 크레딧 스코어 이즈 굿",
+    "korean": "제 신용 점수가 좋아요."
+  },
+  {
+    "english": "I'm paying off my debt.",
+    "pronunciation": "아임 페잉 오프 마이 뎃",
+    "korean": "빚을 갚고 있어요."
+  },
+  {
+    "english": "Can I get a receipt?",
+    "pronunciation": "캔 아이 겟 어 리싯",
+    "korean": "영수증을 받을 수 있나요?"
+  },
+  {
+    "english": "I'm looking for an apartment.",
+    "pronunciation": "아임 루킹 포 언 어파트먼트",
+    "korean": "아파트를 찾고 있어요."
+  },
+  {
+    "english": "How much is the rent?",
+    "pronunciation": "하우 머치 이즈 더 렌트",
+    "korean": "임대료가 얼마예요?"
+  },
+  {
+    "english": "When can I move in?",
+    "pronunciation": "웬 캔 아이 무브 인",
+    "korean": "언제 입주할 수 있나요?"
+  },
+  {
+    "english": "I need to pay the utilities.",
+    "pronunciation": "아이 니드 투 페이 더 유틸리티즈",
+    "korean": "공과금을 내야 해요."
+  },
+  {
+    "english": "The landlord is coming over.",
+    "pronunciation": "더 랜들로드 이즈 커밍 오버",
+    "korean": "집주인이 오고 있어요."
+  },
+  {
+    "english": "Something needs to be repaired.",
+    "pronunciation": "썸씽 니즈 투 비 리페어드",
+    "korean": "뭔가 수리가 필요해요."
+  },
+  {
+    "english": "The heater isn't working.",
+    "pronunciation": "더 히터 이즌트 워킹",
+    "korean": "히터가 작동하지 않아요."
+  },
+  {
+    "english": "I'm moving next month.",
+    "pronunciation": "아임 무빙 넥스트 먼쓰",
+    "korean": "다음 달에 이사해요."
+  },
+  {
+    "english": "Do you know any good neighborhoods?",
+    "pronunciation": "두 유 노우 애니 굿 네이버후즈",
+    "korean": "좋은 동네 아세요?"
+  },
+  {
+    "english": "The neighbors are noisy.",
+    "pronunciation": "더 네이버즈 아 노이지",
+    "korean": "이웃들이 시끄러워요."
+  },
+  {
+    "english": "I need to sign the lease.",
+    "pronunciation": "아이 니드 투 사인 더 리스",
+    "korean": "임대 계약서에 서명해야 해요."
+  },
+  {
+    "english": "Is it furnished?",
+    "pronunciation": "이즈 잇 퍼니쉬드",
+    "korean": "가구가 있나요?"
+  },
+  {
+    "english": "I'm buying a house.",
+    "pronunciation": "아임 바잉 어 하우스",
+    "korean": "집을 사고 있어요."
+  },
+  {
+    "english": "The lease is up soon.",
+    "pronunciation": "더 리스 이즈 업 순",
+    "korean": "임대 계약이 곧 만료돼요."
+  },
+  {
+    "english": "I need a security deposit.",
+    "pronunciation": "아이 니드 어 시큐리티 디파짓",
+    "korean": "보증금이 필요해요."
+  },
+  {
+    "english": "Can I schedule a viewing?",
+    "pronunciation": "캔 아이 스케줄 어 뷰잉",
+    "korean": "방문 일정을 잡을 수 있나요?"
+  },
+  {
+    "english": "The rent is too expensive.",
+    "pronunciation": "더 렌트 이즈 투 익스펜시브",
+    "korean": "임대료가 너무 비싸요."
+  },
+  {
+    "english": "I'm renewing my lease.",
+    "pronunciation": "아임 리뉴잉 마이 리스",
+    "korean": "임대 계약을 갱신하고 있어요."
+  },
+  {
+    "english": "The plumbing is broken.",
+    "pronunciation": "더 플러밍 이즈 브로큰",
+    "korean": "배관이 고장 났어요."
+  },
+  {
+    "english": "I need to call maintenance.",
+    "pronunciation": "아이 니드 투 콜 메인터넌스",
+    "korean": "관리인에게 전화해야 해요."
+  },
+  {
+    "english": "I'm going to work out.",
+    "pronunciation": "아임 고잉 투 워크 아웃",
+    "korean": "운동하러 가요."
+  },
+  {
+    "english": "I need to lose weight.",
+    "pronunciation": "아이 니드 투 루즈 웨이트",
+    "korean": "살을 빼야 해요."
+  },
+  {
+    "english": "I'm on a diet.",
+    "pronunciation": "아임 온 어 다이엇",
+    "korean": "다이어트 중이에요."
+  },
+  {
+    "english": "I work out every day.",
+    "pronunciation": "아이 워크 아웃 에브리 데이",
+    "korean": "매일 운동해요."
+  },
+  {
+    "english": "I need to stay healthy.",
+    "pronunciation": "아이 니드 투 스테이 헬씨",
+    "korean": "건강을 유지해야 해요."
+  },
+  {
+    "english": "I'm trying to eat better.",
+    "pronunciation": "아임 트라잉 투 잇 베터",
+    "korean": "더 잘 먹으려고 노력하고 있어요."
+  },
+  {
+    "english": "I have a doctor's appointment.",
+    "pronunciation": "아이 해브 어 닥터즈 어포인트먼트",
+    "korean": "병원 예약이 있어요."
+  },
+  {
+    "english": "I'm not feeling well.",
+    "pronunciation": "아임 낫 필링 웰",
+    "korean": "몸이 안 좋아요."
+  },
+  {
+    "english": "I have a headache.",
+    "pronunciation": "아이 해브 어 헤드에이크",
+    "korean": "두통이 있어요."
+  },
+  {
+    "english": "I think I'm getting sick.",
+    "pronunciation": "아이 씽크 아임 게팅 식",
+    "korean": "아플 것 같아요."
+  },
+  {
+    "english": "I need to take my medicine.",
+    "pronunciation": "아이 니드 투 테이크 마이 메디슨",
+    "korean": "약을 먹어야 해요."
+  },
+  {
+    "english": "Do you have any allergies?",
+    "pronunciation": "두 유 해브 애니 앨러지즈",
+    "korean": "알레르기가 있나요?"
+  },
+  {
+    "english": "I'm allergic to peanuts.",
+    "pronunciation": "아임 앨러직 투 피넛츠",
+    "korean": "땅콩 알레르기가 있어요."
+  },
+  {
+    "english": "I need to get in shape.",
+    "pronunciation": "아이 니드 투 겟 인 쉐입",
+    "korean": "몸을 만들어야 해요."
+  },
+  {
+    "english": "I'm training for a marathon.",
+    "pronunciation": "아임 트레이닝 포 어 마라톤",
+    "korean": "마라톤을 위해 훈련하고 있어요."
+  },
+  {
+    "english": "I joined a gym.",
+    "pronunciation": "아이 조인드 어 짐",
+    "korean": "헬스장에 등록했어요."
+  },
+  {
+    "english": "I need to drink more water.",
+    "pronunciation": "아이 니드 투 드링크 모어 워터",
+    "korean": "물을 더 마셔야 해요."
+  },
+  {
+    "english": "I'm sore from yesterday's workout.",
+    "pronunciation": "아임 소어 프롬 예스터데이즈 워크아웃",
+    "korean": "어제 운동해서 아파요."
+  },
+  {
+    "english": "I need to stretch.",
+    "pronunciation": "아이 니드 투 스트레치",
+    "korean": "스트레칭을 해야 해요."
+  },
+  {
+    "english": "How many calories is that?",
+    "pronunciation": "하우 매니 캘러리즈 이즈 댓",
+    "korean": "그게 칼로리가 얼마예요?"
+  },
+  {
+    "english": "I'm counting calories.",
+    "pronunciation": "아임 카운팅 캘러리즈",
+    "korean": "칼로리를 세고 있어요."
+  },
+  {
+    "english": "I need to rest.",
+    "pronunciation": "아이 니드 투 레스트",
+    "korean": "휴식이 필요해요."
+  },
+  {
+    "english": "I pulled a muscle.",
+    "pronunciation": "아이 풀드 어 머슬",
+    "korean": "근육을 삐었어요."
+  },
+  {
+    "english": "I'm going for a run.",
+    "pronunciation": "아임 고잉 포 어 런",
+    "korean": "달리기하러 가요."
+  },
+  {
+    "english": "I feel much better now.",
+    "pronunciation": "아이 필 머치 베터 나우",
+    "korean": "이제 훨씬 나아요."
+  },
+  {
+    "english": "I have an assignment due.",
+    "pronunciation": "아이 해브 언 어사인먼트 듀",
+    "korean": "제출할 과제가 있어요."
+  },
+  {
+    "english": "I'm writing a research paper.",
+    "pronunciation": "아임 라이팅 어 리서치 페이퍼",
+    "korean": "연구 논문을 쓰고 있어요."
+  },
+  {
+    "english": "I need to go to the library.",
+    "pronunciation": "아이 니드 투 고 투 더 라이브러리",
+    "korean": "도서관에 가야 해요."
+  },
+  {
+    "english": "Can you help me study?",
+    "pronunciation": "캔 유 헬프 미 스터디",
+    "korean": "공부 좀 도와줄 수 있나요?"
+  },
+  {
+    "english": "I'm applying for a scholarship.",
+    "pronunciation": "아임 어플라잉 포 어 스칼러십",
+    "korean": "장학금을 신청하고 있어요."
+  },
+  {
+    "english": "I need a tutor.",
+    "pronunciation": "아이 니드 어 튜터",
+    "korean": "과외 선생님이 필요해요."
+  },
+  {
+    "english": "When is the exam?",
+    "pronunciation": "웬 이즈 디 이그잼",
+    "korean": "시험이 언제예요?"
+  },
+  {
+    "english": "I'm studying for finals.",
+    "pronunciation": "아임 스터디잉 포 파이널즈",
+    "korean": "기말고사 공부하고 있어요."
+  },
+  {
+    "english": "I'm graduating next year.",
+    "pronunciation": "아임 그래듀에이팅 넥스트 이어",
+    "korean": "내년에 졸업해요."
+  },
+  {
+    "english": "I'm majoring in biology.",
+    "pronunciation": "아임 메이저링 인 바이올로지",
+    "korean": "생물학을 전공하고 있어요."
+  },
+  {
+    "english": "I need to register for classes.",
+    "pronunciation": "아이 니드 투 레지스터 포 클래시즈",
+    "korean": "수업 등록을 해야 해요."
+  },
+  {
+    "english": "I'm taking five courses this semester.",
+    "pronunciation": "아임 테이킹 파이브 코시즈 디스 서메스터",
+    "korean": "이번 학기에 다섯 과목을 듣고 있어요."
+  },
+  {
+    "english": "I have office hours tomorrow.",
+    "pronunciation": "아이 해브 오피스 아워즈 투모로우",
+    "korean": "내일 상담 시간이 있어요."
+  },
+  {
+    "english": "I need to check the syllabus.",
+    "pronunciation": "아이 니드 투 체크 더 실러버스",
+    "korean": "강의 계획서를 확인해야 해요."
+  },
+  {
+    "english": "I'm doing an internship.",
+    "pronunciation": "아임 두잉 언 인턴십",
+    "korean": "인턴십을 하고 있어요."
+  },
+  {
+    "english": "I got accepted to grad school.",
+    "pronunciation": "아이 갓 액셉티드 투 그래드 스쿨",
+    "korean": "대학원에 합격했어요."
+  },
+  {
+    "english": "I need to submit my thesis.",
+    "pronunciation": "아이 니드 투 서브밋 마이 씨시스",
+    "korean": "논문을 제출해야 해요."
+  },
+  {
+    "english": "I'm attending a lecture.",
+    "pronunciation": "아임 어텐딩 어 렉처",
+    "korean": "강의를 듣고 있어요."
+  },
+  {
+    "english": "I need to photocopy these notes.",
+    "pronunciation": "아이 니드 투 포토카피 디즈 노츠",
+    "korean": "이 노트를 복사해야 해요."
+  },
+  {
+    "english": "My GPA is good.",
+    "pronunciation": "마이 지피에이 이즈 굿",
+    "korean": "제 학점이 좋아요."
+  },
+  {
+    "english": "Do you want to go out sometime?",
+    "pronunciation": "두 유 원트 투 고 아웃 썸타임",
+    "korean": "언젠가 데이트할래요?"
+  },
+  {
+    "english": "I really like you.",
+    "pronunciation": "아이 리얼리 라이크 유",
+    "korean": "당신이 정말 좋아요."
+  },
+  {
+    "english": "Are you seeing anyone?",
+    "pronunciation": "아 유 씨잉 애니원",
+    "korean": "누구 만나고 있어요?"
+  },
+  {
+    "english": "I'm in a relationship.",
+    "pronunciation": "아임 인 어 릴레이션십",
+    "korean": "연애 중이에요."
+  },
+  {
+    "english": "We broke up.",
+    "pronunciation": "위 브로크 업",
+    "korean": "우리 헤어졌어요."
+  },
+  {
+    "english": "I'm single.",
+    "pronunciation": "아임 싱글",
+    "korean": "저는 싱글이에요."
+  },
+  {
+    "english": "I miss you.",
+    "pronunciation": "아이 미스 유",
+    "korean": "보고 싶어요."
+  },
+  {
+    "english": "Can we talk?",
+    "pronunciation": "캔 위 톡",
+    "korean": "우리 얘기할 수 있을까요?"
+  },
+  {
+    "english": "I'm sorry I hurt you.",
+    "pronunciation": "아임 소리 아이 허트 유",
+    "korean": "상처를 줘서 미안해요."
+  },
+  {
+    "english": "I need some space.",
+    "pronunciation": "아이 니드 썸 스페이스",
+    "korean": "시간이 좀 필요해요."
+  },
+  {
+    "english": "Let's meet up later.",
+    "pronunciation": "렛츠 밋 업 레이터",
+    "korean": "나중에 만나요."
+  },
+  {
+    "english": "I'll call you later.",
+    "pronunciation": "아일 콜 유 레이터",
+    "korean": "나중에 전화할게요."
+  },
+  {
+    "english": "We need to talk about this.",
+    "pronunciation": "위 니드 투 톡 어바웃 디스",
+    "korean": "이것에 대해 얘기해야 해요."
+  },
+  {
+    "english": "I want to make it work.",
+    "pronunciation": "아이 원트 투 메이크 잇 워크",
+    "korean": "잘되게 하고 싶어요."
+  },
+  {
+    "english": "I love spending time with you.",
+    "pronunciation": "아이 러브 스펜딩 타임 위드 유",
+    "korean": "당신과 시간 보내는 게 좋아요."
+  },
+  {
+    "english": "Can I see you tonight?",
+    "pronunciation": "캔 아이 씨 유 투나잇",
+    "korean": "오늘 밤 만날 수 있나요?"
+  },
+  {
+    "english": "I'm not ready for a relationship.",
+    "pronunciation": "아임 낫 레디 포 어 릴레이션십",
+    "korean": "연애할 준비가 안 됐어요."
+  },
+  {
+    "english": "Let me make it up to you.",
+    "pronunciation": "렛 미 메이크 잇 업 투 유",
+    "korean": "보상할게요."
+  },
+  {
+    "english": "I forgive you.",
+    "pronunciation": "아이 포기브 유",
+    "korean": "용서해요."
+  },
+  {
+    "english": "You mean a lot to me.",
+    "pronunciation": "유 민 어 랏 투 미",
+    "korean": "당신은 제게 소중해요."
+  },
+  {
+    "english": "Did you hear about that?",
+    "pronunciation": "디드 유 히어 어바웃 댓",
+    "korean": "그것에 대해 들었어요?"
+  },
+  {
+    "english": "What's happening in the news?",
+    "pronunciation": "왓츠 해프닝 인 더 뉴즈",
+    "korean": "뉴스에서 무슨 일이 일어나고 있나요?"
+  },
+  {
+    "english": "I read it online.",
+    "pronunciation": "아이 레드 잇 온라인",
+    "korean": "온라인에서 읽었어요."
+  },
+  {
+    "english": "What do you think about it?",
+    "pronunciation": "왓 두 유 씽크 어바웃 잇",
+    "korean": "그것에 대해 어떻게 생각하세요?"
+  },
+  {
+    "english": "I saw it on the news.",
+    "pronunciation": "아이 쏘 잇 온 더 뉴즈",
+    "korean": "뉴스에서 봤어요."
+  },
+  {
+    "english": "That's really interesting.",
+    "pronunciation": "댓츠 리얼리 인터레스팅",
+    "korean": "그거 정말 흥미로워요."
+  },
+  {
+    "english": "I don't follow politics.",
+    "pronunciation": "아이 돈트 팔로우 폴리틱스",
+    "korean": "정치는 관심 없어요."
+  },
+  {
+    "english": "Did you vote?",
+    "pronunciation": "디드 유 보트",
+    "korean": "투표했어요?"
+  },
+  {
+    "english": "I'm concerned about climate change.",
+    "pronunciation": "아임 컨선드 어바웃 클라이밋 체인지",
+    "korean": "기후 변화가 걱정돼요."
+  },
+  {
+    "english": "What's your opinion?",
+    "pronunciation": "왓츠 유어 어피니언",
+    "korean": "당신의 의견은 무엇인가요?"
+  },
+  {
+    "english": "I heard it on the radio.",
+    "pronunciation": "아이 허드 잇 온 더 레이디오",
+    "korean": "라디오에서 들었어요."
+  },
+  {
+    "english": "That's a big issue.",
+    "pronunciation": "댓츠 어 빅 이슈",
+    "korean": "그건 큰 문제예요."
+  },
+  {
+    "english": "I saw the headlines today.",
+    "pronunciation": "아이 쏘 더 헤드라인즈 투데이",
+    "korean": "오늘 헤드라인을 봤어요."
+  },
+  {
+    "english": "We need to do something about it.",
+    "pronunciation": "위 니드 투 두 썸씽 어바웃 잇",
+    "korean": "그것에 대해 뭔가를 해야 해요."
+  },
+  {
+    "english": "I totally agree with you.",
+    "pronunciation": "아이 토털리 어그리 위드 유",
+    "korean": "당신 말에 완전히 동의해요."
+  },
+  {
+    "english": "Does this look good on me?",
+    "pronunciation": "더즈 디스 룩 굿 온 미",
+    "korean": "이게 나한테 잘 어울려요?"
+  },
+  {
+    "english": "I need to buy new clothes.",
+    "pronunciation": "아이 니드 투 바이 뉴 클로즈",
+    "korean": "새 옷을 사야 해요."
+  },
+  {
+    "english": "Can I try this on?",
+    "pronunciation": "캔 아이 트라이 디스 온",
+    "korean": "이것을 입어봐도 되나요?"
+  },
+  {
+    "english": "What size are you?",
+    "pronunciation": "왓 사이즈 아 유",
+    "korean": "사이즈가 어떻게 되세요?"
+  },
+  {
+    "english": "This is on sale.",
+    "pronunciation": "디스 이즈 온 세일",
+    "korean": "이것은 세일 중이에요."
+  },
+  {
+    "english": "I love your outfit.",
+    "pronunciation": "아이 러브 유어 아웃핏",
+    "korean": "당신 옷차림이 멋져요."
+  },
+  {
+    "english": "Where did you get that?",
+    "pronunciation": "웨어 디드 유 겟 댓",
+    "korean": "그거 어디서 샀어요?"
+  },
+  {
+    "english": "I need to do laundry.",
+    "pronunciation": "아이 니드 투 두 론드리",
+    "korean": "빨래를 해야 해요."
+  },
+  {
+    "english": "Can you iron this for me?",
+    "pronunciation": "캔 유 아이언 디스 포 미",
+    "korean": "이것 좀 다림질해 줄 수 있나요?"
+  },
+  {
+    "english": "I need to take this to the dry cleaners.",
+    "pronunciation": "아이 니드 투 테이크 디스 투 더 드라이 클리너즈",
+    "korean": "이것을 세탁소에 맡겨야 해요."
+  },
+  {
+    "english": "This shirt is wrinkled.",
+    "pronunciation": "디스 셔트 이즈 링클드",
+    "korean": "이 셔츠가 구겨졌어요."
+  },
+  {
+    "english": "I spilled something on my shirt.",
+    "pronunciation": "아이 스필드 썸씽 온 마이 셔트",
+    "korean": "셔츠에 뭔가를 엎질렀어요."
+  },
+  {
+    "english": "That color looks great on you.",
+    "pronunciation": "댓 컬러 룩스 그레이트 온 유",
+    "korean": "그 색이 당신한테 정말 잘 어울려요."
+  },
+  {
+    "english": "These shoes are uncomfortable.",
+    "pronunciation": "디즈 슈즈 아 언컴퍼터블",
+    "korean": "이 신발은 불편해요."
+  },
+  {
+    "english": "I'm going shopping this weekend.",
+    "pronunciation": "아임 고잉 쇼핑 디스 위켄드",
+    "korean": "이번 주말에 쇼핑 가요."
+  },
+  {
+    "english": "I need a haircut.",
+    "pronunciation": "아이 니드 어 헤어컷",
+    "korean": "머리를 잘라야 해요."
+  },
+  {
+    "english": "Can I get a trim?",
+    "pronunciation": "캔 아이 겟 어 트림",
+    "korean": "다듬어 주시겠어요?"
+  },
+  {
+    "english": "I'm going to the salon.",
+    "pronunciation": "아임 고잉 투 더 살롱",
+    "korean": "미용실에 가요."
+  },
+  {
+    "english": "I want to change my hairstyle.",
+    "pronunciation": "아이 원트 투 체인지 마이 헤어스타일",
+    "korean": "헤어스타일을 바꾸고 싶어요."
+  },
+  {
+    "english": "Can you recommend a good barber?",
+    "pronunciation": "캔 유 레커멘드 어 굿 바버",
+    "korean": "좋은 이발소를 추천해 줄 수 있나요?"
+  },
+  {
+    "english": "I'm getting a facial today.",
+    "pronunciation": "아임 게팅 어 페이셜 투데이",
+    "korean": "오늘 피부 관리를 받아요."
+  },
+  {
+    "english": "I booked a spa appointment.",
+    "pronunciation": "아이 북트 어 스파 어포인트먼트",
+    "korean": "스파 예약을 했어요."
+  },
+  {
+    "english": "My skin is so dry.",
+    "pronunciation": "마이 스킨 이즈 쏘 드라이",
+    "korean": "제 피부가 너무 건조해요."
+  },
+  {
+    "english": "I need to shave.",
+    "pronunciation": "아이 니드 투 쉐이브",
+    "korean": "면도를 해야 해요."
+  },
+  {
+    "english": "Do you use moisturizer?",
+    "pronunciation": "두 유 유즈 모이스처라이저",
+    "korean": "보습제를 사용하세요?"
+  },
+  {
+    "english": "I'm trying a new skincare routine.",
+    "pronunciation": "아임 트라잉 어 뉴 스킨케어 루틴",
+    "korean": "새로운 피부 관리 루틴을 시도하고 있어요."
+  },
+  {
+    "english": "I need to pluck my eyebrows.",
+    "pronunciation": "아이 니드 투 플럭 마이 아이브라우즈",
+    "korean": "눈썹을 뽑아야 해요."
+  }
+]
