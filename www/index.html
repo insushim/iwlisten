@@ -15,12 +15,10 @@
         h1 { text-align: center; background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 50%, #ec4899 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 8px; font-size: 2.2rem; font-weight: 800; }
         .subtitle { text-align: center; color: #64748b; margin-bottom: 20px; font-size: 0.9rem; font-weight: 500; }
 
-        /* Update Banner */
         .update-banner { display: none; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: white; padding: 12px 20px; border-radius: 12px; margin-bottom: 15px; text-align: center; cursor: pointer; font-weight: 600; animation: pulse 2s infinite; }
         .update-banner:hover { opacity: 0.9; }
         @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.85; } }
 
-        /* Settings */
         .settings-toggle { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px; border-radius: 12px; text-align: center; cursor: pointer; margin-bottom: 12px; font-weight: 600; font-size: 0.95rem; box-shadow: 0 4px 12px rgba(102,126,234,0.3); transition: all 0.3s; }
         .settings-toggle:hover { transform: translateY(-2px); }
         .settings-grid { display: none; grid-template-columns: repeat(4, 1fr); gap: 15px; margin-bottom: 15px; }
@@ -30,36 +28,30 @@
         .setting-card select { width: 100%; padding: 10px; border: 1px solid #cbd5e1; border-radius: 8px; font-size: 14px; background: white; cursor: pointer; }
         .setting-card .info-text { margin-top: 8px; font-size: 0.75rem; color: #64748b; text-align: center; }
 
-        /* Sentence Display */
         .current-sentence { background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%); color: white; padding: 35px 25px; border-radius: 18px; margin-bottom: 18px; text-align: center; box-shadow: 0 10px 30px rgba(79,70,229,0.3); }
         .sentence-english { font-size: 2rem; font-weight: 700; margin-bottom: 18px; word-wrap: break-word; line-height: 1.4; }
         .sentence-pronunciation { font-size: 1.25rem; opacity: 0.93; margin-bottom: 14px; word-wrap: break-word; font-weight: 500; line-height: 1.5; }
         .sentence-korean { font-size: 1.15rem; opacity: 0.9; word-wrap: break-word; font-weight: 600; line-height: 1.5; }
 
-        /* Info Panel */
         .info-panel { background: linear-gradient(135deg, #f0f9ff 0%, #fae8ff 100%); padding: 18px 22px; border-radius: 16px; margin-bottom: 22px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; border: 1px solid rgba(79,70,229,0.1); }
         .info-item { text-align: center; }
         .info-label { font-size: 0.75rem; color: #7c3aed; font-weight: 600; margin-bottom: 6px; display: block; text-transform: uppercase; letter-spacing: 0.5px; }
         .info-value { font-size: 1.15rem; color: #1e293b; font-weight: 700; }
 
-        /* Status */
         .status { text-align: center; padding: 12px; background: #d1fae5; border-radius: 10px; margin-bottom: 15px; font-weight: 600; color: #065f46; font-size: 0.9rem; }
         .status.loading { background: #fef3c7; color: #92400e; }
         .status.error { background: #fee2e2; color: #991b1b; }
 
-        /* Voice Info */
         .voice-info { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 12px; text-align: center; color: white; margin-bottom: 15px; }
         .voice-info .label { font-size: 0.85rem; opacity: 0.9; margin-bottom: 5px; }
         .voice-info .accent { font-size: 1.4rem; font-weight: bold; }
         .voice-info .note { font-size: 0.75rem; opacity: 0.8; margin-top: 5px; }
 
-        /* Timer */
         .timer-progress { display: flex; align-items: center; gap: 20px; margin-bottom: 15px; }
         .timer { font-size: 2.5rem; font-weight: bold; color: #667eea; min-width: 150px; text-align: center; }
         .progress-bar { flex: 1; height: 30px; background: #e2e8f0; border-radius: 15px; overflow: hidden; }
         .progress-fill { height: 100%; background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); transition: width 0.3s; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 0.85rem; }
 
-        /* Controls */
         .controls { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-bottom: 15px; }
         button { padding: 13px; border: none; border-radius: 12px; font-size: 14px; font-weight: 600; cursor: pointer; transition: all 0.25s ease; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
         .btn-start { background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: white; }
@@ -70,10 +62,8 @@
         button:hover:not(:disabled) { transform: translateY(-2px); }
         button:disabled { opacity: 0.5; cursor: not-allowed; transform: none !important; }
 
-        /* Version */
         .version-info { text-align: center; margin-top: 10px; font-size: 0.75rem; color: #94a3b8; }
 
-        /* Mobile */
         @media (max-width: 768px) {
             body { padding: 10px; }
             .container { padding: 18px; border-radius: 15px; }
@@ -128,12 +118,12 @@
                     <option value="0.5">0.5x</option>
                     <option value="0.7">0.7x</option>
                     <option value="0.8">0.8x</option>
-                    <option value="1" selected>1.0x</option>
+                    <option value="1">1.0x</option>
                     <option value="1.2">1.2x</option>
                     <option value="1.5">1.5x</option>
-                    <option value="2.0">2.0x</option>
+                    <option value="2">2.0x</option>
                     <option value="2.5">2.5x</option>
-                    <option value="3.0">3.0x</option>
+                    <option value="3">3.0x</option>
                 </select>
                 <div class="info-text" id="speedInfo">1.0x (기본)</div>
             </div>
@@ -142,7 +132,7 @@
                 <select id="delaySelector">
                     <option value="0">즉시</option>
                     <option value="0.5">0.5초</option>
-                    <option value="1" selected>1초</option>
+                    <option value="1">1초</option>
                     <option value="2">2초</option>
                     <option value="3">3초</option>
                     <option value="5">5초</option>
@@ -152,7 +142,7 @@
             <div class="setting-card">
                 <h3>반복 범위</h3>
                 <select id="repeatRangeSelector">
-                    <option value="all" selected>전체 음성 (7개)</option>
+                    <option value="all">전체 음성 (7개)</option>
                     <option value="3">최근 3개 음성</option>
                     <option value="1">현재 음성만</option>
                 </select>
@@ -213,643 +203,421 @@
             <button class="btn-next" id="nextSectorBtn">⏩ 다음 섹터</button>
         </div>
 
-        <div class="version-info" id="versionInfo">v1.0.0</div>
+        <div class="version-info" id="versionInfo">v1.1.0</div>
     </div>
 
 <script>
-// ===== App Version =====
-const APP_VERSION = '1.0.0';
+// ===== Config =====
+const APP_VERSION = '1.1.0';
 const GITHUB_REPO = 'insushim/iwlisten';
-
-// ===== Voice Config =====
 const VOICES = ['us-woman', 'us-man', 'us-girl', 'us-boy', 'uk', 'au', 'in'];
 const VOICE_NAMES = {
-    'us-woman': '미국 성인 여자',
-    'us-man': '미국 성인 남자',
-    'us-girl': '미국 어린 여자',
-    'us-boy': '미국 어린 남자',
-    'uk': '영국 영어',
-    'au': '호주 영어',
-    'in': '인도 영어'
+    'us-woman': '미국 성인 여자', 'us-man': '미국 성인 남자',
+    'us-girl': '미국 어린 여자', 'us-boy': '미국 어린 남자',
+    'uk': '영국 영어', 'au': '호주 영어', 'in': '인도 영어'
 };
-
-// ===== Learning Modes =====
-const LEARNING_MODES = {
-    mode1: { name: "모드 1", sentencesPerSector: 12, repeatDuration: 300, description: "5분 x 12문장" },
-    mode2: { name: "모드 2", sentencesPerSector: 6, repeatDuration: 600, description: "10분 x 6문장" },
-    mode3: { name: "모드 3", sentencesPerSector: 3, repeatDuration: 1200, description: "20분 x 3문장" },
-    mode4: { name: "모드 4", sentencesPerSector: 1, repeatDuration: 3600, description: "60분 x 1문장" }
+const MODES = {
+    mode1: { sentencesPerSector: 12, duration: 300, desc: "5분 x 12문장" },
+    mode2: { sentencesPerSector: 6, duration: 600, desc: "10분 x 6문장" },
+    mode3: { sentencesPerSector: 3, duration: 1200, desc: "20분 x 3문장" },
+    mode4: { sentencesPerSector: 1, duration: 3600, desc: "60분 x 1문장" }
 };
-
-let currentMode = 'mode1';
-let allSentences = [];
 
 // ===== State =====
-function loadSettings() {
-    try {
-        const saved = localStorage.getItem('iswEnglishSettings');
-        if (saved) return JSON.parse(saved);
-    } catch (e) {}
-    return { playbackSpeed: 1, repeatDelay: 1, repeatRange: 'all' };
-}
-const savedSettings = loadSettings();
+let allSentences = [];
+let curMode = 'mode1';
+let nextPlayTimer = null; // setTimeout ID for repeat delay
 
-const state = {
-    currentSector: 0,
-    currentSentenceIndex: 0,
-    isPlaying: false,
-    isPaused: false,
-    timeLeft: 300,
-    playCount: 0,
-    timer: null,
-    currentAudio: null,
-    currentVoiceIndex: 0,
-    wakeLock: null,
-    playbackSpeed: savedSettings.playbackSpeed,
-    repeatDelay: savedSettings.repeatDelay,
-    repeatRange: savedSettings.repeatRange || 'all',
-    isLoadingAudio: false,
-    nativeAudioReady: false
+const S = {
+    sector: 0, sentIdx: 0, voiceIdx: 0,
+    playing: false, paused: false, loading: false,
+    timeLeft: 300, playCount: 0,
+    speed: 1, delay: 1, range: 'all',
+    timer: null, wakeLock: null
 };
 
-// ===== DOM Elements =====
+// ===== DOM =====
+const $ = id => document.getElementById(id);
 const el = {
-    status: document.getElementById('status'),
-    currentSector: document.getElementById('currentSector'),
-    currentSentence: document.getElementById('currentSentence'),
-    totalProgress: document.getElementById('totalProgress'),
-    playCount: document.getElementById('playCount'),
-    progressFill: document.getElementById('progressFill'),
-    sentenceEnglish: document.getElementById('sentenceEnglish'),
-    sentencePronunciation: document.getElementById('sentencePronunciation'),
-    sentenceKorean: document.getElementById('sentenceKorean'),
-    timer: document.getElementById('timer'),
-    modeSelector: document.getElementById('modeSelector'),
-    startBtn: document.getElementById('startBtn'),
-    pauseBtn: document.getElementById('pauseBtn'),
-    nextBtn: document.getElementById('nextBtn'),
-    prevBtn: document.getElementById('prevBtn'),
-    resetBtn: document.getElementById('resetBtn'),
-    prevSectorBtn: document.getElementById('prevSectorBtn'),
-    nextSectorBtn: document.getElementById('nextSectorBtn'),
-    currentAccent: document.getElementById('currentAccent'),
-    updateBanner: document.getElementById('updateBanner'),
-    versionInfo: document.getElementById('versionInfo')
+    status: $('status'), sector: $('currentSector'), sentence: $('currentSentence'),
+    progress: $('totalProgress'), playCount: $('playCount'), fill: $('progressFill'),
+    eng: $('sentenceEnglish'), pron: $('sentencePronunciation'), kor: $('sentenceKorean'),
+    timer: $('timer'), mode: $('modeSelector'), start: $('startBtn'), pause: $('pauseBtn'),
+    next: $('nextBtn'), prev: $('prevBtn'), reset: $('resetBtn'),
+    prevSec: $('prevSectorBtn'), nextSec: $('nextSectorBtn'),
+    accent: $('currentAccent'), banner: $('updateBanner'), ver: $('versionInfo'),
+    speed: $('speedSelector'), delayEl: $('delaySelector'), rangeEl: $('repeatRangeSelector')
 };
 
-// ===== Helper Functions =====
-function getModeSetting(key) {
-    return LEARNING_MODES[currentMode][key];
+// ===== Helpers =====
+function mode() { return MODES[curMode]; }
+function totalSectors() { return Math.ceil(allSentences.length / mode().sentencesPerSector); }
+function curSentence() {
+    const i = S.sector * mode().sentencesPerSector + S.sentIdx;
+    return allSentences[i % allSentences.length];
 }
-
-function getTotalSectors() {
-    return Math.ceil(allSentences.length / getModeSetting('sentencesPerSector'));
-}
-
-function getCurrentSentence() {
-    const idx = state.currentSector * getModeSetting('sentencesPerSector') + state.currentSentenceIndex;
-    return allSentences[idx % allSentences.length];
-}
-
 function showStatus(msg, type) {
     el.status.textContent = msg;
     el.status.className = 'status' + (type === 'loading' ? ' loading' : type === 'error' ? ' error' : '');
 }
 
+// ===== Settings =====
 function saveSettings() {
-    localStorage.setItem('iswEnglishSettings', JSON.stringify({
-        playbackSpeed: state.playbackSpeed,
-        repeatDelay: state.repeatDelay,
-        repeatRange: state.repeatRange
-    }));
+    localStorage.setItem('isw_settings', JSON.stringify({ speed: S.speed, delay: S.delay, range: S.range }));
 }
-
+function loadSettings() {
+    try { const s = JSON.parse(localStorage.getItem('isw_settings')); if (s) { S.speed = s.speed || 1; S.delay = s.delay ?? 1; S.range = s.range || 'all'; } } catch(e) {}
+}
 function saveProgress() {
-    let allProgress = {};
-    try {
-        const saved = localStorage.getItem('iswProgress');
-        if (saved) allProgress = JSON.parse(saved);
-    } catch (e) {}
-    allProgress[currentMode] = {
-        currentSector: state.currentSector,
-        currentSentenceIndex: state.currentSentenceIndex,
-        playCount: state.playCount,
-        timeLeft: state.timeLeft
-    };
-    allProgress.lastMode = currentMode;
-    localStorage.setItem('iswProgress', JSON.stringify(allProgress));
+    let all = {}; try { all = JSON.parse(localStorage.getItem('isw_prog')) || {}; } catch(e) {}
+    all[curMode] = { sector: S.sector, sentIdx: S.sentIdx, playCount: S.playCount, timeLeft: S.timeLeft };
+    all.lastMode = curMode;
+    localStorage.setItem('isw_prog', JSON.stringify(all));
 }
-
 function loadProgress() {
     try {
-        const saved = localStorage.getItem('iswProgress');
-        if (!saved) return false;
-        const allProgress = JSON.parse(saved);
-        if (allProgress.lastMode) el.modeSelector.value = allProgress.lastMode;
-        currentMode = el.modeSelector.value;
-        const p = allProgress[currentMode];
-        if (p) {
-            state.currentSector = p.currentSector || 0;
-            state.currentSentenceIndex = p.currentSentenceIndex || 0;
-            state.playCount = p.playCount || 0;
-            state.timeLeft = p.timeLeft !== undefined ? p.timeLeft : getModeSetting('repeatDuration');
-            return true;
-        }
-    } catch (e) {}
+        const all = JSON.parse(localStorage.getItem('isw_prog'));
+        if (!all) return false;
+        if (all.lastMode) { el.mode.value = all.lastMode; curMode = all.lastMode; }
+        const p = all[curMode];
+        if (p) { S.sector = p.sector||0; S.sentIdx = p.sentIdx||0; S.playCount = p.playCount||0; S.timeLeft = p.timeLeft ?? mode().duration; return true; }
+    } catch(e) {}
     return false;
 }
-
-function loadModeProgress(mode) {
+function loadModeProgress(m) {
     try {
-        const saved = localStorage.getItem('iswProgress');
-        if (saved) {
-            const allProgress = JSON.parse(saved);
-            if (allProgress[mode]) {
-                const p = allProgress[mode];
-                state.currentSector = p.currentSector || 0;
-                state.currentSentenceIndex = p.currentSentenceIndex || 0;
-                state.playCount = p.playCount || 0;
-                state.timeLeft = p.timeLeft !== undefined ? p.timeLeft : getModeSetting('repeatDuration');
-                state.currentVoiceIndex = 0;
-                return true;
-            }
-        }
-    } catch (e) {}
-    state.currentSector = 0;
-    state.currentSentenceIndex = 0;
-    state.playCount = 0;
-    state.timeLeft = getModeSetting('repeatDuration');
-    state.currentVoiceIndex = 0;
-    return false;
+        const all = JSON.parse(localStorage.getItem('isw_prog'));
+        if (all && all[m]) { const p = all[m]; S.sector = p.sector||0; S.sentIdx = p.sentIdx||0; S.playCount = p.playCount||0; S.timeLeft = p.timeLeft ?? MODES[m].duration; S.voiceIdx = 0; return; }
+    } catch(e) {}
+    S.sector = 0; S.sentIdx = 0; S.playCount = 0; S.timeLeft = MODES[m].duration; S.voiceIdx = 0;
 }
 
 // ===== UI Update =====
 function updateUI() {
-    if (allSentences.length === 0) return;
-    const sentence = getCurrentSentence();
-    el.sentenceEnglish.textContent = sentence.english;
-    el.sentencePronunciation.textContent = sentence.pronunciation;
-    el.sentenceKorean.textContent = sentence.korean;
-
-    el.currentSector.textContent = `${state.currentSector + 1} / ${getTotalSectors()}`;
-    el.currentSentence.textContent = `${state.currentSentenceIndex + 1} / ${getModeSetting('sentencesPerSector')}`;
-
-    const total = getTotalSectors() * getModeSetting('sentencesPerSector');
-    const current = state.currentSector * getModeSetting('sentencesPerSector') + state.currentSentenceIndex;
-    const pct = (current / total * 100).toFixed(1);
-    el.totalProgress.textContent = `${pct}%`;
-    el.progressFill.style.width = `${pct}%`;
-    el.progressFill.textContent = `${pct}%`;
-    el.playCount.textContent = `${state.playCount}회`;
-
-    const min = Math.floor(state.timeLeft / 60);
-    const sec = state.timeLeft % 60;
-    el.timer.textContent = `${min}:${sec.toString().padStart(2, '0')}`;
-
+    if (!allSentences.length) return;
+    const s = curSentence();
+    el.eng.textContent = s.english;
+    el.pron.textContent = s.pronunciation;
+    el.kor.textContent = s.korean;
+    el.sector.textContent = `${S.sector + 1} / ${totalSectors()}`;
+    el.sentence.textContent = `${S.sentIdx + 1} / ${mode().sentencesPerSector}`;
+    const total = totalSectors() * mode().sentencesPerSector;
+    const cur = S.sector * mode().sentencesPerSector + S.sentIdx;
+    const pct = (cur / total * 100).toFixed(1);
+    el.progress.textContent = pct + '%';
+    el.fill.style.width = pct + '%';
+    el.fill.textContent = pct + '%';
+    el.playCount.textContent = S.playCount + '회';
+    const min = Math.floor(S.timeLeft / 60), sec = S.timeLeft % 60;
+    el.timer.textContent = `${min}:${sec.toString().padStart(2,'0')}`;
     saveProgress();
 }
 
-// ===== NativeAudio Bridge (Android WebView) =====
-function isNativeAudio() {
-    return typeof window.NativeAudio !== 'undefined';
+function syncSettingsUI() {
+    el.speed.value = S.speed;
+    el.delayEl.value = S.delay;
+    el.rangeEl.value = S.range;
+    $('speedInfo').textContent = S.speed == 1 ? '1.0x (기본)' : S.speed + 'x';
+    $('delayInfo').textContent = S.delay == 0 ? '즉시' : S.delay == 1 ? '1초 (기본)' : S.delay + '초';
+    const rl = { all: '전체 음성 반복 (7개)', '3': '최근 3개 음성만', '1': '현재 음성만 반복' };
+    $('repeatRangeInfo').textContent = rl[S.range] || rl.all;
+    $('modeInfo').textContent = mode().desc;
 }
 
-async function initNativeAudio() {
-    // Wait up to 2s for NativeAudio to be injected
-    for (let i = 0; i < 20; i++) {
-        if (isNativeAudio()) break;
-        await new Promise(r => setTimeout(r, 100));
-    }
-    if (!isNativeAudio()) return false;
+// ===== Audio Engine (HTML5 Audio - reliable cross-platform) =====
+let audio = null;
 
-    // Wait for service binding (up to 3s)
-    for (let i = 0; i < 30; i++) {
-        try { if (window.NativeAudio.isReady()) { state.nativeAudioReady = true; return true; } } catch(e) {}
-        await new Promise(r => setTimeout(r, 100));
+function stopAudio() {
+    if (nextPlayTimer) { clearTimeout(nextPlayTimer); nextPlayTimer = null; }
+    if (audio) {
+        audio.pause();
+        audio.removeAttribute('src');
+        audio.load(); // release resources
+        audio = null;
     }
-    return false;
+    // Native
+    if (window.NativeAudio) try { window.NativeAudio.stop(); } catch(e) {}
 }
 
-// ===== Audio Playback (Web Audio API for clean speed change) =====
-let audioCtx = null;
-let currentSource = null;
-const audioBufferCache = new Map();
-
-function getAudioCtx() {
-    if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-    if (audioCtx.state === 'suspended') audioCtx.resume();
-    return audioCtx;
+function audioPath(sentIdx, voice) {
+    return 'audio/' + String(sentIdx + 1).padStart(3, '0') + '-' + voice + '.mp3';
 }
 
-function getAudioPath(sentenceIndex, voice) {
-    const num = String(sentenceIndex + 1).padStart(3, '0');
-    return `audio/${num}-${voice}.mp3`;
-}
+async function playNow() {
+    if (S.loading || !S.playing || S.paused) return;
+    S.loading = true;
 
-function stopCurrentAudio() {
-    if (currentSource) {
-        try { currentSource.stop(); } catch(e) {}
-        currentSource = null;
-    }
-    if (state.currentAudio) {
-        state.currentAudio.pause();
-        state.currentAudio.onended = null;
-        state.currentAudio.onerror = null;
-        state.currentAudio = null;
-    }
-    if (state.nativeAudioReady) {
-        try { window.NativeAudio.stop(); } catch(e) {}
-    }
-}
+    const sentence = curSentence();
+    const sIdx = allSentences.indexOf(sentence);
+    if (sIdx === -1) { S.loading = false; return; }
 
-async function fetchAudioBuffer(url) {
-    if (audioBufferCache.has(url)) return audioBufferCache.get(url);
-    const resp = await fetch(url);
-    if (!resp.ok) throw new Error(`HTTP ${resp.status}: ${url}`);
-    const arrayBuf = await resp.arrayBuffer();
-    const ctx = getAudioCtx();
-    const audioBuf = await ctx.decodeAudioData(arrayBuf);
-    audioBufferCache.set(url, audioBuf);
-    // Keep cache under 100 entries
-    if (audioBufferCache.size > 100) {
-        const first = audioBufferCache.keys().next().value;
-        audioBufferCache.delete(first);
-    }
-    return audioBuf;
-}
+    const voice = VOICES[S.voiceIdx % VOICES.length];
+    el.accent.textContent = VOICE_NAMES[voice] || voice;
 
-async function playCurrentSentence() {
-    if (state.isLoadingAudio || !state.isPlaying || state.isPaused) return;
-    state.isLoadingAudio = true;
+    // === Native bridge (APK) ===
+    if (window.NativeAudio && window.NativeAudio.isReady && window.NativeAudio.isReady()) {
+        try {
+            window.NativeAudio.play('public/' + audioPath(sIdx, voice));
+            S.playCount++;
+            updateUI();
+            showStatus(`재생 중 [${S.speed}x] - ${VOICE_NAMES[voice]}`, 'normal');
+            S.loading = false;
+            return; // onNativeAudioComplete handles next
+        } catch(e) {}
+    }
+
+    // === HTML5 Audio (web) ===
+    stopAudio();
+    const path = audioPath(sIdx, voice);
 
     try {
-        const sentence = getCurrentSentence();
-        const sentenceIndex = allSentences.indexOf(sentence);
-        if (sentenceIndex === -1) { state.isLoadingAudio = false; return; }
+        audio = new Audio(path);
+        audio.playbackRate = S.speed;
+        audio.preservesPitch = false; // natural pitch shift at speed
 
-        const voice = VOICES[state.currentVoiceIndex];
-        el.currentAccent.textContent = VOICE_NAMES[voice];
+        audio.onended = function() {
+            S.loading = false;
+            scheduleNext();
+        };
+        audio.onerror = function() {
+            console.error('Audio error:', path);
+            S.loading = false;
+            // skip to next voice after brief pause
+            nextPlayTimer = setTimeout(() => { if (S.playing && !S.paused) { advanceVoice(); playNow(); } }, 300);
+        };
 
-        if (state.nativeAudioReady) {
-            const nativePath = `public/${getAudioPath(sentenceIndex, voice)}`;
-            try {
-                window.NativeAudio.play(nativePath);
-                state.playCount++;
-                updateUI();
-                showStatus('재생 중 (백그라운드 지원)', 'normal');
-                state.isLoadingAudio = false;
-                return; // onNativeAudioComplete handles next
-            } catch(e) {}
-        }
-
-        // Web Audio API playback (clean speed, no popping)
-        stopCurrentAudio();
-        const audioPath = getAudioPath(sentenceIndex, voice);
-
-        try {
-            const buffer = await fetchAudioBuffer(audioPath);
-            const ctx = getAudioCtx();
-            const source = ctx.createBufferSource();
-            source.buffer = buffer;
-            source.playbackRate.value = state.playbackSpeed;
-            source.connect(ctx.destination);
-
-            source.onended = () => {
-                if (currentSource === source) currentSource = null;
-                handlePlaybackComplete();
-            };
-
-            currentSource = source;
-            source.start(0);
-
-            state.playCount++;
-            updateUI();
-            showStatus('재생 중', 'normal');
-            state.isLoadingAudio = false;
-        } catch (fetchErr) {
-            console.error('Audio fetch error:', audioPath, fetchErr);
-            state.isLoadingAudio = false;
-            // Skip to next voice on error
-            setTimeout(() => {
-                if (state.isPlaying && !state.isPaused) handlePlaybackComplete();
-            }, 500);
-        }
-    } catch (error) {
-        console.error('Play error:', error);
-        state.isLoadingAudio = false;
+        await audio.play();
+        S.playCount++;
+        updateUI();
+        showStatus(`재생 중 [${S.speed}x] - ${VOICE_NAMES[voice]}`, 'normal');
+        S.loading = false;
+    } catch(err) {
+        console.error('Play failed:', err);
+        S.loading = false;
+        showStatus('재생 오류: ' + err.message, 'error');
     }
 }
 
-function handlePlaybackComplete() {
-    if (!state.isPlaying || state.isPaused) { state.isLoadingAudio = false; return; }
-    state.isLoadingAudio = false;
-
-    // Advance voice based on repeat range
-    if (state.repeatRange === 'all') {
-        state.currentVoiceIndex = (state.currentVoiceIndex + 1) % VOICES.length;
-    } else if (state.repeatRange === '3') {
-        state.currentVoiceIndex = (state.currentVoiceIndex + 1) % Math.min(3, VOICES.length);
-    }
-    // '1' = stay on same voice
-
-    setTimeout(() => {
-        if (state.isPlaying && !state.isPaused && state.timeLeft > 0) playCurrentSentence();
-    }, state.repeatDelay * 1000);
-}
-
-// NativeAudio completion callback (called from Android)
+// Native callback
 window.onNativeAudioComplete = function() {
-    handlePlaybackComplete();
+    S.loading = false;
+    scheduleNext();
 };
+
+function advanceVoice() {
+    if (S.range === 'all') {
+        S.voiceIdx = (S.voiceIdx + 1) % VOICES.length;
+    } else if (S.range === '3') {
+        S.voiceIdx = (S.voiceIdx + 1) % Math.min(3, VOICES.length);
+    }
+    // '1' = same voice
+}
+
+function scheduleNext() {
+    if (!S.playing || S.paused || S.timeLeft <= 0) return;
+    advanceVoice();
+    const delayMs = S.delay * 1000;
+    if (delayMs <= 0) {
+        playNow();
+    } else {
+        showStatus(`다음 재생까지 ${S.delay}초...`, 'normal');
+        nextPlayTimer = setTimeout(() => {
+            if (S.playing && !S.paused && S.timeLeft > 0) playNow();
+        }, delayMs);
+    }
+}
 
 // ===== Timer =====
 function startTimer() {
-    if (state.timer) clearInterval(state.timer);
-    state.timer = setInterval(() => {
-        if (!state.isPaused && state.timeLeft > 0) {
-            state.timeLeft--;
+    if (S.timer) clearInterval(S.timer);
+    S.timer = setInterval(() => {
+        if (!S.paused && S.timeLeft > 0) {
+            S.timeLeft--;
             updateUI();
-            if (state.timeLeft === 0) nextSentence();
+            if (S.timeLeft === 0) nextSentence();
         }
     }, 1000);
 }
 
 // ===== Navigation =====
+function goTo(sector, sentIdx) {
+    stopAudio();
+    S.loading = false;
+    S.sector = sector;
+    S.sentIdx = sentIdx;
+    S.timeLeft = mode().duration;
+    S.playCount = 0;
+    S.voiceIdx = 0;
+    updateUI();
+    if (S.playing && !S.paused) playNow();
+}
+
 function nextSentence() {
-    stopCurrentAudio();
-    state.isLoadingAudio = false;
-    state.currentSentenceIndex++;
-    if (state.currentSentenceIndex >= getModeSetting('sentencesPerSector')) {
-        state.currentSector++;
-        state.currentSentenceIndex = 0;
-        if (state.currentSector >= getTotalSectors()) {
-            showStatus('모든 섹터 완료!', 'normal');
-            stop();
-            return;
-        }
-    }
-    state.timeLeft = getModeSetting('repeatDuration');
-    state.playCount = 0;
-    state.currentVoiceIndex = 0;
-    updateUI();
-    if (state.isPlaying && !state.isPaused) playCurrentSentence();
+    let sec = S.sector, si = S.sentIdx + 1;
+    if (si >= mode().sentencesPerSector) { sec++; si = 0; }
+    if (sec >= totalSectors()) { showStatus('모든 섹터 완료!', 'normal'); stop(); return; }
+    goTo(sec, si);
 }
-
 function prevSentence() {
-    stopCurrentAudio();
-    state.isLoadingAudio = false;
-    if (state.currentSentenceIndex > 0) {
-        state.currentSentenceIndex--;
-    } else if (state.currentSector > 0) {
-        state.currentSector--;
-        state.currentSentenceIndex = getModeSetting('sentencesPerSector') - 1;
-    }
-    state.timeLeft = getModeSetting('repeatDuration');
-    state.playCount = 0;
-    state.currentVoiceIndex = 0;
-    updateUI();
-    if (state.isPlaying && !state.isPaused) playCurrentSentence();
+    let sec = S.sector, si = S.sentIdx - 1;
+    if (si < 0) { sec--; si = mode().sentencesPerSector - 1; }
+    if (sec < 0) { sec = 0; si = 0; }
+    goTo(sec, si);
 }
-
 function nextSector() {
-    stopCurrentAudio();
-    state.isLoadingAudio = false;
-    state.currentSector++;
-    if (state.currentSector >= getTotalSectors()) {
-        state.currentSector = getTotalSectors() - 1;
-        showStatus('마지막 섹터입니다!', 'normal');
-        return;
-    }
-    state.currentSentenceIndex = 0;
-    state.timeLeft = getModeSetting('repeatDuration');
-    state.playCount = 0;
-    state.currentVoiceIndex = 0;
-    updateUI();
-    if (state.isPlaying && !state.isPaused) playCurrentSentence();
+    if (S.sector + 1 >= totalSectors()) { showStatus('마지막 섹터입니다!', 'normal'); return; }
+    goTo(S.sector + 1, 0);
 }
-
 function prevSector() {
-    stopCurrentAudio();
-    state.isLoadingAudio = false;
-    if (state.currentSector <= 0) {
-        state.currentSector = 0;
-        showStatus('첫 번째 섹터입니다!', 'normal');
-        return;
-    }
-    state.currentSector--;
-    state.currentSentenceIndex = 0;
-    state.timeLeft = getModeSetting('repeatDuration');
-    state.playCount = 0;
-    state.currentVoiceIndex = 0;
-    updateUI();
-    if (state.isPlaying && !state.isPaused) playCurrentSentence();
+    if (S.sector <= 0) { showStatus('첫 번째 섹터입니다!', 'normal'); return; }
+    goTo(S.sector - 1, 0);
 }
 
 // ===== Play/Pause/Stop =====
 async function start() {
-    // Initialize AudioContext on user gesture (required by iOS Safari)
-    getAudioCtx();
-    state.isPlaying = true;
-    state.isPaused = false;
-    el.startBtn.disabled = true;
-    el.pauseBtn.disabled = false;
-    el.pauseBtn.textContent = '⏸ 일시정지';
-    showStatus('학습 진행 중...', 'normal');
-    await requestWakeLock();
-    playCurrentSentence();
+    S.playing = true;
+    S.paused = false;
+    el.start.disabled = true;
+    el.pause.disabled = false;
+    el.pause.textContent = '⏸ 일시정지';
+    showStatus('학습 시작!', 'normal');
+    try { if ('wakeLock' in navigator) S.wakeLock = await navigator.wakeLock.request('screen'); } catch(e) {}
+    playNow();
     startTimer();
 }
 
 function togglePause() {
-    state.isPaused = !state.isPaused;
-    if (state.isPaused) {
-        el.pauseBtn.textContent = '▶ 재개';
-        // Web Audio API: suspend context to pause
-        if (audioCtx && audioCtx.state === 'running') audioCtx.suspend();
-        if (state.nativeAudioReady) try { window.NativeAudio.pause(); } catch(e) {}
+    S.paused = !S.paused;
+    if (S.paused) {
+        el.pause.textContent = '▶ 재개';
+        if (nextPlayTimer) { clearTimeout(nextPlayTimer); nextPlayTimer = null; }
+        if (audio) audio.pause();
+        if (window.NativeAudio) try { window.NativeAudio.pause(); } catch(e) {}
         showStatus('일시정지됨', 'normal');
-        releaseWakeLock();
+        if (S.wakeLock) try { S.wakeLock.release(); S.wakeLock = null; } catch(e) {}
     } else {
-        el.pauseBtn.textContent = '⏸ 일시정지';
-        showStatus('학습 진행 중...', 'normal');
-        requestWakeLock();
-        // Web Audio API: resume context
-        if (audioCtx && audioCtx.state === 'suspended') {
-            audioCtx.resume().then(() => {
-                if (!currentSource) playCurrentSentence();
-            });
-        } else if (state.nativeAudioReady) {
-            try { window.NativeAudio.resume(); } catch(e) { playCurrentSentence(); }
+        el.pause.textContent = '⏸ 일시정지';
+        showStatus('학습 재개...', 'normal');
+        (async()=>{ try { if ('wakeLock' in navigator) S.wakeLock = await navigator.wakeLock.request('screen'); } catch(e) {} })();
+        // Resume current audio or start fresh
+        if (audio && audio.paused && audio.src) {
+            audio.playbackRate = S.speed; // re-apply in case changed while paused
+            audio.play().catch(() => { S.loading = false; playNow(); });
+        } else if (window.NativeAudio) {
+            try { window.NativeAudio.resume(); } catch(e) { S.loading = false; playNow(); }
         } else {
-            playCurrentSentence();
+            S.loading = false;
+            playNow();
         }
     }
 }
 
 function stop() {
-    state.isPlaying = false;
-    state.isPaused = false;
-    state.isLoadingAudio = false;
-    stopCurrentAudio();
-    if (state.timer) clearInterval(state.timer);
-    el.startBtn.textContent = '▶ 시작';
-    el.startBtn.disabled = false;
-    el.pauseBtn.disabled = true;
-    el.pauseBtn.textContent = '⏸ 일시정지';
-    releaseWakeLock();
+    S.playing = false;
+    S.paused = false;
+    S.loading = false;
+    stopAudio();
+    if (S.timer) { clearInterval(S.timer); S.timer = null; }
+    el.start.textContent = '▶ 시작';
+    el.start.disabled = false;
+    el.pause.disabled = true;
+    el.pause.textContent = '⏸ 일시정지';
+    if (S.wakeLock) try { S.wakeLock.release(); S.wakeLock = null; } catch(e) {}
 }
-
-// ===== Wake Lock =====
-async function requestWakeLock() {
-    try {
-        if ('wakeLock' in navigator) {
-            state.wakeLock = await navigator.wakeLock.request('screen');
-        }
-    } catch (e) {}
-}
-
-function releaseWakeLock() {
-    if (state.wakeLock) {
-        try { state.wakeLock.release(); } catch(e) {}
-        state.wakeLock = null;
-    }
-}
-
-document.addEventListener('visibilitychange', () => {
-    if (state.isPlaying && !state.isPaused && document.visibilityState === 'visible') {
-        requestWakeLock();
-    }
-});
 
 // ===== Mode Change =====
 function changeMode(newMode) {
-    if (state.isPlaying && !state.isPaused) {
+    if (S.playing && !S.paused) {
         alert('재생 중에는 모드를 변경할 수 없습니다. 일시정지 후 변경하세요.');
-        el.modeSelector.value = currentMode;
+        el.mode.value = curMode;
         return;
     }
-    // 일시정지 중이면 정지 처리
-    if (state.isPlaying && state.isPaused) {
-        stop();
-    }
+    if (S.playing && S.paused) stop();
     saveProgress();
-    currentMode = newMode;
-    document.getElementById('modeInfo').textContent = LEARNING_MODES[currentMode].description;
+    curMode = newMode;
     loadModeProgress(newMode);
+    syncSettingsUI();
     updateUI();
+    showStatus(MODES[newMode].desc + ' 모드로 변경됨', 'normal');
 }
 
 // ===== Auto Update =====
 let latestRelease = null;
-
-async function checkForUpdate() {
+async function checkUpdate() {
     try {
-        const resp = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/releases/latest`, { cache: 'no-store' });
-        if (!resp.ok) return;
-        const data = await resp.json();
-        const remoteVersion = data.tag_name.replace(/^v/, '');
-        if (remoteVersion !== APP_VERSION) {
-            latestRelease = data;
-            el.updateBanner.style.display = 'block';
-            el.updateBanner.textContent = `새 버전 v${remoteVersion} 업데이트 가능! 탭하여 다운로드`;
-        }
-    } catch (e) {}
+        const r = await fetch('https://api.github.com/repos/' + GITHUB_REPO + '/releases/latest', { cache: 'no-store' });
+        if (!r.ok) return;
+        const d = await r.json();
+        const v = d.tag_name.replace(/^v/, '');
+        if (v !== APP_VERSION) { latestRelease = d; el.banner.style.display = 'block'; el.banner.textContent = 'v' + v + ' 업데이트 가능! 탭하여 다운로드'; }
+    } catch(e) {}
 }
-
 function doUpdate() {
     if (!latestRelease) return;
-    const apkAsset = latestRelease.assets.find(a => a.name.endsWith('.apk'));
-    if (apkAsset) {
-        window.open(apkAsset.browser_download_url, '_system');
-    } else {
-        window.open(latestRelease.html_url, '_system');
-    }
+    const apk = latestRelease.assets && latestRelease.assets.find(a => a.name.endsWith('.apk'));
+    window.open(apk ? apk.browser_download_url : latestRelease.html_url, '_system');
 }
 
 // ===== Event Listeners =====
-el.startBtn.addEventListener('click', start);
-el.pauseBtn.addEventListener('click', togglePause);
-el.nextBtn.addEventListener('click', nextSentence);
-el.prevBtn.addEventListener('click', prevSentence);
-el.prevSectorBtn.addEventListener('click', prevSector);
-el.nextSectorBtn.addEventListener('click', nextSector);
-el.resetBtn.addEventListener('click', () => {
-    if (confirm('처음부터 다시 시작하시겠습니까?')) {
-        stop();
-        state.currentSector = 0;
-        state.currentSentenceIndex = 0;
-        state.timeLeft = getModeSetting('repeatDuration');
-        state.playCount = 0;
-        state.currentVoiceIndex = 0;
-        updateUI();
-        showStatus('처음으로 돌아갔습니다', 'normal');
+el.start.onclick = start;
+el.pause.onclick = togglePause;
+el.next.onclick = nextSentence;
+el.prev.onclick = prevSentence;
+el.nextSec.onclick = nextSector;
+el.prevSec.onclick = prevSector;
+el.reset.onclick = () => { if (confirm('처음부터 다시 시작하시겠습니까?')) { stop(); goTo(0, 0); showStatus('처음으로 돌아갔습니다', 'normal'); } };
+el.mode.onchange = (e) => changeMode(e.target.value);
+
+el.speed.onchange = (e) => {
+    S.speed = parseFloat(e.target.value);
+    if (audio && !audio.paused) audio.playbackRate = S.speed;
+    $('speedInfo').textContent = S.speed == 1 ? '1.0x (기본)' : S.speed + 'x';
+    saveSettings();
+};
+el.delayEl.onchange = (e) => {
+    S.delay = parseFloat(e.target.value);
+    $('delayInfo').textContent = S.delay == 0 ? '즉시' : S.delay == 1 ? '1초 (기본)' : S.delay + '초';
+    saveSettings();
+};
+el.rangeEl.onchange = (e) => {
+    S.range = e.target.value;
+    S.voiceIdx = 0;
+    const rl = { all: '전체 음성 반복 (7개)', '3': '최근 3개 음성만', '1': '현재 음성만 반복' };
+    $('repeatRangeInfo').textContent = rl[S.range];
+    saveSettings();
+};
+$('settingsToggle').onclick = () => $('settingsGrid').classList.toggle('show');
+
+// Re-acquire wake lock on visibility change
+document.addEventListener('visibilitychange', () => {
+    if (S.playing && !S.paused && document.visibilityState === 'visible') {
+        (async()=>{ try { if ('wakeLock' in navigator) S.wakeLock = await navigator.wakeLock.request('screen'); } catch(e) {} })();
     }
-});
-
-el.modeSelector.addEventListener('change', (e) => changeMode(e.target.value));
-
-el.speedSelector = document.getElementById('speedSelector');
-el.speedSelector.addEventListener('change', (e) => {
-    state.playbackSpeed = parseFloat(e.target.value);
-    if (currentSource) currentSource.playbackRate.value = state.playbackSpeed;
-    document.getElementById('speedInfo').textContent = state.playbackSpeed === 1 ? '1.0x (기본)' : `${state.playbackSpeed}x`;
-    saveSettings();
-});
-
-document.getElementById('delaySelector').addEventListener('change', (e) => {
-    state.repeatDelay = parseFloat(e.target.value);
-    const v = state.repeatDelay;
-    document.getElementById('delayInfo').textContent = v === 0 ? '0초 (즉시)' : v === 1 ? '1초 (기본)' : `${v}초`;
-    saveSettings();
-});
-
-document.getElementById('repeatRangeSelector').addEventListener('change', (e) => {
-    state.repeatRange = e.target.value;
-    state.currentVoiceIndex = 0;
-    const labels = { 'all': '전체 음성 반복 (7개)', '3': '최근 3개 음성만', '1': '현재 음성만 반복' };
-    document.getElementById('repeatRangeInfo').textContent = labels[state.repeatRange];
-    saveSettings();
-});
-
-document.getElementById('settingsToggle').addEventListener('click', () => {
-    document.getElementById('settingsGrid').classList.toggle('show');
 });
 
 // ===== Init =====
-async function initApp() {
-    el.versionInfo.textContent = `v${APP_VERSION}`;
+async function init() {
+    el.ver.textContent = 'v' + APP_VERSION;
+    loadSettings();
+    syncSettingsUI();
 
-    // Load sentences
     try {
-        const resp = await fetch('sentences.json');
-        allSentences = await resp.json();
-    } catch (e) {
-        showStatus('문장 데이터 로딩 실패', 'error');
-        return;
+        const r = await fetch('sentences.json');
+        allSentences = await r.json();
+    } catch(e) { showStatus('문장 데이터 로딩 실패', 'error'); return; }
+
+    // NativeAudio init (Android)
+    for (let i = 0; i < 20 && !window.NativeAudio; i++) await new Promise(r => setTimeout(r, 100));
+    if (window.NativeAudio) {
+        for (let i = 0; i < 30; i++) { try { if (window.NativeAudio.isReady()) { showStatus('백그라운드 재생 준비 완료!', 'normal'); break; } } catch(e) {} await new Promise(r => setTimeout(r, 100)); }
     }
 
-    // Restore settings UI
-    document.getElementById('speedSelector').value = state.playbackSpeed;
-    document.getElementById('delaySelector').value = state.repeatDelay;
-    document.getElementById('repeatRangeSelector').value = state.repeatRange;
-
-    // Init native audio
-    const nativeOk = await initNativeAudio();
-    if (nativeOk) {
-        showStatus('백그라운드 재생 준비 완료!', 'normal');
-    }
-
-    // Load saved progress
-    const hasProgress = loadProgress();
-    if (hasProgress) {
-        showStatus('이전 학습 위치를 불러왔습니다!', 'normal');
-    }
-
+    if (loadProgress()) showStatus('이전 학습 위치를 불러왔습니다!', 'normal');
+    syncSettingsUI();
     updateUI();
-    checkForUpdate();
+    checkUpdate();
 }
-
-initApp();
+init();
 </script>
 </body>
 </html>
