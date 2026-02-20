@@ -152,7 +152,7 @@
             <div class="setting-card">
                 <h3>반복 범위</h3>
                 <select id="repeatRangeSelector">
-                    <option value="all" selected>전체 음성 (8개)</option>
+                    <option value="all" selected>전체 음성 (7개)</option>
                     <option value="3">최근 3개 음성</option>
                     <option value="1">현재 음성만</option>
                 </select>
@@ -190,7 +190,7 @@
         <div class="voice-info">
             <div class="label">현재 재생 목소리</div>
             <div class="accent" id="currentAccent">미국 성인 여자</div>
-            <div class="note">한 문장당 8가지 목소리 순환 재생</div>
+            <div class="note">한 문장당 7가지 목소리 순환 재생</div>
         </div>
 
         <div class="timer-progress">
@@ -222,7 +222,7 @@ const APP_VERSION = '1.0.0';
 const GITHUB_REPO = 'insushim/iwlisten';
 
 // ===== Voice Config =====
-const VOICES = ['us-woman', 'us-man', 'us-girl', 'us-boy', 'uk', 'au', 'in', 'latam'];
+const VOICES = ['us-woman', 'us-man', 'us-girl', 'us-boy', 'uk', 'au', 'in'];
 const VOICE_NAMES = {
     'us-woman': '미국 성인 여자',
     'us-man': '미국 성인 남자',
@@ -230,8 +230,7 @@ const VOICE_NAMES = {
     'us-boy': '미국 어린 남자',
     'uk': '영국 영어',
     'au': '호주 영어',
-    'in': '인도 영어',
-    'latam': '라틴 아메리카'
+    'in': '인도 영어'
 };
 
 // ===== Learning Modes =====
@@ -724,10 +723,14 @@ document.addEventListener('visibilitychange', () => {
 
 // ===== Mode Change =====
 function changeMode(newMode) {
-    if (state.isPlaying) {
-        alert('학습 중에는 모드를 변경할 수 없습니다.');
+    if (state.isPlaying && !state.isPaused) {
+        alert('재생 중에는 모드를 변경할 수 없습니다. 일시정지 후 변경하세요.');
         el.modeSelector.value = currentMode;
         return;
+    }
+    // 일시정지 중이면 정지 처리
+    if (state.isPlaying && state.isPaused) {
+        stop();
     }
     saveProgress();
     currentMode = newMode;
@@ -803,7 +806,7 @@ document.getElementById('delaySelector').addEventListener('change', (e) => {
 document.getElementById('repeatRangeSelector').addEventListener('change', (e) => {
     state.repeatRange = e.target.value;
     state.currentVoiceIndex = 0;
-    const labels = { 'all': '전체 음성 반복 (8개)', '3': '최근 3개 음성만', '1': '현재 음성만 반복' };
+    const labels = { 'all': '전체 음성 반복 (7개)', '3': '최근 3개 음성만', '1': '현재 음성만 반복' };
     document.getElementById('repeatRangeInfo').textContent = labels[state.repeatRange];
     saveSettings();
 });
