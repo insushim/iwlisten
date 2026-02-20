@@ -431,23 +431,52 @@ async function initNativeAudio() {
     return false;
 }
 
-// ===== Audio Playback =====
+// ===== Audio Playback (Web Audio API for clean speed change) =====
+let audioCtx = null;
+let currentSource = null;
+const audioBufferCache = new Map();
+
+function getAudioCtx() {
+    if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    if (audioCtx.state === 'suspended') audioCtx.resume();
+    return audioCtx;
+}
+
 function getAudioPath(sentenceIndex, voice) {
     const num = String(sentenceIndex + 1).padStart(3, '0');
     return `audio/${num}-${voice}.mp3`;
 }
 
 function stopCurrentAudio() {
+    if (currentSource) {
+        try { currentSource.stop(); } catch(e) {}
+        currentSource = null;
+    }
     if (state.currentAudio) {
         state.currentAudio.pause();
         state.currentAudio.onended = null;
         state.currentAudio.onerror = null;
-        state.currentAudio.src = '';
         state.currentAudio = null;
     }
     if (state.nativeAudioReady) {
         try { window.NativeAudio.stop(); } catch(e) {}
     }
+}
+
+async function fetchAudioBuffer(url) {
+    if (audioBufferCache.has(url)) return audioBufferCache.get(url);
+    const resp = await fetch(url);
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}: ${url}`);
+    const arrayBuf = await resp.arrayBuffer();
+    const ctx = getAudioCtx();
+    const audioBuf = await ctx.decodeAudioData(arrayBuf);
+    audioBufferCache.set(url, audioBuf);
+    // Keep cache under 100 entries
+    if (audioBufferCache.size > 100) {
+        const first = audioBufferCache.keys().next().value;
+        audioBufferCache.delete(first);
+    }
+    return audioBuf;
 }
 
 async function playCurrentSentence() {
@@ -463,7 +492,6 @@ async function playCurrentSentence() {
         el.currentAccent.textContent = VOICE_NAMES[voice];
 
         if (state.nativeAudioReady) {
-            // Native playback (background supported)
             const nativePath = `public/${getAudioPath(sentenceIndex, voice)}`;
             try {
                 window.NativeAudio.play(nativePath);
@@ -471,38 +499,42 @@ async function playCurrentSentence() {
                 updateUI();
                 showStatus('재생 중 (백그라운드 지원)', 'normal');
                 state.isLoadingAudio = false;
-                // NativeAudio completion callback will call handlePlaybackComplete
-                // If no callback, use estimated duration
-                setTimeout(() => {
-                    if (state.isPlaying && !state.isPaused) handlePlaybackComplete();
-                }, 4000);
-                return;
-            } catch(e) {
-                // Fallback to HTML5
-            }
+                return; // onNativeAudioComplete handles next
+            } catch(e) {}
         }
 
-        // HTML5 Audio (foreground only)
+        // Web Audio API playback (clean speed, no popping)
         stopCurrentAudio();
         const audioPath = getAudioPath(sentenceIndex, voice);
-        state.currentAudio = new Audio(audioPath);
-        state.currentAudio.playbackRate = state.playbackSpeed;
 
-        state.currentAudio.onended = () => handlePlaybackComplete();
-        state.currentAudio.onerror = (e) => {
-            console.error('Audio error:', audioPath, e);
+        try {
+            const buffer = await fetchAudioBuffer(audioPath);
+            const ctx = getAudioCtx();
+            const source = ctx.createBufferSource();
+            source.buffer = buffer;
+            source.playbackRate.value = state.playbackSpeed;
+            source.connect(ctx.destination);
+
+            source.onended = () => {
+                if (currentSource === source) currentSource = null;
+                handlePlaybackComplete();
+            };
+
+            currentSource = source;
+            source.start(0);
+
+            state.playCount++;
+            updateUI();
+            showStatus('재생 중', 'normal');
             state.isLoadingAudio = false;
-            // Try next voice on error
+        } catch (fetchErr) {
+            console.error('Audio fetch error:', audioPath, fetchErr);
+            state.isLoadingAudio = false;
+            // Skip to next voice on error
             setTimeout(() => {
                 if (state.isPlaying && !state.isPaused) handlePlaybackComplete();
-            }, 1000);
-        };
-
-        await state.currentAudio.play();
-        state.playCount++;
-        updateUI();
-        showStatus('재생 중', 'normal');
-        state.isLoadingAudio = false;
+            }, 500);
+        }
     } catch (error) {
         console.error('Play error:', error);
         state.isLoadingAudio = false;
@@ -616,6 +648,8 @@ function prevSector() {
 
 // ===== Play/Pause/Stop =====
 async function start() {
+    // Initialize AudioContext on user gesture (required by iOS Safari)
+    getAudioCtx();
     state.isPlaying = true;
     state.isPaused = false;
     el.startBtn.disabled = true;
@@ -631,7 +665,8 @@ function togglePause() {
     state.isPaused = !state.isPaused;
     if (state.isPaused) {
         el.pauseBtn.textContent = '▶ 재개';
-        if (state.currentAudio) state.currentAudio.pause();
+        // Web Audio API: suspend context to pause
+        if (audioCtx && audioCtx.state === 'running') audioCtx.suspend();
         if (state.nativeAudioReady) try { window.NativeAudio.pause(); } catch(e) {}
         showStatus('일시정지됨', 'normal');
         releaseWakeLock();
@@ -639,8 +674,11 @@ function togglePause() {
         el.pauseBtn.textContent = '⏸ 일시정지';
         showStatus('학습 진행 중...', 'normal');
         requestWakeLock();
-        if (state.currentAudio && state.currentAudio.paused && state.currentAudio.src) {
-            state.currentAudio.play().catch(() => playCurrentSentence());
+        // Web Audio API: resume context
+        if (audioCtx && audioCtx.state === 'suspended') {
+            audioCtx.resume().then(() => {
+                if (!currentSource) playCurrentSentence();
+            });
         } else if (state.nativeAudioReady) {
             try { window.NativeAudio.resume(); } catch(e) { playCurrentSentence(); }
         } else {
@@ -750,7 +788,7 @@ el.modeSelector.addEventListener('change', (e) => changeMode(e.target.value));
 el.speedSelector = document.getElementById('speedSelector');
 el.speedSelector.addEventListener('change', (e) => {
     state.playbackSpeed = parseFloat(e.target.value);
-    if (state.currentAudio) state.currentAudio.playbackRate = state.playbackSpeed;
+    if (currentSource) currentSource.playbackRate.value = state.playbackSpeed;
     document.getElementById('speedInfo').textContent = state.playbackSpeed === 1 ? '1.0x (기본)' : `${state.playbackSpeed}x`;
     saveSettings();
 });
