@@ -103,8 +103,10 @@ class MainActivity : ComponentActivity() {
                     // Simple JSON parsing for tag_name
                     val tagMatch = Regex("\"tag_name\"\\s*:\\s*\"v?([^\"]+)\"").find(response)
                     val latestVersion = tagMatch?.groupValues?.get(1) ?: return@Thread
+                    val currentVersion = packageManager
+                        .getPackageInfo(packageName, 0)
+                        .versionName ?: "0.0.0"
 
-                    val currentVersion = BuildConfig.VERSION_NAME
                     if (latestVersion != currentVersion && compareVersions(latestVersion, currentVersion) > 0) {
                         // Find APK download URL
                         val apkMatch = Regex("\"browser_download_url\"\\s*:\\s*\"([^\"]+\\.apk)\"").find(response)
