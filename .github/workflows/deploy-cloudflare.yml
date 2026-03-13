@@ -1,0 +1,49 @@
+name: Deploy to Cloudflare Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Checkout LFS objects
+        run: git lfs checkout
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Compute deploy version
+        id: version
+        run: |
+          BASE_VERSION=$(node -p "require('./package.json').version")
+          MAJOR_MINOR=$(echo "$BASE_VERSION" | awk -F. '{print $1 "." $2}')
+          RELEASE_VERSION="${MAJOR_MINOR}.${GITHUB_RUN_NUMBER}"
+          echo "release_version=$RELEASE_VERSION" >> $GITHUB_OUTPUT
+          echo "release_code=$GITHUB_RUN_NUMBER" >> $GITHUB_OUTPUT
+
+      - name: Stamp web version
+        env:
+          RELEASE_VERSION: ${{ steps.version.outputs.release_version }}
+          RELEASE_CODE: ${{ steps.version.outputs.release_code }}
+        run: node scripts/stamp-version.js
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy www --project-name=iwlisten --commit-dirty=true

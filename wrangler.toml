@@ -1,0 +1,8 @@
+name = "iwlisten"
+compatibility_date = "2024-12-01"
+pages_build_output_dir = "www"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "iwlisten-db"
+database_id = "REPLACE_WITH_D1_ID"

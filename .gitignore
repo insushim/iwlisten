@@ -1,7 +1,7 @@
 # Dependencies
 node_modules/
 
-# Android build outputs & auto-generated
+# Old Capacitor Android (replaced by webview-apk)
 android/app/build/
 android/.gradle/
 android/build/
@@ -9,12 +9,19 @@ android/capacitor-cordova-android-plugins/
 android/capacitor-android/
 android/app/src/main/assets/
 
+# WebView APK build outputs
+webview-apk/.gradle/
+webview-apk/app/build/
+webview-apk/build/
+webview-apk/local.properties
+
 # Signing keys
 *.keystore
 *.jks
 
 # Built APKs (release artifacts)
 ISW-English-*.apk
+*.idsig
 
 # IDE
 .idea/
@@ -28,3 +35,6 @@ Thumbs.db
 # Misc
 *.log
 apk_analysis/
+
+# Cloudflare
+.wrangler/

@@ -1,25 +1,29 @@
 {
   "name": "iwlisten",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "ISW 영어 듣고 말하기 - 실전 영어회화 학습 앱",
   "main": "index.js",
   "scripts": {
-    "build": "echo 'Static web app - no build needed'",
-    "cap:add": "npx cap add android",
-    "cap:sync": "npx cap sync android",
-    "cap:open": "npx cap open android"
+    "dev": "npx wrangler pages dev www",
+    "deploy": "npx wrangler pages deploy www --project-name=iwlisten --commit-message=\"manual deploy\"",
+    "d1:create": "npx wrangler d1 create iwlisten-db",
+    "d1:migrate": "npx wrangler d1 execute iwlisten-db --file=d1/schema.sql",
+    "d1:migrate:local": "npx wrangler d1 execute iwlisten-db --file=d1/schema.sql --local",
+    "icons": "node generate-icons.js",
+    "stamp:version": "node scripts/stamp-version.js",
+    "build:apk": "wsl bash build-apk-wsl.sh"
   },
   "keywords": [
     "english",
     "learning",
-    "audio"
+    "audio",
+    "pwa"
   ],
   "author": "insushim",
   "license": "MIT",
   "type": "commonjs",
-  "dependencies": {
-    "@capacitor/android": "^6.2.1",
-    "@capacitor/cli": "^6.2.1",
-    "@capacitor/core": "^6.2.1"
+  "devDependencies": {
+    "sharp": "^0.34.5",
+    "wrangler": "^3.114.17"
   }
 }
